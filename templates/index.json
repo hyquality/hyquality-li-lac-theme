@@ -240,7 +240,7 @@
         "align_text": "center",
         "round_images": true,
         "color_scheme": "2",
-        "enable_slider_script": true,
+        "enable_slider_script": false,
         "items_per_row": "small",
         "show_top_border": false,
         "show_bottom_border": true
