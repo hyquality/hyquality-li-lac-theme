@@ -1,0 +1,9 @@
+<div class="footer__title">
+    {%- if block.settings.title -%}
+        {{ block.settings.title }}
+    {%- endif -%}
+</div>
+
+{%- if block.settings.content -%}
+        <p>{{ block.settings.content }}</p>
+{%- endif -%}

@@ -1,0 +1,157 @@
+{%- if section.settings.divider -%}
+<div class="section--divider">{%- endif -%}
+    {% if section.settings.show_top_border or section.settings.show_bottom_border %}
+    <div class="border-decorator {% if section.settings.show_top_border %}show_top_border {% endif %}{% if section.settings.show_bottom_border %}show_bottom_border{% endif %}">
+        {% endif %}
+    <div class="page-width">
+        {%- if section.settings.title != blank -%}
+            <div class="section-header">
+                <h2 class="section-header__title {% if section.settings.center_title %}center_title{% endif %}">{{ section.settings.title }}</h2>
+            </div>
+        {%- endif -%}
+
+        <div class="new-grid" data-view="{{ section.settings.items_per_row }}">
+            {%- liquid
+                assign isEmpty = true
+                if section.blocks.size > 0
+                assign isEmpty = false
+                endif -%}
+
+            {%- for block in section.blocks -%}
+                {%- liquid
+                    assign collection = collections[block.settings.collection]
+                    render 'collection-grid-item', collection: collection, block: block -%}
+            {%- endfor -%}
+
+            {%- if isEmpty -%}
+                <div class="page-width">
+                    <div class="rte">
+                        {{ 'home_page.onboarding.no_content' | t }}
+                    </div>
+                </div>
+            {%- endif -%}
+
+        </div>
+    </div>
+        {% if section.settings.show_top_border or section.settings.show_bottom_border %}
+    </div>
+    {% endif %}
+    {%- if section.settings.divider -%}</div>{%- endif -%}
+
+{% schema %}
+{
+  "name": "Collection list",
+  "class": "index-section",
+  "max_blocks": 16,
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading",
+      "default": "Popular categories"
+    },
+    {
+      "type": "checkbox",
+      "id": "center_title",
+      "label": "Center the title",
+      "default": false
+    },
+    {
+      "type": "select",
+      "id": "items_per_row",
+      "label": "Items per row",
+      "default": "small",
+      "options": [
+        {
+          "value": "large",
+          "label": "2 per row"
+        },
+        {
+          "value": "medium",
+          "label": "3 per row"
+        },
+        {
+          "value": "small",
+          "label": "4 per row"
+        },
+        {
+          "value": "xsmall",
+          "label": "5 per row"
+        },
+        {
+          "value": "6-3",
+          "label": "6 per row"
+        }
+      ]
+    },
+    {
+      "type": "checkbox",
+      "id": "divider",
+      "label": "Show section divider",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "show_top_border",
+      "label": "Show top gold border",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "show_bottom_border",
+      "label": "Show bottom gold border",
+      "default": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "collection",
+      "name": "Collection",
+      "settings": [
+        {
+          "id": "collection",
+          "type": "collection",
+          "label": "Collection",
+          "info": "Image source can be adjusted under Theme Settings > Collection Tiles"
+        },
+        {
+          "type": "image_picker",
+          "id": "custom_image",
+          "label": "Custom Image"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "info": "Defaults to collection title"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Collection list",
+      "blocks": [
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

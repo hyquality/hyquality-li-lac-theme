@@ -1,0 +1,344 @@
+{
+  "sections": {
+    "163129050352bbb897": {
+      "type": "slideshow",
+      "blocks": {
+        "163129050352bbb897-0": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 70,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/contact",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/LiLac_070318_BacktoSchool2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/LiLac_070318_BacktoSchool2.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "bc6c5d07-0368-482f-a64d-a73a64d61ea3": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 70,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/corpgifts-mobile.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "163129050352bbb897-0",
+        "bc6c5d07-0368-482f-a64d-a73a64d61ea3"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "show_top_border": false,
+        "show_bottom_border": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "birthday-chocolates",
+            "custom_image": "shopify:\/\/shop_images\/BirthdayGifts_1000x500_V2.jpg",
+            "title": ""
+          }
+        },
+        "176cd396-dec3-4925-8f38-1356d6c9c616": {
+          "type": "collection",
+          "settings": {
+            "collection": "curated-corporate-gifts",
+            "custom_image": "shopify:\/\/shop_images\/CorporateGifts_1000x500_V2.jpg",
+            "title": ""
+          }
+        },
+        "9e5ef8a7-22f0-4af4-a93a-c93f5b493d71": {
+          "type": "collection",
+          "settings": {
+            "collection": "thank-you-chocolates",
+            "custom_image": "shopify:\/\/shop_images\/ThankYouGifts_1000x500_V2.jpg",
+            "title": ""
+          }
+        },
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "chocolate-baby-gifts",
+            "title": ""
+          }
+        },
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "dutch-sinterklaas",
+            "title": ""
+          }
+        },
+        "featured-collections-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "chocolate-food",
+            "title": ""
+          }
+        },
+        "featured-collections-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "social-awareness-chocolate",
+            "title": ""
+          }
+        },
+        "featured-collections-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "chocolate-politics",
+            "title": ""
+          }
+        },
+        "429f33ee-6f62-4627-9c99-efc5af77d4d1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "c8f2d576-ccfc-4484-93a2-48e2dc208b19": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "829ae1a1-6d9e-4891-93e6-8e4b6016e9a2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "e2d63409-902d-4da8-a5d7-abf4c299918a": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-1",
+        "176cd396-dec3-4925-8f38-1356d6c9c616",
+        "9e5ef8a7-22f0-4af4-a93a-c93f5b493d71",
+        "featured-collections-0",
+        "featured-collections-2",
+        "featured-collections-3",
+        "featured-collections-4",
+        "featured-collections-5",
+        "429f33ee-6f62-4627-9c99-efc5af77d4d1",
+        "c8f2d576-ccfc-4484-93a2-48e2dc208b19",
+        "829ae1a1-6d9e-4891-93e6-8e4b6016e9a2",
+        "e2d63409-902d-4da8-a5d7-abf4c299918a"
+      ],
+      "settings": {
+        "title": "Shop Our Categories",
+        "center_title": true,
+        "items_per_row": "small",
+        "divider": false,
+        "show_top_border": false,
+        "show_bottom_border": false
+      }
+    },
+    "1631547755f3a00dd9": {
+      "type": "hero-video",
+      "settings": {
+        "full_width": true,
+        "title": "Our Story",
+        "title_size": 51,
+        "subheading": "Manhattan's Oldest Chocolate House, preserving the heritage and traditions of old-school, hand-crafted chocolate for almost 100 years. Using original recipes and old-world cooking methods from the 1920's, Li-Lac Chocolates are still made by hand in small batches for exceptional quality and superior taste.",
+        "link_text": "Learn More",
+        "link": "#",
+        "color_accent": "#ffffff",
+        "text_align": "vertical-center horizontal-left",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=hNBBubFK-e0",
+        "overlay_opacity": 26,
+        "height": 700,
+        "height_mobile": 300,
+        "show_top_border": true,
+        "show_bottom_border": true
+      }
+    },
+    "1631548037b57a3846": {
+      "type": "testimonials",
+      "blocks": {
+        "1631548037b57a3846-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p><em><strong>It's my favorite chocolate place in the city<\/strong><\/em><\/p>",
+            "author": "- Andy Cohen, Bravo",
+            "author_info": ""
+          }
+        },
+        "1631548037b57a3846-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p><em><strong>An anomaly in NY's artisanal chocolate culture<\/strong><\/em><\/p>",
+            "author": "- The Wall Street Journal",
+            "author_info": ""
+          }
+        },
+        "1631548037b57a3846-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p><em><strong>Li-Lac French Mints are a guaranteed hostess-gift hit<\/strong><\/em><\/p>",
+            "author": "- Martha Stewart Living",
+            "author_info": ""
+          }
+        },
+        "1631548037b57a3846-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p><em><strong>A New York Chocolate Wonderland<\/strong><\/em><\/p>",
+            "author": "- The Times of London",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "1631548037b57a3846-0",
+        "1631548037b57a3846-1",
+        "1631548037b57a3846-2",
+        "1631548037b57a3846-3"
+      ],
+      "settings": {
+        "title": "Heading Here",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2",
+        "enable_slider_script": true,
+        "items_per_row": "small",
+        "show_top_border": false,
+        "show_bottom_border": true
+      }
+    },
+    "16315485906a37b283": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Chocolate of the Month Club",
+        "text": "<p>Join our Chocolate of the Month Club  and receive a delicious monthly selection of fresh gourmet chocolate, shipped directly from our factory to your home. This is a chocolate lover's dream come true! Monthly subscriptions include seasonally-themed chocolates along with everyday favorites.<\/p>",
+        "button_label": "Learn More",
+        "button_link": "#",
+        "image": "shopify:\/\/shop_images\/ChocMonth2.jpg",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 550,
+        "parallax": false,
+        "show_top_border": false,
+        "show_bottom_border": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Products",
+        "home_featured_products": "frontpage",
+        "count": 5,
+        "show_collection_description": true,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false,
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "border_padding": false
+      }
+    },
+    "16315486630a81ad88": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Corporate Gifts",
+        "text": "<p>When you're looking to send a thoughtful gift that proudly represents your company or need a customized chocolate gift with your logo or product image, Li-Lac Chocolates has the experience, knowledge, & expertise to guide you every step of the way. Our corporate gifting team will handle every step from selecting the gift, creating a note, managing a recipient list, and providing real-time tracking info.<\/p>",
+        "button_label": "Learn More",
+        "button_link": "#",
+        "image": "shopify:\/\/shop_images\/CorporateGifts.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "parallax": false,
+        "show_top_border": true,
+        "show_bottom_border": true
+      }
+    },
+    "16324933478eeda884": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Visit Our Stores",
+        "text": "<p>When you're in the New York area, plan a stop at one of our NYC chocolate stores, or visit our chocolate factory in Sunset Park, Brooklyn.<\/p><p><\/p><p>West Village • Bleecker Street • Hudson Yards • Chelsea Market • Grand Central Market • Industry City<\/p>",
+        "button_label": "View Locations",
+        "button_link": "#",
+        "image": "shopify:\/\/shop_images\/VisitOurStores_a9c9d2c3-91b3-4cb6-8610-eb345e999e3a.jpg",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 550,
+        "parallax": false,
+        "show_top_border": false,
+        "show_bottom_border": true
+      }
+    },
+    "1632493588920c44db": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Same Day Delivery",
+        "text": "<p>For same day delivery within Manhattan, shop through one of our NYC delivery partners for fast, reliable service.<\/p><p><\/p><p><a href=\"http:\/\/menus.fyi\/2755934\" target=\"_blank\" title=\"GrubHub\">GrubHub<\/a> • <a href=\"https:\/\/www.mercato.com\/shop\/li-lac-chocolates-greenwich-avenue\" target=\"_blank\" title=\"Mercato\">Mercato<\/a> • <a href=\"https:\/\/www.ubereats.com\/search?q=li-lac\" target=\"_blank\" title=\"Uber Eats\">Uber Eats<\/a> • <a href=\"https:\/\/www.doordash.com\/en-US\" target=\"_blank\" title=\"DoorDash\">DoorDash<\/a><\/p>",
+        "button_label": "Learn More",
+        "button_link": "#",
+        "image": "shopify:\/\/shop_images\/SameDayDelivery.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "parallax": false,
+        "show_top_border": false,
+        "show_bottom_border": true
+      }
+    }
+  },
+  "order": [
+    "163129050352bbb897",
+    "featured-collections",
+    "1631547755f3a00dd9",
+    "1631548037b57a3846",
+    "16315485906a37b283",
+    "featured-collection",
+    "16315486630a81ad88",
+    "16324933478eeda884",
+    "1632493588920c44db"
+  ]
+}

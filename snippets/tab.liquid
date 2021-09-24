@@ -1,0 +1,39 @@
+<div class="collapsibles-wrapper">
+    <button type="button"
+            class="label collapsible-trigger collapsible-trigger-btn collapsible-trigger-btn--borders collapsible--auto-height"
+            aria-controls="Product-content-{{ id }}">
+        {{ title }}
+        {%- render 'collapsible-icons' -%}
+    </button>
+    <div id="Product-content-{{ id }}" class="collapsible-content collapsible-content--all">
+        <div class="collapsible-content__inner rte">
+
+            {% if show_file_src != blank %}
+                {% assign stripped_content = content | strip_html | strip_newlines | strip %}
+                {% assign preview_image = product.metafields.my_fields[stripped_content] %}
+
+                {% assign img_url = preview_image | img_url: 'master' %}
+
+                {% if img_url contains 'no-image' %}
+
+                {% else %}
+                    <img class="lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
+                         data-src="{{ img_url }}"
+                         data-widths="[160, 200, 280, 360, 540, 720, 900]"
+                         data-aspectratio="{{ preview_image.aspect_ratio }}"
+                         data-sizes="auto"
+                         alt="{{ preview_image.alt | escape }}">
+                    <noscript>
+                        <img class="grid-product__image lazyloaded"
+                             src="{{ preview_image | img_url: 'master' }}"
+                             alt="{{ preview_image.alt | escape }}">
+                    </noscript>
+                {% endif %}
+
+            {% else %}
+                {{ content }}
+            {% endif %}
+
+        </div>
+    </div>
+</div>
