@@ -99,9 +99,9 @@
           "type": "tab",
           "settings": {
             "title": "Nutrition Info",
-            "content": "",
+            "content": "<p>nutrition_info<\/p>",
             "page": "",
-            "show_file_src": false
+            "show_file_src": true
           }
         },
         "tab": {
