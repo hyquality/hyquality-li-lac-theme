@@ -17,7 +17,7 @@
                 {% if img_url contains 'no-image' %}
 
                 {% else %}
-                    <img class="lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
+                    <img class="tab-meta-image lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
                          data-src="{{ img_url }}"
                          data-widths="[160, 200, 280, 360, 540, 720, 900]"
                          data-aspectratio="{{ preview_image.aspect_ratio }}"
