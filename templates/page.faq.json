@@ -9,42 +9,48 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "faq-0": {
-          "type": "rich-text",
-          "settings": {
-            "title": "Shipping",
-            "text": ""
-          }
-        },
         "faq-1": {
           "type": "question",
           "settings": {
+            "title": "What Types of Chocolate Does Li-Lac Offer?",
+            "text": "<p><strong>• Dairy Free  (72%):<\/strong> A bitter-sweet chocolate with 72% cocoa solids made from West African cocoa beans aged to produce a surprisingly mellow and balanced flavor.<\/p><p><strong>• Dark (53%):<\/strong> A semi-sweet chocolate with 53% cocoa solids made from West African cocoa beans for a deliciously strong chocolate flavor.<\/p><p><strong>• Milk (32.5%): <\/strong>A sweet chocolate made with 32.5% cocoa solids from West African and Pacific-Rim cocoa beans for an intense milk chocolate flavor.<\/p><p><strong>• White (32%): <\/strong>A rich cocoa-butter based whole milk product with a delicate chocolate aroma and flavor.<\/p><p><strong>• Sugar Free:<\/strong> A dark chocolate sweetened with Maltitol, a sugar substitute.<\/p>"
           }
         },
         "faq-2": {
           "type": "question",
           "settings": {
-          }
-        },
-        "faq-3": {
-          "type": "rich-text",
-          "settings": {
-            "title": "Returns",
-            "text": ""
+            "title": "How Should I Store My Chocolate?",
+            "text": "<p>Li-Lac Chocolates should be stored in a cool, dry room at temperatures between 55-68 degrees, avoiding heat, sunlight, moisture, humidity, and ambient odors. At lower temperatures, chocolate may collect condensation which can accelerate the appearance of fat bloom. At warmer temperatures, chocolate can tend to soften and lose its gloss. Do not refrigerate as this can cause sugar bloom on the surface. If you live in a warm area and do not have air conditioning, you can place chocolate in a refrigerator by wrapping it in a dry kitchen towel to minimize humidity and odor absorption.<\/p>"
           }
         },
         "faq-4": {
           "type": "question",
           "settings": {
+            "title": "What is chocolate bloom?",
+            "text": "<p>There are two types of bloom common to chocolate: Fat Bloom and Sugar Bloom. Fat bloom can result when chocolate is exposed to fluctuating temperatures, producing a visible dull white film at the surface. Sugar bloom is a hard white surface film resulting from exposure to moisture formed by the dissolution and subsequent crystallization of sugar on the chocolate's surface. While fat bloom and sugar bloom affect the appearance of chocolate, the product remains perfectly safe to eat.<\/p>"
+          }
+        },
+        "f447f913-0f02-4694-8082-82c015bef0f7": {
+          "type": "question",
+          "settings": {
+            "title": "How Long Will Chocolate Stay Fresh?",
+            "text": "<p>When properly stored, solid milk chocolate will stay fresh for approximately nine months and solid dark chocolate will stay fresh for approximately one year. Our filled confections are guaranteed to be fresh for at least 21 days from purchase (except for Marzipan, Fudge and Truffles, which are guaranteed for 10 days).<\/p>"
+          }
+        },
+        "08885488-a006-433a-9cd0-14a6f3e59aee": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p><strong>• Dairy: <\/strong>Our milk, dark, white and sugar-free chocolate contains dairy ingredients. Our 72% Dairy Free chocolate is not made with dairy ingredients, but is processed on a machine that uses dairy ingredients for other products, and therefore may contain traces of dairy due to shared equipment.<\/p><p><strong>• Gluten: <\/strong>Our chocolate does not contain gluten; however, some of the items we make using chocolate may contain gluten (e.g. Chocolate Oreos, Chocolate Grahams). Please refer to the product page on our website to determine whether a specific item carries a 'gluten free' claim. Please also note, our chocolates are packed in a facility that processes items with wheat, and therefore may contain traces of gluten due to shared equipment.<\/p><p><strong>• Nuts: <\/strong>All our products are packed in a facility that processes tree nuts, peanuts and nut oils. Trace elements of nut ingredients may be present due to shared equipment.<\/p><p><strong>• Soy: <\/strong>Our chocolate does contain soy and we also use soy lecithin as an emulsifier.<\/p>"
           }
         }
       },
       "block_order": [
-        "faq-0",
         "faq-1",
         "faq-2",
-        "faq-3",
-        "faq-4"
+        "faq-4",
+        "f447f913-0f02-4694-8082-82c015bef0f7",
+        "08885488-a006-433a-9cd0-14a6f3e59aee"
       ],
       "settings": {
         "title": ""
