@@ -5,23 +5,6 @@
       "settings": {
       }
     },
-    "16330100644444b249": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/westvillage.jpg",
-        "image_width": 400,
-        "subtitle": "",
-        "title": "West Village",
-        "text": "<p><\/p><p><strong>Regular Hours:<\/strong><\/p><p>Monday-Thursday 11:00 a.m. - 7:00 p.m<br\/>Friday - Saturday 11:00 a.m. - 7:30 p.m<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "color_scheme": "1",
-        "divider": false
-      }
-    },
     "16330101843564ed6e": {
       "type": "map",
       "settings": {
@@ -32,11 +15,30 @@
         "show_button": true,
         "background_image_position": "center center"
       }
+    },
+    "16330101892d2978a9": {
+      "type": "advanced-content",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "163301092586593831": {
+      "type": "map",
+      "settings": {
+        "map_title": "Bleecker Street",
+        "address": "<p>(347) 609-0941<\/p><p>Regular Hours:<br\/><br\/>Monday-Friday 11:00 a.m. - 6:00 p.m.<br\/>Saturday 11:00 a.m. - 6:00 p.m.<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
+        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+        "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
     }
   },
   "order": [
     "main",
-    "16330100644444b249",
-    "16330101843564ed6e"
+    "16330101843564ed6e",
+    "16330101892d2978a9",
+    "163301092586593831"
   ]
 }
