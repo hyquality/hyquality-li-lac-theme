@@ -12,26 +12,36 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Get in touch"
+            "title": "Contact Us"
           }
         },
-        "text": {
+        "feec9bd8-c793-4b50-a7b6-ec1fdf50a3ee": {
           "type": "text",
           "settings": {
+            "enlarge_text": false,
+            "text": "<p>68 35th Street, Floor 1, Unit 18<br\/>Brooklyn, NY 11232<br\/><a href=\"tel:212 924-2280\">212 924-2280<\/a><br\/><a href=\"mailto:info@Li-LacChocolates.com\">info@Li-LacChocolates.com<\/a><\/p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "feec9bd8-c793-4b50-a7b6-ec1fdf50a3ee"
       ],
       "settings": {
-        "color_scheme": "none"
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "divider": false
       }
     },
     "form": {
       "type": "contact-form",
       "settings": {
+        "title": "",
+        "text": "<p>Fill out the form below and a representative will contact you by e-mail or phone within 24 business hours.<\/p>",
+        "show_phone": true,
+        "narrow_column": true,
+        "color_scheme": "1"
       }
     }
   },
