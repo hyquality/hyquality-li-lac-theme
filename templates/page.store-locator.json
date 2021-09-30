@@ -4,9 +4,39 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16330100644444b249": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/westvillage.jpg",
+        "image_width": 400,
+        "subtitle": "",
+        "title": "West Village",
+        "text": "<p><\/p><p><strong>Regular Hours:<\/strong><\/p><p>Monday-Thursday 11:00 a.m. - 7:00 p.m<br\/>Friday - Saturday 11:00 a.m. - 7:30 p.m<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "color_scheme": "1",
+        "divider": false
+      }
+    },
+    "16330101843564ed6e": {
+      "type": "map",
+      "settings": {
+        "map_title": "West Village",
+        "address": "<p><strong>Regular Hours:<\/strong><\/p><p>Monday-Thursday 11:00 a.m. - 7:00 p.m<br\/>Friday - Saturday 11:00 a.m. - 7:30 p.m<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
+        "map_address": "75 Greenwich Avenue, New York, NY 10014",
+        "api_key": "",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16330100644444b249",
+    "16330101843564ed6e"
   ]
 }
