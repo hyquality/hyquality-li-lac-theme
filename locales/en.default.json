@@ -9,6 +9,9 @@
     "locator": {
       "title": "Store Locator"
     },
+    "contact-icon": {
+      "title": "Contact Us"
+    },
     "meta": {
       "tags": "Tagged \"{{ tags }}\"",
       "page": "Page {{ page }}"
