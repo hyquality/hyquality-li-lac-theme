@@ -278,7 +278,7 @@
         "image": "shopify:\/\/shop_images\/ChocMonth2.jpg",
         "focal_point": "center",
         "layout": "right",
-        "height": 550,
+        "height": 450,
         "parallax": false,
         "show_top_border": false,
         "show_bottom_border": true
@@ -310,7 +310,7 @@
         "image": "shopify:\/\/shop_images\/CorporateGifts.jpg",
         "focal_point": "center",
         "layout": "left",
-        "height": 550,
+        "height": 450,
         "parallax": false,
         "show_top_border": true,
         "show_bottom_border": true
@@ -327,7 +327,7 @@
         "image": "shopify:\/\/shop_images\/VisitOurStores_a9c9d2c3-91b3-4cb6-8610-eb345e999e3a.jpg",
         "focal_point": "center",
         "layout": "right",
-        "height": 550,
+        "height": 450,
         "parallax": false,
         "show_top_border": false,
         "show_bottom_border": true
@@ -344,7 +344,7 @@
         "image": "shopify:\/\/shop_images\/SameDayDelivery.jpg",
         "focal_point": "center",
         "layout": "left",
-        "height": 550,
+        "height": 450,
         "parallax": false,
         "show_top_border": false,
         "show_bottom_border": true
