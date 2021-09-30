@@ -257,9 +257,9 @@
         "1631548037b57a3846-3"
       ],
       "settings": {
-        "title": "Heading Here",
+        "title": "",
         "align_text": "center",
-        "round_images": true,
+        "round_images": false,
         "color_scheme": "2",
         "enable_slider_script": false,
         "items_per_row": "small",
