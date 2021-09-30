@@ -216,8 +216,8 @@
         "1631548037b57a3846-0": {
           "type": "testimonial",
           "settings": {
-            "icon": "quote",
-            "testimonial": "<p><em><strong>It's my favorite chocolate place in the city<\/strong><\/em><\/p>",
+            "icon": "none",
+            "testimonial": "<p><em><strong>\"It's my favorite chocolate place in the city\"<\/strong><\/em><\/p>",
             "author": "- Andy Cohen, Bravo",
             "author_info": ""
           }
@@ -225,8 +225,8 @@
         "1631548037b57a3846-1": {
           "type": "testimonial",
           "settings": {
-            "icon": "quote",
-            "testimonial": "<p><em><strong>An anomaly in NY's artisanal chocolate culture<\/strong><\/em><\/p>",
+            "icon": "none",
+            "testimonial": "<p><em><strong>\"An anomaly in NY's artisanal chocolate culture\"<\/strong><\/em><\/p>",
             "author": "- The Wall Street Journal",
             "author_info": ""
           }
@@ -234,8 +234,8 @@
         "1631548037b57a3846-2": {
           "type": "testimonial",
           "settings": {
-            "icon": "quote",
-            "testimonial": "<p><em><strong>Li-Lac French Mints are a guaranteed hostess-gift hit<\/strong><\/em><\/p>",
+            "icon": "none",
+            "testimonial": "<p><em><strong>\"Li-Lac French Mints are a guaranteed hostess-gift hit\"<\/strong><\/em><\/p>",
             "author": "- Martha Stewart Living",
             "author_info": ""
           }
@@ -243,8 +243,8 @@
         "1631548037b57a3846-3": {
           "type": "testimonial",
           "settings": {
-            "icon": "quote",
-            "testimonial": "<p><em><strong>A New York Chocolate Wonderland<\/strong><\/em><\/p>",
+            "icon": "none",
+            "testimonial": "<p><em><strong>\"A New York Chocolate Wonderland\"<\/strong><\/em><\/p>",
             "author": "- The Times of London",
             "author_info": ""
           }
