@@ -283,6 +283,6 @@ footer.site-footer .footer__base-links .logo-list li a {
   font-size: 1em;
 }
 
-.footer__section {
+.footer__section.footer__section--border {
   background: #FFE07E;
 }
