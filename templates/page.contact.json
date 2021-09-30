@@ -6,15 +6,19 @@
       "settings": {
       }
     },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact Us",
+        "text": "<p>Fill out the form below and a representative will contact you by e-mail or phone within 24 business hours.<\/p>",
+        "show_phone": true,
+        "narrow_column": true,
+        "color_scheme": "none"
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Contact Us"
-          }
-        },
         "feec9bd8-c793-4b50-a7b6-ec1fdf50a3ee": {
           "type": "text",
           "settings": {
@@ -24,7 +28,6 @@
         }
       },
       "block_order": [
-        "heading",
         "feec9bd8-c793-4b50-a7b6-ec1fdf50a3ee"
       ],
       "settings": {
@@ -33,21 +36,11 @@
         "color_scheme": "none",
         "divider": false
       }
-    },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-        "title": "",
-        "text": "<p>Fill out the form below and a representative will contact you by e-mail or phone within 24 business hours.<\/p>",
-        "show_phone": true,
-        "narrow_column": true,
-        "color_scheme": "none"
-      }
     }
   },
   "order": [
     "main",
-    "rich-text",
-    "form"
+    "form",
+    "rich-text"
   ]
 }
