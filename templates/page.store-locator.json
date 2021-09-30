@@ -77,6 +77,37 @@
         "show_button": true,
         "background_image_position": "center center"
       }
+    },
+    "1633012792f5f51982": {
+      "type": "advanced-content",
+      "blocks": {
+        "1633012792f5f51982-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>&nbsp;<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1633012792f5f51982-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "163301292265210d67": {
+      "type": "map",
+      "settings": {
+        "map_title": "Chelsea Market",
+        "address": "<p><strong>75 9th Avenue (at 15th St.)<br\/>New York, NY 10011<\/strong><\/p><p><strong>(347) 991-8878<\/strong><\/p><p>Regular Hours:<br\/>Monday - Friday  11:00 a.m. - 7:00 p.m.<br\/>Saturday  11:00 a.m. - 7:00 p.m.<br\/>Sunday  11:00 a.m. - 7:00 p.m.<\/p>",
+        "map_address": "75 9th Avenue, New York, NY 10011",
+        "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
     }
   },
   "order": [
@@ -85,6 +116,8 @@
     "16330101892d2978a9",
     "163301092586593831",
     "1633012215d0d6b30f",
-    "1633012789d44be9d3"
+    "1633012789d44be9d3",
+    "1633012792f5f51982",
+    "163301292265210d67"
   ]
 }
