@@ -56,6 +56,27 @@
         "show_bottom_border": false
       }
     },
+    "16330081212e2a9b18": {
+      "type": "slideshow-image",
+      "blocks": {
+        "16330081212e2a9b18-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/LiLac_072021_CredentialsBanner_V2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "16330081212e2a9b18-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "style": "arrows",
+        "autoplay": false,
+        "autoplay_speed": 7
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -332,6 +353,7 @@
   },
   "order": [
     "163129050352bbb897",
+    "16330081212e2a9b18",
     "featured-collections",
     "1631547755f3a00dd9",
     "1631548037b57a3846",
