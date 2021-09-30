@@ -43,6 +43,55 @@
             "title": "Frequently asked question",
             "text": "<p><strong>• Dairy: <\/strong>Our milk, dark, white and sugar-free chocolate contains dairy ingredients. Our 72% Dairy Free chocolate is not made with dairy ingredients, but is processed on a machine that uses dairy ingredients for other products, and therefore may contain traces of dairy due to shared equipment.<\/p><p><strong>• Gluten: <\/strong>Our chocolate does not contain gluten; however, some of the items we make using chocolate may contain gluten (e.g. Chocolate Oreos, Chocolate Grahams). Please refer to the product page on our website to determine whether a specific item carries a 'gluten free' claim. Please also note, our chocolates are packed in a facility that processes items with wheat, and therefore may contain traces of gluten due to shared equipment.<\/p><p><strong>• Nuts: <\/strong>All our products are packed in a facility that processes tree nuts, peanuts and nut oils. Trace elements of nut ingredients may be present due to shared equipment.<\/p><p><strong>• Soy: <\/strong>Our chocolate does contain soy and we also use soy lecithin as an emulsifier.<\/p>"
           }
+        },
+        "8acb9afa-3a93-439b-9c34-b35cd5404d1d": {
+          "type": "question",
+          "settings": {
+            "title": "Are Your Chocolates Kosher?",
+            "text": "<p>Our factory is Kosher certified by the Orthodox Union. OU-D<\/p>"
+          }
+        },
+        "c7834ec1-ec7f-49e2-95a8-724d6379eb20": {
+          "type": "question",
+          "settings": {
+            "title": "Are Your Chocolates Vegan?",
+            "text": "<p>Our 72% Extra Dark Chocolate does not contain any dairy or animal products (however, products may contain traces of dairy due to shared equipment).<\/p>"
+          }
+        },
+        "35934405-37c8-451e-822a-cff841b702b1": {
+          "type": "question",
+          "settings": {
+            "title": "Do You Offer Same-Day Delivery Service?",
+            "text": "<p>We partner with several professional delivery services within Manhattan including UberEats, Mercato and Postmates.  To place an order for same-day delivery, please order directly through our partner sites. <\/p>"
+          }
+        },
+        "ed05ef8c-ca3b-4415-81c0-49c792dd15a3": {
+          "type": "question",
+          "settings": {
+            "title": "Do You Ship Internationally?",
+            "text": "<p>Yes, we are one of the few New York chocolate companies that ship worldwide.  Please be aware that international shipments may be subject to Customs delays and\/or international duties or taxes that are beyond our control. Unfortunately, we can not assume responsibility for any transit delays, damage or spoilage that may result from international delays. In addition, the recipient is responsible for any international duties, taxes, or customs fees that are collected C.O.D. upon delivery.  Please take these factors into consideration before placing an order for international shipment.<\/p>"
+          }
+        },
+        "c8331256-fc7c-46dc-a5f2-31d9365399b4": {
+          "type": "question",
+          "settings": {
+            "title": "Do You Make Custom Boxes or Gift Baskets?",
+            "text": "<p>We can make custom assortments and gift baskets to your specifications. Lead time is generally 2 - 4 weeks, depending on the item. Minimum quantities do apply. Contact us at <a href=\"mailto:info@li-lacchocolates.com\">info@li-lacchocolates.com <\/a>or call 212 924-2280 for information.<\/p>"
+          }
+        },
+        "25be7a4a-33fc-4551-8233-d35cd4f64d41": {
+          "type": "question",
+          "settings": {
+            "title": "Do You Wholesale Your Products?",
+            "text": "<p>If you are a retailer and would like to carry our products for resale, please contact us at: <a href=\"mailto:info@li-lacchocolates.com\">info@li-lacchocolates.com<\/a> for a wholesale catalog.<\/p>"
+          }
+        },
+        "a313159d-9eb1-476d-9e23-15b4a61cf3e6": {
+          "type": "question",
+          "settings": {
+            "title": "Do You Offer Factory Tours?",
+            "text": "<p>When you visit our factory, you will have a through-the-window view into our production facility where you can see our daily production. There is also a factory store where you are invited to sample fresh chocolate from our daily production and shop.  Production runs Monday - Friday from 9 am - 5 pm, and sometimes on Saturdays.<\/p><p>We also offer a private behind-the-scenes guided factory tour for groups of 8 or more. For pricing and other information, please visit the <a href=\"https:\/\/www.li-lacchocolates.com\/infopage.asp?page=70\">Our Factory<\/a> section of this website for more information.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -50,10 +99,17 @@
         "faq-2",
         "faq-4",
         "f447f913-0f02-4694-8082-82c015bef0f7",
-        "08885488-a006-433a-9cd0-14a6f3e59aee"
+        "08885488-a006-433a-9cd0-14a6f3e59aee",
+        "8acb9afa-3a93-439b-9c34-b35cd5404d1d",
+        "c7834ec1-ec7f-49e2-95a8-724d6379eb20",
+        "35934405-37c8-451e-822a-cff841b702b1",
+        "ed05ef8c-ca3b-4415-81c0-49c792dd15a3",
+        "c8331256-fc7c-46dc-a5f2-31d9365399b4",
+        "25be7a4a-33fc-4551-8233-d35cd4f64d41",
+        "a313159d-9eb1-476d-9e23-15b4a61cf3e6"
       ],
       "settings": {
-        "title": ""
+        "title": "Frequently Asked Questions"
       }
     }
   },
