@@ -154,6 +154,34 @@
         "full_width": false,
         "space_around": false
       }
+    },
+    "1633015406acfbf67f": {
+      "type": "rich-text",
+      "blocks": {
+        "1633015406acfbf67f-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "1633015406acfbf67f-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>When you are in New York City, we hope you get a chance to stop by one of our locations, sample our chocolate, and get a sense for what fresh, gourmet chocolate was meant to taste like!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1633015406acfbf67f-0",
+        "1633015406acfbf67f-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -162,6 +190,7 @@
     "1633014635fad6e3cd",
     "163301436033f67c78",
     "1633014973a57a4bd4",
-    "16330150702261ce29"
+    "16330150702261ce29",
+    "1633015406acfbf67f"
   ]
 }
