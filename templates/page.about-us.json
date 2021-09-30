@@ -4,9 +4,164 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "163301432713574d66": {
+      "type": "advanced-content",
+      "blocks": {
+        "163301432713574d66-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h3>Li-Lac Chocolates is Manhattan's oldest chocolate house.<\/h3>\n<p>Founded in 1923, Li-Lac Chocolates is a long-established artisan chocolate company specializing in small batch, hand-made chocolate and gifts with exceptional quality and superior taste. Chocolates are expertly crafted using the founder's original recipes, cooking techniques and quality ingredients. The selection of chocolate (more than 120 items) is one of the largest selections of fresh gourmet chocolate in America. Every delicious item is made by hand, locally in New York City, and guaranteed for freshness.<\/p>\n<p>The history of Li-Lac Chocolates dates back to 1923 when George Demetrious, a native of Greece who studied the art of chocolate making in France, emigrated to New York and opened his shop at 120 Christopher Street in the heart of Greenwich Village. During the 1920s, Greenwich Village was a destination for artists, intellectuals and innovators. It was in this context that Mr. Demetrious applied his chocolate-making expertise, creating and perfecting his recipes for such items as Almond Bark, Butter Crunch, Hazelnut Truffle Squares, Legendary Fudge, and other favorites, steadily building a loyal customer following among his quirky and demanding neighbors. Over the ensuing 9 decades, Li-Lac became a New York favorite. When trendy ingredients and mass production emerged as the model for the modern chocolatier, Li-Lac remained true to its history and tradition, eschewing automation and trendiness. Deemed \"stubbornly old fashioned\" by the Wall Street Journal, Li-Lac Chocolates is one of the few old-school chocolate companies to survive into the modern era.<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>",
+            "width": "75%",
+            "alignment": "top-middle"
+          }
+        },
+        "163301432713574d66-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GeorgeD.jpg",
+            "link": "",
+            "width": "25%",
+            "alignment": "top-middle"
+          }
+        }
+      },
+      "block_order": [
+        "163301432713574d66-1",
+        "163301432713574d66-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1633014635fad6e3cd": {
+      "type": "advanced-content",
+      "blocks": {
+        "1633014635fad6e3cd-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ButterCrunch_about.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "top-middle"
+          }
+        },
+        "1633014635fad6e3cd-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>Mr. Demetrious used large marble-top tables and copper kettles to perfect his signature recipes. He employed a staff of dippers and packers who contributed their own specialized care and attention to detail still found in every Li-Lac Chocolate box made today. When Demetrious passed away in 1972, he entrusted his recipes and beloved company to Marguerite Watt, his devoted employee of 25 years. Marguerite carried on Demetrious' high standards for chocolate making until she retired, selling the business to Edward Bond in 1978. Butter Crunch \"Edward Bond,\" Marguerite would often say, \"is the quintessential Southern gentleman.\" On many occasions, she told him that she wouldn't sell the company to just anyone: \"Whoever comes in here after me, will be seeing to it that quality, caring, and commitment still count.\" Bond was her man, a Mississippi native, who relocated to New York City, and a regular patron who purchased dessert items from Li-Lac for his catering business. Whenever he visited the store, he allowed other customers to be served first so he could stay behind and visit with Marguerite. During the years, they became good friends and she was convinced that Ed was the individual who best understood the importance of quality and respect for the Li-Lac tradition. Marguerite offered to sell him the business, and it wasn't long after that Bond became the third owner of Li-Lac Chocolates.<\/p>\n<p>&nbsp;<\/p>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1633014635fad6e3cd-0",
+        "1633014635fad6e3cd-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "163301436033f67c78": {
+      "type": "advanced-content",
+      "blocks": {
+        "163301436033f67c78-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>While upholding the company's tradition, Ed expanded the business and introduced a few items of his own, including Mr. Bond's Special Pralines. He also acquired a large selection of chocolate molds and designed Li-Lac's first signature floral gift box packaging. Loyal to both Demetrious and Marguerite, Ed kept in his employ all of the devoted staff who had been working at Li-Lac since Mr. Demetrious owned the shop. In 1981, Ed's sister, Martha, joined him in the chocolate-making business. For Martha, \"it was love at first sight!\". She quickly learned the old master's recipes, perfected his techniques, assisted customers, and helped Ed with day-to-day operations. Together, Martha and Ed developed new recipes - most notably the Specialty Truffles that are still a best-selling item today. Martha's efforts were recognized in 1996, when her recipe won an award for the \"Best Raspberry Truffle in the Tri-State Area.\" With their dual leadership, Li-Lac Chocolates continued to grow but never at the expense of freshness or quality.<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "163301436033f67c78-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EnroberHandDecorated_about.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "top-middle"
+          }
+        }
+      },
+      "block_order": [
+        "163301436033f67c78-1",
+        "163301436033f67c78-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1633014973a57a4bd4": {
+      "type": "advanced-content",
+      "blocks": {
+        "1633014973a57a4bd4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FudgeScoring_about.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "top-middle"
+          }
+        },
+        "1633014973a57a4bd4-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>After Ed's death in 1990, Martha Bond inherited the stewardship of Li-Lac Chocolates, nurturing the business and maintaining the same single-minded focus on product quality as Demetrious, Marguerite, and Ed. In 1999, she opened a second location in Grand Central Market, bringing Li-Lac Chocolates into the world's busiest train station. When rent became too high in 2005 to continue at the Christopher Street location, she had to make the most heart-wrenching decision in Li-Lac's history.  After eight decades, the iconic store was forced to relocate a few blocks north, while the production facility moved to Sunset Park, Brooklyn.  The move was difficult for everyone, but especially sad was moving away from P.S. 3 and St. Luke's Parish, who represented three generations of loyal Li-Lac customers. Our hearts continue to be touched by people who tell us of their fond memories of stopping by Li-Lac Chocolates on their way home from school! In 2009, Martha retired to Mississippi to be with her beloved grandchildren.<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>",
+            "width": "66%",
+            "alignment": "top-middle"
+          }
+        }
+      },
+      "block_order": [
+        "1633014973a57a4bd4-0",
+        "1633014973a57a4bd4-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "16330150702261ce29": {
+      "type": "advanced-content",
+      "blocks": {
+        "16330150702261ce29-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>Today, Li-Lac Chocolates is in the care of three local New York City residents: Anthony Cirone, Anwar Khoder and Christopher Taylor.  Anthony is a resident of the West Village who began shopping at Li-Lac Chocolates when he first moved to New York in the early '90s.  He loved the chocolates so much, that in 2011 he bought the company, along with his two partners. Anwar began working at Li-Lac Chocolates in 1989 and today is the company's Master Chocolatier.  Christopher has a background in finance and works behind the scenes to nurture and grow the company.  Together this trio represents the new generation of Li-Lac owners; and, as their predecessors before them, they are committed to retaining the old-school chocolate making processes that makes Li-Lac Chocolates so special and unique. In 2014, the company built a new chocolate factory at Industry City (Sunset Park, Brooklyn) where customers can look in through oversize windows and see the chocolate-making in action. In 2015, they opened a store on Bleecker Street in Greenwich Village; in 2016 they opened another store in Chelsea Market; and in 2019 they opened a sixth store in Hudson Yards.<\/p>",
+            "width": "66%",
+            "alignment": "top-middle"
+          }
+        },
+        "16330150702261ce29-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HazelTruffSqsCoatChoc_about.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16330150702261ce29-1",
+        "16330150702261ce29-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "163301432713574d66",
+    "1633014635fad6e3cd",
+    "163301436033f67c78",
+    "1633014973a57a4bd4",
+    "16330150702261ce29"
   ]
 }
