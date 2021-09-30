@@ -9,7 +9,7 @@
       "type": "map",
       "settings": {
         "map_title": "West Village",
-        "address": "<p><strong>Regular Hours:<\/strong><\/p><p>Monday-Thursday 11:00 a.m. - 7:00 p.m<br\/>Friday - Saturday 11:00 a.m. - 7:30 p.m<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
+        "address": "<p><strong>75 Greenwich Avenue <br\/>New York, NY 10014 <\/strong><\/p><p><strong>(347) 609-0942<\/strong><\/p><p>Regular Hours:<br\/>Monday-Thursday 11:00 a.m. - 7:00 p.m<br\/>Friday - Saturday 11:00 a.m. - 7:30 p.m<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
         "map_address": "75 Greenwich Avenue, New York, NY 10014",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
@@ -18,17 +18,30 @@
     },
     "16330101892d2978a9": {
       "type": "advanced-content",
+      "blocks": {
+        "92130aaa-3a75-4396-9a60-7157888afba9": {
+          "type": "liquid",
+          "settings": {
+            "code": "&nbsp;",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "92130aaa-3a75-4396-9a60-7157888afba9"
+      ],
       "settings": {
         "full_width": false,
-        "space_around": true
+        "space_around": false
       }
     },
     "163301092586593831": {
       "type": "map",
       "settings": {
         "map_title": "Bleecker Street",
-        "address": "<p>(347) 609-0941<\/p><p>Regular Hours:<br\/><br\/>Monday-Friday 11:00 a.m. - 6:00 p.m.<br\/>Saturday 11:00 a.m. - 6:00 p.m.<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
-        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+        "address": "<p><strong>162 Bleecker Street<br\/>New York, NY 10012<\/strong><\/p><p><strong>(347) 609-0941<\/strong><\/p><p>Regular Hours:<br\/>Monday-Friday 11:00 a.m. - 6:00 p.m.<br\/>Saturday 11:00 a.m. - 6:00 p.m.<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
+        "map_address": "162 Bleecker Street, New York, NY 10012",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
         "background_image_position": "center center"
