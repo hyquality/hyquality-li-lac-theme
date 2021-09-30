@@ -323,7 +323,7 @@
         "title": "Visit Our Stores",
         "text": "<p>When you're in the New York area, plan a stop at one of our NYC chocolate stores, or visit our chocolate factory in Sunset Park, Brooklyn.<\/p><p><\/p><p>West Village • Bleecker Street • Hudson Yards • Chelsea Market • Grand Central Market • Industry City<\/p>",
         "button_label": "View Locations",
-        "button_link": "#",
+        "button_link": "shopify:\/\/pages\/store-hours-locations",
         "image": "shopify:\/\/shop_images\/VisitOurStores_a9c9d2c3-91b3-4cb6-8610-eb345e999e3a.jpg",
         "focal_point": "center",
         "layout": "right",
