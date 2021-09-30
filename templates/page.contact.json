@@ -41,7 +41,7 @@
         "text": "<p>Fill out the form below and a representative will contact you by e-mail or phone within 24 business hours.<\/p>",
         "show_phone": true,
         "narrow_column": true,
-        "color_scheme": "1"
+        "color_scheme": "none"
       }
     }
   },
