@@ -180,18 +180,10 @@
               "richtext": "<p>FedEx delivery-time guarantees are currently suspended. Please allow additional time for packages to arrive. <\/p>",
               "richtext_mobile": "<p>FedEx delivery-time guarantees are currently suspended. Please allow additional time for packages to arrive. <\/p>"
             }
-          },
-          "728d8f73-3550-44cd-a62a-683b1d26152e": {
-            "type": "announcement",
-            "settings": {
-              "richtext": "<p>Hassle-free returns. 30-day postage paid returns<\/p>",
-              "richtext_mobile": ""
-            }
           }
         },
         "block_order": [
-          "73030477-1e04-469e-90c1-30d6ebee2078",
-          "728d8f73-3550-44cd-a62a-683b1d26152e"
+          "73030477-1e04-469e-90c1-30d6ebee2078"
         ],
         "settings": {
           "announcement_center": true,
