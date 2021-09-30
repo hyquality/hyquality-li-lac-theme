@@ -108,6 +108,37 @@
         "show_button": true,
         "background_image_position": "center center"
       }
+    },
+    "1633012925f488bd24": {
+      "type": "advanced-content",
+      "blocks": {
+        "1633012925f488bd24-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>&nbsp;<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1633012925f488bd24-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "16330130432889d93a": {
+      "type": "map",
+      "settings": {
+        "map_title": "Hudson Yards",
+        "address": "<p><strong>500 W. 33rd Street (at 10th Ave.)<br\/>4th Floor<br\/>New York, NY 10001<\/strong><\/p><p><strong>(347) 493-0030<\/strong><\/p><p>Regular Hours:<br\/>Monday - Friday 11:00 a.m. - 8:00 p.m.<br\/>Saturday  11:00 a.m. - 8:00 p.m.<br\/>Sunday  11:00 a.m. - 7:00 p.m.<\/p>",
+        "map_address": "500 W. 33rd Street, New York, NY 10001",
+        "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
     }
   },
   "order": [
@@ -118,6 +149,8 @@
     "1633012215d0d6b30f",
     "1633012789d44be9d3",
     "1633012792f5f51982",
-    "163301292265210d67"
+    "163301292265210d67",
+    "1633012925f488bd24",
+    "16330130432889d93a"
   ]
 }
