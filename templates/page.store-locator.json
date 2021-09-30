@@ -22,7 +22,7 @@
         "92130aaa-3a75-4396-9a60-7157888afba9": {
           "type": "liquid",
           "settings": {
-            "code": "&nbsp;",
+            "code": "<p>&nbsp;<\/p>",
             "width": "100%",
             "alignment": "center"
           }
@@ -46,12 +46,45 @@
         "show_button": true,
         "background_image_position": "center center"
       }
+    },
+    "1633012215d0d6b30f": {
+      "type": "advanced-content",
+      "blocks": {
+        "1633012215d0d6b30f-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>&nbsp;<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1633012215d0d6b30f-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1633012789d44be9d3": {
+      "type": "map",
+      "settings": {
+        "map_title": "Grand Central Market",
+        "address": "<p><strong>43rd Street & Lexington Avenue<br\/>New York, NY 10017<\/strong><\/p><p><strong>(347) 491-4977<\/strong><\/p><p>Regular Hours:<br\/>Monday-Friday 8:00 a.m - 7:00 p.m.<br\/>Saturday 11:00 a.m. - 5:00 p.m.<br\/>Sunday 11:00 a.m. - 5:00 p.m.<\/p>",
+        "map_address": "43rd Street & Lexington Avenue, New York, NY 10017",
+        "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
     }
   },
   "order": [
     "main",
     "16330101843564ed6e",
     "16330101892d2978a9",
-    "163301092586593831"
+    "163301092586593831",
+    "1633012215d0d6b30f",
+    "1633012789d44be9d3"
   ]
 }
