@@ -231,8 +231,8 @@
             "type": "contact",
             "settings": {
               "phone": "+1 212 924 2280",
-              "contact": "contact",
-              "chat": "contact",
+              "contact": "contact-us",
+              "chat": "contact-us",
               "enable_social": true
             }
           },
