@@ -8,14 +8,6 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "color_swatches": false
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -49,6 +41,14 @@
             "text": "Kosher Certified OU-D"
           }
         },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
         "04e13c0b-f3bf-46a8-b997-1fffc7b81311": {
           "type": "quantity_selector",
           "settings": {
@@ -64,12 +64,12 @@
       },
       "block_order": [
         "7feb0b58-d84f-4473-98ae-96eca7e247cc",
-        "variant_picker",
         "price",
         "inventory_status",
         "sales_point",
         "sales_point3",
         "sales_point4",
+        "variant_picker",
         "04e13c0b-f3bf-46a8-b997-1fffc7b81311",
         "buy_buttons"
       ],
