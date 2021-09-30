@@ -5317,7 +5317,7 @@ lazySizesConfig.expFactor = 4;
           .then(
             function(results) {
               var mapOptions = {
-                zoom: 16,
+                zoom: config.zoom,
                 backgroundColor: 'none',
                 center: results[0].geometry.location,
                 draggable: false,
