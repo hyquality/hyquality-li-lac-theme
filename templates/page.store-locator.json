@@ -139,6 +139,37 @@
         "show_button": true,
         "background_image_position": "center center"
       }
+    },
+    "16330130675c50c65e": {
+      "type": "advanced-content",
+      "blocks": {
+        "16330130675c50c65e-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>&nbsp;<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16330130675c50c65e-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1633014066f515971e": {
+      "type": "map",
+      "settings": {
+        "map_title": "Our retail store",
+        "address": "<p><strong>68 35th St. (between 2nd & 3rd Ave.)<br\/>Brooklyn, NY 11232 <\/strong><\/p><p><strong>(212) 924-2280<\/strong><\/p><p>Regular Hours:<br\/>Monday-Friday 10:00 a.m. - 5:00 p.m.<br\/>Saturday 11:00 a.m. - 5:00 p.m.<br\/>Sunday 11:00 a.m. - 5:00 p.m.<\/p>",
+        "map_address": "68 35th St, Brooklyn, NY 11232 ",
+        "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
     }
   },
   "order": [
@@ -151,6 +182,8 @@
     "1633012792f5f51982",
     "163301292265210d67",
     "1633012925f488bd24",
-    "16330130432889d93a"
+    "16330130432889d93a",
+    "16330130675c50c65e",
+    "1633014066f515971e"
   ]
 }
