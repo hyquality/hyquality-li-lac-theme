@@ -87,7 +87,7 @@ img.tab-meta-image{
     color: white;
     line-height: 2rem;
     width: 100%;
-    left: 50%;
+    left: 48%;
     transform: translateX(-50%);
     padding-left: 290px;
 }
@@ -272,10 +272,6 @@ footer.site-footer .footer__base-links .logo-list li a {
 
 .collection-desc {
   padding-bottom: 25px;
-}
-
-.header-slogan {
-  left: 48%;
 }
 
 .background-media-text__text {
