@@ -5191,7 +5191,7 @@ lazySizesConfig.expFactor = 4;
 
   theme.Maps = (function() {
     var config = {
-      zoom: 14
+      zoom: 17
     };
     var apiStatus = null;
     var mapsToLoad = [];
