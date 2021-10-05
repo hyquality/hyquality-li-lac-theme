@@ -304,3 +304,6 @@ header.section-header .section-header__title {
   text-align: center;
   font-size: 12px;
 }
+#in-the-news .index-section.color-scheme-none.text-left {
+  margin-bottom: 0;
+}
