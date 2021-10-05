@@ -232,6 +232,34 @@
             "enlarge_text": true,
             "text": "<p>November 23, 2014<strong><br\/><\/strong><a href=\"http:\/\/www.nydailynews.com\/new-york\/brooklyn\/bitter-sweet-sunset-park-group-urges-chocolate-boycott-article-1.2019686\"><strong>New York Daily News: Bitter & sweet! Sunset Park group urges chocolate-maker boycott<\/strong><\/a><\/p>"
           }
+        },
+        "fb03d672-dfe1-45fd-9c2a-84457c0d28eb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>November 22, 2014<strong><br\/><\/strong><a href=\"http:\/\/brooklyn.news12.com\/story\/34787390\/lilac-chocolates-celebrates-factory-opening\"><strong>News 12 Brooklyn: Lilac Chocolates celebrates factory opening<\/strong><\/a><\/p>"
+          }
+        },
+        "3a6b8bc7-8213-48e0-a585-349b80995da4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>November 13, 2014<strong><br\/><\/strong><a href=\"http:\/\/www.lovethiscity.com\/us\/new-york\/romance-new-york\/li-lac-chocolates-opens-your-dream-factory\/\"><strong>Mastercard Priceless Cities: Li-Lac Chocolates Opens Your Dream Factory<\/strong><\/a><\/p>"
+          }
+        },
+        "6900d0fc-18b1-4b0e-83c1-ba84b3bb0df4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>November 2014<strong><br\/><\/strong><a href=\"http:\/\/shangmag.com\/%E3%80%90%E5%B0%8F%E7%BC%96%E5%9C%A8%E7%8E%B0%E5%9C%BA%E3%80%91%E5%A5%BD%E5%90%83%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%BA%BD%E7%BA%A6li-lac%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B7%A5%E5%8E%82.html\"><strong>Shang Media: Delicious Fun at the Scene in New York Li-Lac Chocolate Factory<\/strong><\/a><\/p>"
+          }
+        },
+        "06ec0000-dad8-4049-93fb-b2b97544dcc7": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>October 26, 2014<strong><br\/><\/strong><a href=\"http:\/\/www.amny.com\/news\/business\/business-is-booming-at-sunset-park-s-industry-city-1.9549336\"><strong>AM New York: Business is booming at Sunset Park's Industry City<\/strong><\/a><\/p>"
+          }
         }
       },
       "block_order": [
@@ -246,7 +274,11 @@
         "b655b659-2e07-4470-b543-c846344d7079",
         "daf51d80-c011-450c-82bc-8345b2c7964e",
         "a6fdac98-57fd-46ae-9914-eaee19bc707c",
-        "d6d91f26-37aa-44aa-b2a5-71cbd7fb2a9f"
+        "d6d91f26-37aa-44aa-b2a5-71cbd7fb2a9f",
+        "fb03d672-dfe1-45fd-9c2a-84457c0d28eb",
+        "3a6b8bc7-8213-48e0-a585-349b80995da4",
+        "6900d0fc-18b1-4b0e-83c1-ba84b3bb0df4",
+        "06ec0000-dad8-4049-93fb-b2b97544dcc7"
       ],
       "settings": {
         "align_text": "left",
