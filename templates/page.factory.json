@@ -64,11 +64,23 @@
         "full_width": false,
         "space_around": false
       }
+    },
+    "1633446446777635ed": {
+      "type": "map",
+      "settings": {
+        "map_title": "Visit Us At:",
+        "address": "<p><strong>Li-Lac Chocolates<\/strong><br\/><strong>68 35th Street<\/strong><br\/><strong>Brooklyn, NY 11232<\/strong><\/p>",
+        "map_address": "68 35th Street,Brooklyn, NY 11232",
+        "api_key": "",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
     }
   },
   "order": [
     "main",
     "16334461872737b014",
-    "163344619167448033"
+    "163344619167448033",
+    "1633446446777635ed"
   ]
 }
