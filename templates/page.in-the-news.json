@@ -286,11 +286,97 @@
         "color_scheme": "none",
         "divider": false
       }
+    },
+    "1633444609058baa14": {
+      "type": "rich-text",
+      "blocks": {
+        "1633444609058baa14-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Oct 19, 2014<strong><br\/><\/strong><a href=\"http:\/\/m.nydailynews.com\/life-style\/eats\/sunset-park-hotspot-gourmet-food-manufacturing-article-1.1975835\"><strong>Daily News: Sunset Park, Brooklyn, is becoming a hotspot for gourmet food manufacturing<\/strong><\/a><\/p>"
+          }
+        },
+        "8f9c78b7-796d-4852-9ffe-e19ee00c4f4f": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>October 6, 2014<strong><br\/><\/strong><a href=\"http:\/\/ny.racked.com\/2014\/10\/6\/7574239\/lilac-chocolates-industry-city#more\"><strong>Racked: Sweet, Even More Chocolate is Coming to Sunset Park<\/strong><\/a><\/p>"
+          }
+        },
+        "891954fe-083b-4556-a2a3-603377cbea8e": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>October 5, 2014<strong><br\/><\/strong><a href=\"http:\/\/nypost.com\/2014\/10\/05\/chocolate-factory-upscale-retail-space-coming-to-sunset-park\/\"><strong>New York Post: Chocolate Factory, Upscale Retail Space Coming to Sunset Park<\/strong><\/a><\/p>"
+          }
+        },
+        "9ebc0144-acf9-435d-b36b-e6b4a22fa6d0": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Oct 20, 2013<strong><br\/><\/strong><a href=\"https:\/\/www.youtube.com\/watch?v=mGiPbFmtU48\"><strong>WABC News: Li-Lac Chocolates on ABC News<\/strong><\/a><\/p>"
+          }
+        },
+        "06c67164-c042-48e4-bef5-461e5af6fd5f": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>February 21, 2012<strong><br\/><\/strong><a href=\"http:\/\/li-lacchocolates.3dcartstores.com\/assets\/templates\/v40001\/pdf\/ANewYorkChocolateWonderland.pdf\"><strong>The Times of London: A New York Chocolate Wonderland<\/strong><\/a><\/p>"
+          }
+        },
+        "7d0a85b7-1c1e-47d5-bdc3-cfc53b3358c2": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>November 9, 2011<strong><br\/><\/strong><a href=\"http:\/\/www.wsj.com\/articles\/SB10001424052970204554204577025931196363036#articleTabs%3Darticle\"><strong>Wall Street Journal: Chocolate on the Block<\/strong><\/a><\/p>"
+          }
+        },
+        "fb7b0cb8-4156-45ee-a918-6bfc038381dc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>February 13, 2000<strong><br\/><\/strong><a href=\"http:\/\/www.li-lacchocolates.com\/assets\/images\/Best%20of%20NY.jpg\"><strong>Daily News: Best of New York Candyland<\/strong><\/a><\/p>"
+          }
+        },
+        "351cf018-dc16-4481-ad6c-0a0c22dbe8c6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>February 12, 1997<strong><br\/><\/strong><a href=\"https:\/\/www.nytimes.com\/1997\/02\/12\/garden\/for-the-love-of-chocolate.html\"><strong>New York Times: For the Love of Chocolate<\/strong><\/a><\/p>"
+          }
+        },
+        "7373dc5b-26b8-4f76-adb2-a45ec008da00": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>December 10, 1980<strong><br\/><\/strong><a href=\"http:\/\/www.li-lacchocolates.com\/assets\/images\/New%20York%20Times.jpg\"><strong>New York Times: Chocolate Heaven<\/strong><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1633444609058baa14-1",
+        "8f9c78b7-796d-4852-9ffe-e19ee00c4f4f",
+        "891954fe-083b-4556-a2a3-603377cbea8e",
+        "9ebc0144-acf9-435d-b36b-e6b4a22fa6d0",
+        "06c67164-c042-48e4-bef5-461e5af6fd5f",
+        "7d0a85b7-1c1e-47d5-bdc3-cfc53b3358c2",
+        "fb7b0cb8-4156-45ee-a918-6bfc038381dc",
+        "351cf018-dc16-4481-ad6c-0a0c22dbe8c6",
+        "7373dc5b-26b8-4f76-adb2-a45ec008da00"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "16334439847721790f",
-    "163344440025b61053"
+    "163344440025b61053",
+    "1633444609058baa14"
   ]
 }
