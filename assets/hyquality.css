@@ -287,11 +287,11 @@ header.section-header .section-header__title {
   text-align: center;
 }
 
-#store-hours-amp-locations .main-content {
+#store-hours-amp-locations .main-content, #visit-our-factory .main-content {
   margin: 0 10% 50px;
 }
 @media screen and (max-width: 768px) {
-  #store-hours-amp-locations .main-content {
+  #store-hours-amp-locations .main-content, #visit-our-factory .main-content {
   margin: 0 5% 50px;
 }
 }
@@ -315,5 +315,9 @@ header.section-header .section-header__title {
 
 #kosher-certified .custom-content .one-quarter.align--top-middle {
   margin: 0 auto;
+}
+
+#visit-our-factory .map-section {
+  margin-top: 30px;
 }
   
