@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
       }
     },
@@ -26,31 +25,10 @@
         "color_scheme": "none",
         "divider": false
       }
-    },
-    "163344246935c8538b": {
-      "type": "advanced-content",
-      "blocks": {
-        "163344246935c8538b-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<div style=\"margin:0 auto;\" class=\"pxFormGenerator\" id=\"Yqf6521mO-acUdZNkXUarA\"><\/div>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "163344246935c8538b-1"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
     }
   },
   "order": [
     "main",
-    "rich-text",
-    "163344246935c8538b"
+    "rich-text"
   ]
 }
