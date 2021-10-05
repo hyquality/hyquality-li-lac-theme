@@ -1145,7 +1145,7 @@ lazySizesConfig.expFactor = 4;
         autohide: 0,
         autoplay: 1,
         cc_load_policy: 0,
-        controls: 0,
+        controls: 1,
         fs: 0,
         iv_load_policy: 3,
         modestbranding: 1,
