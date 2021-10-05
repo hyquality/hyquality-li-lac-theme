@@ -5,6 +5,26 @@
       "settings": {
       }
     },
+    "16334431069aa14289": {
+      "type": "advanced-content",
+      "blocks": {
+        "16334431069aa14289-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div style=\"margin:0 auto;\" class=\"pxFormGenerator\" id=\"Yqf6521mO-acUdZNkXUarA\"><\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16334431069aa14289-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -29,6 +49,7 @@
   },
   "order": [
     "main",
+    "16334431069aa14289",
     "rich-text"
   ]
 }
