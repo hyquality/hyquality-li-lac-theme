@@ -4,9 +4,93 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16334456045ddb7286": {
+      "type": "advanced-content",
+      "blocks": {
+        "16334456045ddb7286-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FudgeScoring_about.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "16334456045ddb7286-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "Li-Lac Chocolates is proud to be kosher certified by the Orthodox Union – the world’s most recognized and trusted kosher certification agency. For over 80 years, the Orthodox Union has set the bar for the highest standards of kosher certification.Our kosher-certified chocolates are made fresh in small batches using fine-quality, kosher-certified ingredients and kosher-approved processes and practices, all under the rabbinical supervision of Rabbi Kalman Scheiner.At Li-Lac Chocolates, we make more than 140 fresh chocolate confections - one of the largest selections of fresh, gourmet chocolate in America. Most of our signature confections are made using our founder’s original recipes and production techniques from the 1920s.Our signature chocolates, gift boxes, chocolate baskets and specialty items make for delicious gifts that stand out in quality, flavor and freshness. Enjoy!",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16334456045ddb7286-0",
+        "16334456045ddb7286-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1633445616058eb093": {
+      "type": "advanced-content",
+      "blocks": {
+        "1633445616058eb093-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "At Li-Lac Chocolates, we make more than 140 fresh chocolate confections - one of the largest selections of fresh, gourmet chocolate in America. Most of our signature confections are made using our founder’s original recipes and production techniques from the 1920s.Our signature chocolates, gift boxes, chocolate baskets and specialty items make for delicious gifts that stand out in quality, flavor and freshness. Enjoy!",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "1633445616058eb093-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EnroberHandDecorated_about.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1633445616058eb093-1",
+        "1633445616058eb093-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "16334456547d9b0b6e": {
+      "type": "advanced-content",
+      "blocks": {
+        "16334456547d9b0b6e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kosher_image.png",
+            "link": "",
+            "width": "33%",
+            "alignment": "top-middle"
+          }
+        }
+      },
+      "block_order": [
+        "16334456547d9b0b6e-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16334456045ddb7286",
+    "1633445616058eb093",
+    "16334456547d9b0b6e"
   ]
 }
