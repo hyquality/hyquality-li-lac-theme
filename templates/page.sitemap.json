@@ -4,9 +4,30 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "163344680851f11696": {
+      "type": "advanced-content",
+      "blocks": {
+        "163344680851f11696-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\"row\">\n<div class=\"col-md-6\">\n<h2>Collections<\/h2>\n<ul>\n{% for c in collections %}\n<li>\n<a href=\"{{ c.url }}\">{{ c.title }}<\/a>\n<\/li>\n{% endfor %}\n<\/ul>\n<\/div>\n<div class=\"col-md-6\">\n<h2>Products<\/h2>\n<ul>\n{% for product in collections.all.products %}\n<li>\n<a href=\"{{ product.url }}\">{{ product.title }}<\/a>\n<\/li>\n{% endfor %}\n<\/ul>\n<\/div>\n<\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "163344680851f11696-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "163344680851f11696"
   ]
 }
