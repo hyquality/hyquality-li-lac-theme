@@ -6,16 +6,6 @@
       "settings": {
       }
     },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-        "title": "Contact Us",
-        "text": "<p>Fill out the form below and a representative will contact you by e-mail or phone within 24 business hours.<\/p>",
-        "show_phone": true,
-        "narrow_column": true,
-        "color_scheme": "none"
-      }
-    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -36,11 +26,31 @@
         "color_scheme": "none",
         "divider": false
       }
+    },
+    "163344246935c8538b": {
+      "type": "advanced-content",
+      "blocks": {
+        "163344246935c8538b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div style=\"margin:0 auto;\" class=\"pxFormGenerator\" id=\"Yqf6521mO-acUdZNkXUarA\"><\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "163344246935c8538b-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
     "main",
-    "form",
-    "rich-text"
+    "rich-text",
+    "163344246935c8538b"
   ]
 }
