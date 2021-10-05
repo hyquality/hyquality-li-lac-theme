@@ -4,9 +4,151 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16334439847721790f": {
+      "type": "rich-text",
+      "blocks": {
+        "16334439847721790f-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Jan 29, 2021<br\/><a href=\"https:\/\/www.forbes.com\/sites\/forbes-personal-shopper\/2021\/01\/29\/best-valentines-candy-valentines-chocolate-and-baked-goods\/?sh=52644c21136a&referer=mailid:0&emailmkt=anthony@li-lacchocolates.com\"><strong>FORBES<\/strong><\/a><strong>: The Best Valentine’s Day Candy, Chocolate, And Other Sweets For Your Sweetheart<\/strong><\/p>"
+          }
+        },
+        "64f5350d-084b-4d7e-8650-0277e9ff3a8b": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Feb 10, 2020<strong><br\/><\/strong><a href=\"https:\/\/www.pix11.com\/news\/local-news\/manhattan\/oldest-chocolate-factory-in-new-york-gears-up-for-valentines-day\"><strong>PIX 11<\/strong><\/a><strong>: Oldest chocolate factory in New York gears up for Valentine's Day<\/strong><\/p>"
+          }
+        },
+        "74b3d40d-6521-45a9-b0ce-4b0f19989980": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Oct 30, 2018<strong><br\/><\/strong><a href=\"https:\/\/paper.amny.com\/html5\/reader\/production\/default.aspx?edid=de4540e5-1045-46ea-8171-53217301058a\"><strong>AM NEW YORK<\/strong><\/a><strong>: Li-Lac Chocolates celebrates 95 years of keeping traditions<\/strong><\/p>"
+          }
+        },
+        "dec539d4-226d-421d-9930-18bfaa84e60e": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Oct 21, 2018<strong><br\/><\/strong><a href=\"https:\/\/www.forbes.com\/sites\/abigailabesamis\/2018\/10\/21\/nyc-icons-li-lac-chocolates-celebrates-95-years\/#1e336b7e1fb8\"><strong>FORBES<\/strong><\/a><strong>: Li-Lac Chocolates Celebrates 95 Years: Inside Manhattan's Oldest Chocolate House<\/strong><\/p>"
+          }
+        },
+        "d3cf25fc-8ab2-4a33-a368-8f64f32ddd25": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Sept 28, 2018<strong><br\/><\/strong><a href=\"http:\/\/brooklyn.news12.com\/story\/39196619\/historic-chocolate-company-to-turn-95-years-old\"><strong>NEWS 12 BROOKLYN<\/strong><\/a><strong>: Li-Lac Chocolates: Historic Chocolate Company to turn 95 Years Old<\/strong><\/p>"
+          }
+        },
+        "03719ed3-bac8-49d4-a7eb-e9dd9f2bf70c": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Feb 14, 2018<strong><br\/><\/strong><a href=\"http:\/\/www.bkmag.com\/2018\/02\/14\/li-lac-chocolates\/\"><strong>BROOKLYN MAGAZINE<\/strong><\/a><strong>: Li-Lac Chocolates: A True Love Story<\/strong><\/p>"
+          }
+        },
+        "572f5ed7-914a-412a-8ac3-e99062149293": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Feb 13, 2018<strong><br\/><\/strong><a href=\"https:\/\/www.wsj.com\/articles\/li-lac-chocolates-serves-sweet-nostalgia-and-no-fancy-stuff-1518537113?mod=searchresults&page=1&pos=1\"><strong>WALL STREET JOURNAL<\/strong><\/a><strong>: Li-Lac Chocolates Serves Sweet Nostalgia (and No Fancy Stuff)<\/strong><\/p>"
+          }
+        },
+        "fb75fdbb-29c1-40d2-95f6-4d0c2abbde1d": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Feb 10, 2018<strong><br\/>NEW YORK 1: Spotlight NY: Li-Lac Chocolates<\/strong><\/p>"
+          }
+        },
+        "7abaae62-b22c-4044-9efe-c4384b7cfd85": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Feb 6, 2018<strong><br\/><\/strong><a href=\"https:\/\/www.delish.com\/food\/videos\/a58052\/li-lac-chocolates-chess-set-video\/\"><strong>DELISH<\/strong><\/a><strong>: You Can Have This Chess Set And Eat It, Too<\/strong><\/p>"
+          }
+        },
+        "2e71fc60-bec7-40d6-9d73-85dc80159a61": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Nov 21, 2017<strong><br\/><\/strong><a href=\"http:\/\/www.crainsnewyork.com\/article\/20171121\/OPINION\/171129987\/li-lac-chocolates-shows-not-all-is-bleak-on-bleecker-street\"><strong>CRAIN'S NEW YORK BUSINESS<\/strong><\/a><strong>: Li-Lac Chocolates shows not all is bleak on Bleecker Street<\/strong><\/p>"
+          }
+        },
+        "a095a5c1-9b0c-4a50-b1fa-76e26cc50fa8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Nov 12, 2017<strong><br\/><\/strong><a href=\"https:\/\/www.chowhound.com\/food-news\/191589\/this-old-school-chocolate-factory-will-make-your-holiday-dreams-come-true\/\"><strong>CHOWHOUND<\/strong><\/a><strong>: This old-school chocolate factory will make your holiday dreams come true<\/strong><\/p>"
+          }
+        },
+        "84bade66-b0bc-4614-897b-14360f8b02fa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>May 5, 2017<strong><br\/><\/strong><a href=\"http:\/\/www.ediblebrooklyn.com\/2017\/industry-city\/\"><strong>EDIBLE BROOKLYN<\/strong><\/a><strong>: Meet Your Maker at Sunset Park’s Industry City<\/strong><\/p>"
+          }
+        },
+        "d5150b28-93f4-42fd-be79-545af7e20e21": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>March 15, 2016<strong><br\/><\/strong><a href=\"http:\/\/experience.usatoday.com\/food-and-wine\/story\/tours-and-trails\/food-tours-and-trails\/2016\/03\/15\/brooklyn-new-york-chocolate-makers\/81759562\/\"><strong>USA TODAY<\/strong><\/a><strong>: Indulge in the Brooklyn Chocolate Trail<\/strong><\/p>"
+          }
+        },
+        "ea904c31-c1c5-4ede-8ad8-6dd8528d77b1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>February 12, 2016<strong><br\/><\/strong><a href=\"http:\/\/www.forbes.com\/sites\/katiesola\/2016\/02\/11\/valentines-chocolates\/#2e1699d36fa7\"><strong>Forbes \/ Business<\/strong><\/a><strong>: The Bittersweet Business Of Making Chocolate Like It's 1923<\/strong><\/p>"
+          }
+        },
+        "63ed0066-ee3e-4425-9715-35d3e17c9838": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>February 11, 2016<strong><br\/><\/strong><a href=\"http:\/\/video.foxnews.com\/v\/4750556296001\/new-york-citys-oldest-chocolate-maker-sticks-with-classics\/?#sp=show-clips\"><strong>Fox News<\/strong><\/a><strong>: New York City's Oldest Chocolate Maker Sticks With Classics<\/strong><\/p>"
+          }
+        },
+        "e4bf6cba-189a-4a3f-a1f2-214e3600191c": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>October 5, 2015<strong><br\/><\/strong><a href=\"http:\/\/www.bizjournals.com\/newyork\/news\/2015\/10\/05\/li-lac-chocolate-bleecker-street.html?ana=RSS&s=article_search\" target=\"_blank\"><strong>New York Business Journal<\/strong><\/a><strong>: Manhattan's oldest chocolate shop celebrates grand opening of its newest store<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16334439847721790f-1",
+        "64f5350d-084b-4d7e-8650-0277e9ff3a8b",
+        "74b3d40d-6521-45a9-b0ce-4b0f19989980",
+        "dec539d4-226d-421d-9930-18bfaa84e60e",
+        "d3cf25fc-8ab2-4a33-a368-8f64f32ddd25",
+        "03719ed3-bac8-49d4-a7eb-e9dd9f2bf70c",
+        "572f5ed7-914a-412a-8ac3-e99062149293",
+        "fb75fdbb-29c1-40d2-95f6-4d0c2abbde1d",
+        "7abaae62-b22c-4044-9efe-c4384b7cfd85",
+        "2e71fc60-bec7-40d6-9d73-85dc80159a61",
+        "a095a5c1-9b0c-4a50-b1fa-76e26cc50fa8",
+        "84bade66-b0bc-4614-897b-14360f8b02fa",
+        "d5150b28-93f4-42fd-be79-545af7e20e21",
+        "ea904c31-c1c5-4ede-8ad8-6dd8528d77b1",
+        "63ed0066-ee3e-4425-9715-35d3e17c9838",
+        "e4bf6cba-189a-4a3f-a1f2-214e3600191c"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16334439847721790f"
   ]
 }
