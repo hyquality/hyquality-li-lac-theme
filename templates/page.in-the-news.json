@@ -145,10 +145,120 @@
         "color_scheme": "none",
         "divider": false
       }
+    },
+    "163344440025b61053": {
+      "type": "rich-text",
+      "blocks": {
+        "163344440025b61053-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>October, 2015<strong><br\/><\/strong><a href=\"http:\/\/www.dnainfo.com\/new-york\/20151001\/greenwich-village\/li-lac-chocolates-celebrating-new-bleecker-street-store-with-1923-prices\" target=\"_blank\"><strong>DNAinfo: <\/strong><\/a><strong>Li-Lac Chocolates celebrating new Bleecker Street store with 1923 prices<\/strong><\/p>"
+          }
+        },
+        "08efbaed-5452-4908-b41d-962846d6fdfa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>June 15, 2015<strong><br\/><\/strong><a href=\"https:\/\/wheretraveler.com\/new-york-city\/stay\/11-great-souvenirs-youll-want-take-home\"><strong>Where Now New York<\/strong><\/a><strong>: 11 Great Souvenirs You'll Want to Take Home!<\/strong><\/p>"
+          }
+        },
+        "8727ab35-2413-48d7-8c2e-3ad476466d12": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>March 15, 2015<strong><br\/><\/strong><a href=\"https:\/\/www.marthastewart.com\/1543773\/news\"><strong>Martha Stewart Living: <\/strong><\/a><strong>Why We Love Them<\/strong><\/p>"
+          }
+        },
+        "52272578-506f-4930-af77-2ca4b2344a95": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Feb 12, 2015<strong><br\/><\/strong><a href=\"http:\/\/www.thedailybeast.com\/articles\/2015\/02\/12\/meet-the-hipster-chocolateers-who-will-save-your-valentine-s-day.html\"><strong>The Daily Beast: Meet The Hipster Chocolateers Who Will Save Your Valentine’s Day<\/strong><\/a><\/p>"
+          }
+        },
+        "6eb89fc0-a04a-4c63-9e3c-84012d03f859": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Feb 10, 2015<strong><br\/><\/strong><a href=\"http:\/\/gothamist.com\/2015\/02\/12\/best_chocolate_nyc.php?utm_source=Gothamist+Daily&utm_campaign=34abdc9e43-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_73240544d8-34abdc9e43-618341\"><strong>Gothamist: The 10 Best Chocolate Shops In NYC<\/strong><\/a><\/p>"
+          }
+        },
+        "a79b2708-d42f-4365-8158-c25cc38828f2": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Jan 21, 2015<strong><br\/><\/strong><a href=\"https:\/\/www.youtube.com\/watch?v=XU2HSAhZVfQ\"><strong>Dutch TV: Economie VS vooruit: weer lachen aan de pomp<\/strong><\/a><\/p>"
+          }
+        },
+        "92b9f48b-c239-443d-a814-8719b611df5b": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Jan 2, 2015<strong><br\/><\/strong><a href=\"http:\/\/www.nytimes.com\/2015\/01\/04\/nyregion\/chocolate-factory-in-brooklyn-asks-what-us-gentrifiers.html\"><strong>New York Times: “Chocolate Factory in Brooklyn Asks: What us, Gentrifiers?”<\/strong><\/a><\/p>"
+          }
+        },
+        "f5e86773-1231-4673-93a3-10651b48208a": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Dec 13, 2014<strong><br\/><\/strong><a href=\"https:\/\/www.youtube.com\/watch?v=epNsxH8uyag&feature=youtu.be\"><strong>WABC TV New York: \"A New York Holiday\"<\/strong><\/a><\/p>"
+          }
+        },
+        "b655b659-2e07-4470-b543-c846344d7079": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Dec 8, 2014<strong><br\/><\/strong><a href=\"http:\/\/nypost.com\/2014\/12\/08\/industry-city-continues-to-lure-creative-tenants\/\"><strong>New York Post: Industry City Continues to Lure Creative Tenants<\/strong><\/a><\/p>"
+          }
+        },
+        "daf51d80-c011-450c-82bc-8345b2c7964e": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Dec 8, 2014<strong><br\/><\/strong><a href=\"http:\/\/www.nytimes.com\/2014\/12\/10\/dining\/holiday-crullers-mustard-on-tap-and-a-chocolatier-in-brooklyn.html?_r=0\"><strong>New York Times: Holiday Crullers, Mustard on Tap and a Chocolatier in Brooklyn<\/strong><\/a><\/p>"
+          }
+        },
+        "a6fdac98-57fd-46ae-9914-eaee19bc707c": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Dec 4, 2014<strong><br\/><\/strong><a href=\"http:\/\/www.jewishpress.com\/sections\/food\/kosher-food-news\/li-lac-chocolates-once-you-taste-fresh-chocolate-youll-never-go-back\/2014\/12\/01\/\"><strong>Jewish Press: Once You Taste Fresh Chocolate, You’ll Never Go Back<\/strong><\/a><\/p>"
+          }
+        },
+        "d6d91f26-37aa-44aa-b2a5-71cbd7fb2a9f": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>November 23, 2014<strong><br\/><\/strong><a href=\"http:\/\/www.nydailynews.com\/new-york\/brooklyn\/bitter-sweet-sunset-park-group-urges-chocolate-boycott-article-1.2019686\"><strong>New York Daily News: Bitter & sweet! Sunset Park group urges chocolate-maker boycott<\/strong><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163344440025b61053-1",
+        "08efbaed-5452-4908-b41d-962846d6fdfa",
+        "8727ab35-2413-48d7-8c2e-3ad476466d12",
+        "52272578-506f-4930-af77-2ca4b2344a95",
+        "6eb89fc0-a04a-4c63-9e3c-84012d03f859",
+        "a79b2708-d42f-4365-8158-c25cc38828f2",
+        "92b9f48b-c239-443d-a814-8719b611df5b",
+        "f5e86773-1231-4673-93a3-10651b48208a",
+        "b655b659-2e07-4470-b543-c846344d7079",
+        "daf51d80-c011-450c-82bc-8345b2c7964e",
+        "a6fdac98-57fd-46ae-9914-eaee19bc707c",
+        "d6d91f26-37aa-44aa-b2a5-71cbd7fb2a9f"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
-    "16334439847721790f"
+    "16334439847721790f",
+    "163344440025b61053"
   ]
 }
