@@ -4,9 +4,71 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16334461872737b014": {
+      "type": "advanced-content",
+      "blocks": {
+        "16334461872737b014-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fudge_-_being_cut-482x362.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "16334461872737b014-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>Discover how old-world chocolate was meant to be made, and taste the results!<\/p>\n<p>Come visit New York City’s best chocolate factory, located at Industry City in Sunset Park, Brooklyn. Our ground floor chocolate factory provides a through-the-window view into the kitchen and production facility for an up close look at how we make our chocolate, plus an adjoining retail store. Visiting hours are Monday – Friday, 9:00 a.m. – 5:00 p.m.<\/p>\n<p>Li-Lac Chocolates is known for its original recipes and small-batch production methods - most of which have been unchanged for over nine decades. Indeed, some of our copper kettles, marble tables and weight scales date back to the 1920s. We make more than 140 fresh chocolate items - one of the largest selections of fresh, gourmet chocolate in America. Many of our signature confections are still made using our founder’s original recipes and production techniques from the 1920s.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16334461872737b014-0",
+        "16334461872737b014-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "163344619167448033": {
+      "type": "advanced-content",
+      "blocks": {
+        "163344619167448033-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>When you visit our factory, you will have a through-the-window view into our production facility where you can see our daily production in action. There is also a factory store where you are invited to sample fresh chocolate from our daily production and shop.<\/p>\n<p>We also offer a private behind-the-scenes guided factory tour for groups of 8 or more. Pricing is $85.00 per person and lasts about 90 minutes. The tour includes samples right off the chocolate enrober, and all participants will take home their own box of freshly-made, gourmet chocolate. For more information or to purchase tickets, click here: Chocolate Factory Tour<\/p>\n<p>Please be aware, we cannot guarantee that specific production areas will be in operation when you visit.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "163344619167448033-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/visit4.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "163344619167448033-1",
+        "163344619167448033-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16334461872737b014",
+    "163344619167448033"
   ]
 }
