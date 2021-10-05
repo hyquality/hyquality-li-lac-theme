@@ -252,8 +252,7 @@
           "show_image_fragment": true,
           "image_fragment_file": "shopify:\/\/shop_images\/footer-fragment.png",
           "logo_list_url_1": "",
-          "logo_list_image_1": "shopify:\/\/shop_images\/autorise.png",
-          "logo_list_url_2": "#",
+          "logo_list_url_2": "shopify:\/\/pages\/kosher-certified",
           "logo_list_image_2": "shopify:\/\/shop_images\/kosher.png",
           "policies_menu": ""
         }
