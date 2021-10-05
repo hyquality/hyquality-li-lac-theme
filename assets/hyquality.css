@@ -320,4 +320,7 @@ header.section-header .section-header__title {
 #visit-our-factory .map-section {
   margin-top: 30px;
 }
-  
+
+#sitemap .custom__item-inner {
+  width: auto;
+}
