@@ -333,3 +333,7 @@ header.section-header .section-header__title {
 #contact-us .main-content {
   margin-bottom: 50px;
 }
+
+.template-product .add-to-cart {
+  max-width: 300px;
+}
