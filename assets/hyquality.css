@@ -342,3 +342,7 @@ header.section-header .section-header__title {
   background: rgb(249, 232, 180);
   color: #000;
 }
+
+.template-page .product-single__meta {
+  padding-top: 5px;
+}
