@@ -348,7 +348,7 @@ header.section-header .section-header__title {
 }
 
 .variant__label[for], .product__quantity label {
-  margin-bottom: 0;
+  margin-bottom: 2px;
 }
 
 .template-product .product-block {
