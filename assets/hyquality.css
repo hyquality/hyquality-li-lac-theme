@@ -347,6 +347,10 @@ header.section-header .section-header__title {
   padding-top: 5px;
 }
 
-.variant__label[for] {
+.variant__label[for], .product__quantity label {
   margin-bottom: 0;
+}
+
+.template-page .product-block {
+  margin-bottom: 20px;
 }
