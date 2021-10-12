@@ -206,7 +206,7 @@
         "overlay_opacity": 26,
         "height": 700,
         "height_mobile": 300,
-        "show_top_border": true,
+        "show_top_border": false,
         "show_bottom_border": true
       }
     },
