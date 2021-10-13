@@ -70,7 +70,7 @@
     "share_pinterest": true,
     "favicon": "shopify:\/\/shop_images\/li-lac-logo.png",
     "search_type": "product,article,page",
-    "show_breadcrumbs": true,
+    "show_breadcrumbs": false,
     "show_breadcrumbs_collection_link": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/li-lac-logo.png",
     "checkout_logo_position": "left",
