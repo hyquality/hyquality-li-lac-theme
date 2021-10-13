@@ -152,17 +152,35 @@
             "title": ""
           }
         },
+        "11f3c320-c85e-473c-8911-9b1a17a1db60": {
+          "type": "collection",
+          "settings": {
+            "collection": "gift-baskets",
+            "custom_image": "shopify:\/\/shop_images\/GiftBaskets_1000x500_0cf7f7c5-d428-4732-8eee-3243898d4ae0.jpg",
+            "title": ""
+          }
+        },
+        "8e13b578-c240-4313-a20e-6df86c0f454d": {
+          "type": "collection",
+          "settings": {
+            "collection": "snackable-bites",
+            "custom_image": "shopify:\/\/shop_images\/ChocolateSnacking_1000x500_837c7abc-e898-4ecf-9693-56e38bd20a1e.jpg",
+            "title": ""
+          }
+        },
         "featured-collections-0": {
           "type": "collection",
           "settings": {
-            "collection": "chocolate-baby-gifts",
+            "collection": "chocolate-platters",
+            "custom_image": "shopify:\/\/shop_images\/EventPlatters_1000x500_V2.jpg",
             "title": ""
           }
         },
         "featured-collections-2": {
           "type": "collection",
           "settings": {
-            "collection": "dutch-sinterklaas",
+            "collection": "wedding-chocolates",
+            "custom_image": "shopify:\/\/shop_images\/WeddingFavors_1000x500_22081030-8b45-4ae1-bddb-65c316f3208d.jpg",
             "title": ""
           }
         },
@@ -198,6 +216,8 @@
         "e2d63409-902d-4da8-a5d7-abf4c299918a",
         "1cdc36d4-7c81-4849-bcdb-7fdfca4c5827",
         "df31bc5a-db50-48d3-b2b7-675d1447d90a",
+        "11f3c320-c85e-473c-8911-9b1a17a1db60",
+        "8e13b578-c240-4313-a20e-6df86c0f454d",
         "featured-collections-0",
         "featured-collections-2",
         "featured-collections-3",
