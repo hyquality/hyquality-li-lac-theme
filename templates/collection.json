@@ -11,11 +11,6 @@
     "main-collection": {
       "type": "main-collection",
       "blocks": {
-        "collection_description": {
-          "type": "collection_description",
-          "settings": {
-          }
-        },
         "product_grid": {
           "type": "product_grid",
           "settings": {
@@ -26,12 +21,17 @@
           "type": "subcollections",
           "settings": {
           }
+        },
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "collection_description",
         "product_grid",
-        "1c8d5c53-3143-4ae7-8f69-0000f5e84f65"
+        "1c8d5c53-3143-4ae7-8f69-0000f5e84f65",
+        "collection_description"
       ],
       "settings": {
         "enable_sidebar": false,
