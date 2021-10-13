@@ -112,6 +112,14 @@
             "title": ""
           }
         },
+        "9e5ef8a7-22f0-4af4-a93a-c93f5b493d71": {
+          "type": "collection",
+          "settings": {
+            "collection": "thank-you-chocolates",
+            "custom_image": "shopify:\/\/shop_images\/ThankYouGifts_1000x500_V2.jpg",
+            "title": ""
+          }
+        },
         "featured-collections-1": {
           "type": "collection",
           "settings": {
@@ -120,11 +128,27 @@
             "title": ""
           }
         },
-        "9e5ef8a7-22f0-4af4-a93a-c93f5b493d71": {
+        "e2d63409-902d-4da8-a5d7-abf4c299918a": {
           "type": "collection",
           "settings": {
-            "collection": "thank-you-chocolates",
-            "custom_image": "shopify:\/\/shop_images\/ThankYouGifts_1000x500_V2.jpg",
+            "collection": "celebration-gifts",
+            "custom_image": "shopify:\/\/shop_images\/CelebrationGifts_1000x500_a23fe8c5-5479-408e-bd53-f97b5a28c62b.jpg",
+            "title": ""
+          }
+        },
+        "1cdc36d4-7c81-4849-bcdb-7fdfca4c5827": {
+          "type": "collection",
+          "settings": {
+            "collection": "nyc-chocolate-gifts",
+            "custom_image": "shopify:\/\/shop_images\/NYCGifts_1000x500_a97d5ab2-f3d2-492d-9d50-1622c88b1fa3.jpg",
+            "title": ""
+          }
+        },
+        "df31bc5a-db50-48d3-b2b7-675d1447d90a": {
+          "type": "collection",
+          "settings": {
+            "collection": "holiday-chocolates",
+            "custom_image": "shopify:\/\/shop_images\/ChocHolidays_1000x500_V3.jpg",
             "title": ""
           }
         },
@@ -162,13 +186,6 @@
             "collection": "chocolate-politics",
             "title": ""
           }
-        },
-        "e2d63409-902d-4da8-a5d7-abf4c299918a": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
         }
       },
       "block_order": [
@@ -176,14 +193,16 @@
         "c8f2d576-ccfc-4484-93a2-48e2dc208b19",
         "829ae1a1-6d9e-4891-93e6-8e4b6016e9a2",
         "176cd396-dec3-4925-8f38-1356d6c9c616",
-        "featured-collections-1",
         "9e5ef8a7-22f0-4af4-a93a-c93f5b493d71",
+        "featured-collections-1",
+        "e2d63409-902d-4da8-a5d7-abf4c299918a",
+        "1cdc36d4-7c81-4849-bcdb-7fdfca4c5827",
+        "df31bc5a-db50-48d3-b2b7-675d1447d90a",
         "featured-collections-0",
         "featured-collections-2",
         "featured-collections-3",
         "featured-collections-4",
-        "featured-collections-5",
-        "e2d63409-902d-4da8-a5d7-abf4c299918a"
+        "featured-collections-5"
       ],
       "settings": {
         "title": "Shop Our Categories",
