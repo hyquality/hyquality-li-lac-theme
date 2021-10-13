@@ -369,3 +369,7 @@ header.section-header .section-header__title {
 .template-index .collection-image--landscape {
   padding-top: 50%;
 }
+
+.collection-hero__content .page-width {
+  display: none;
+}
