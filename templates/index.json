@@ -80,19 +80,43 @@
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
-        "featured-collections-1": {
+        "429f33ee-6f62-4627-9c99-efc5af77d4d1": {
           "type": "collection",
           "settings": {
-            "collection": "birthday-chocolates",
-            "custom_image": "shopify:\/\/shop_images\/BirthdayGifts_1000x500_V2.jpg",
+            "collection": "chocolate-gift-boxes-baskets",
+            "custom_image": "shopify:\/\/shop_images\/SignatureGiftBoxes_1000x500_27647dd1-da65-4bc7-8124-7ddd002d60e1.jpg",
+            "title": ""
+          }
+        },
+        "c8f2d576-ccfc-4484-93a2-48e2dc208b19": {
+          "type": "collection",
+          "settings": {
+            "collection": "fresh-gourmet-chocolate-handmade-chocolate-from-nyc",
+            "custom_image": "shopify:\/\/shop_images\/FreshGourmetChoc_1000x500_7fe70b39-cb26-4f91-bb96-466e07053724.jpg",
+            "title": ""
+          }
+        },
+        "829ae1a1-6d9e-4891-93e6-8e4b6016e9a2": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "custom_image": "shopify:\/\/shop_images\/SpecialtyMolds_1000x500_c641b7a9-9b8a-4bb9-a302-cf27adcbb50c.jpg",
             "title": ""
           }
         },
         "176cd396-dec3-4925-8f38-1356d6c9c616": {
           "type": "collection",
           "settings": {
-            "collection": "curated-corporate-gifts",
+            "collection": "chocolate-business-gifts",
             "custom_image": "shopify:\/\/shop_images\/CorporateGifts_1000x500_V2.jpg",
+            "title": ""
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "birthday-chocolates",
+            "custom_image": "shopify:\/\/shop_images\/BirthdayGifts_1000x500_V2.jpg",
             "title": ""
           }
         },
@@ -139,27 +163,6 @@
             "title": ""
           }
         },
-        "429f33ee-6f62-4627-9c99-efc5af77d4d1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "c8f2d576-ccfc-4484-93a2-48e2dc208b19": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "829ae1a1-6d9e-4891-93e6-8e4b6016e9a2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
         "e2d63409-902d-4da8-a5d7-abf4c299918a": {
           "type": "collection",
           "settings": {
@@ -169,17 +172,17 @@
         }
       },
       "block_order": [
-        "featured-collections-1",
+        "429f33ee-6f62-4627-9c99-efc5af77d4d1",
+        "c8f2d576-ccfc-4484-93a2-48e2dc208b19",
+        "829ae1a1-6d9e-4891-93e6-8e4b6016e9a2",
         "176cd396-dec3-4925-8f38-1356d6c9c616",
+        "featured-collections-1",
         "9e5ef8a7-22f0-4af4-a93a-c93f5b493d71",
         "featured-collections-0",
         "featured-collections-2",
         "featured-collections-3",
         "featured-collections-4",
         "featured-collections-5",
-        "429f33ee-6f62-4627-9c99-efc5af77d4d1",
-        "c8f2d576-ccfc-4484-93a2-48e2dc208b19",
-        "829ae1a1-6d9e-4891-93e6-8e4b6016e9a2",
         "e2d63409-902d-4da8-a5d7-abf4c299918a"
       ],
       "settings": {
