@@ -96,6 +96,11 @@
             "title": "Ask a Question",
             "phone": true
           }
+        },
+        "3ff49548-85b5-432c-9cff-e3b95ef1fbc4": {
+          "type": "share",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -112,7 +117,8 @@
         "10189371-a436-4358-b0ad-ad4e1871f6f3",
         "bbd48edb-b902-4bbd-9809-40464fb83346",
         "7feb0b58-d84f-4473-98ae-96eca7e247cc",
-        "8e591e78-4383-44d9-ba95-a67760147e0e"
+        "8e591e78-4383-44d9-ba95-a67760147e0e",
+        "3ff49548-85b5-432c-9cff-e3b95ef1fbc4"
       ],
       "settings": {
         "sku_enable": true,
@@ -129,57 +135,6 @@
     },
     "sub": {
       "type": "product-full-width",
-      "blocks": {
-        "description": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        },
-        "94669a9c-5387-4adc-9f72-4bf15fe470ff": {
-          "type": "tab",
-          "settings": {
-            "title": "Nutrition Info",
-            "content": "<p>nutrition_info<\/p>",
-            "page": "",
-            "show_file_src": true
-          }
-        },
-        "tab": {
-          "type": "tab",
-          "settings": {
-            "title": "Shipping Info",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
-            "page": "",
-            "show_file_src": false
-          }
-        },
-        "a12afc2c-0491-48e7-94e3-45bc3615358e": {
-          "type": "reviews",
-          "settings": {
-          }
-        },
-        "contact": {
-          "type": "contact",
-          "settings": {
-            "title": "Ask a Question",
-            "phone": true
-          }
-        },
-        "ee24686b-b1cd-4548-a69f-8e521b65f584": {
-          "type": "share",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "description",
-        "94669a9c-5387-4adc-9f72-4bf15fe470ff",
-        "tab",
-        "a12afc2c-0491-48e7-94e3-45bc3615358e",
-        "contact",
-        "ee24686b-b1cd-4548-a69f-8e521b65f584"
-      ],
       "settings": {
         "max_width": true
       }
