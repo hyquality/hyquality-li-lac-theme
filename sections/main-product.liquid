@@ -365,6 +365,12 @@
             "type": "page",
             "id": "page",
             "label": "Tab content from page"
+          },
+          {
+            "type": "checkbox",
+            "id": "show_file_src",
+            "label": "Show File Meta",
+            "default": false
           }
         ]
       },
@@ -379,6 +385,7 @@
           }
         ]
       },
+
       {
         "type": "separator",
         "name": "Separator"
@@ -406,8 +413,19 @@
         ]
       },
       {
-        "type": "reviews",
+        "type": "reviews_badge",
         "name": "Product reviews badge",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "paragraph",
+            "content": "Add reviews by installing the [Shopify Product Reviews app](https://apps.shopify.com/product-reviews) and following our [setup guide](https://archetypethemes.co/blogs/support/installing-shopifys-product-reviews-app)"
+          }
+        ]
+      },
+      {
+        "type": "reviews",
+        "name": "Product reviews",
         "limit": 1,
         "settings": [
           {

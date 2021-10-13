@@ -119,11 +119,23 @@
                 {%- case block.type -%}
                   {%- when '@app' -%}
                     {% render block %}
-                  {%- when 'reviews' -%}
+                  {%- when 'reviews_badge' -%}
                     <div class="product-block product-block--small">
                       <a href="#shopify-product-reviews-{{ product.id }}">
                         <span class="shopify-product-reviews-badge" data-id="{{ product.id }}"></span>
                       </a>
+                    </div>
+                {%- when 'reviews' -%}
+                    <div class="product-block product-block--tab product-reviews" {{ block.shopify_attributes }}>
+                        <div id="shopify-product-reviews-{{ product.id }}"></div>
+                        {% assign tab_id = block.id | append: product.id %}
+                        {% capture tab_title %}
+                            {{ 'products.general.reviews' | t }}
+                        {% endcapture %}
+                        {% capture tab_content %}
+                            <div id="shopify-product-reviews" data-id="{{ product.id }}">{{ product.metafields.spr.reviews }}</div>
+                        {% endcapture %}
+                        {%- render 'tab', id: tab_id, title: tab_title, content: tab_content -%}
                     </div>
                   {%- when 'separator' -%}
                     <div class="product-block"><hr></div>
@@ -138,7 +150,7 @@
                         {{ block.settings.content }}
                         {{ block.settings.page.content }}
                       {% endcapture %}
-                      {%- render 'tab', id: tab_id, title: block.settings.title, content: tab_content -%}
+                      {%- render 'tab', id: tab_id, title: block.settings.title, content: tab_content, show_file_src: block.settings.show_file_src -%}
                     </div>
                   {%- when 'contact' -%}
                     <div class="product-block product-block--tab" {{ block.shopify_attributes }}>
