@@ -203,7 +203,7 @@
         "featured-collections-5": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
+            "collection": "sale-page",
             "custom_image": "shopify:\/\/shop_images\/ItemsOnSale_1000x500_6d08cf4c-7fbf-47dd-a294-56886401cd18.jpg",
             "title": ""
           }
