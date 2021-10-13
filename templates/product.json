@@ -60,6 +60,21 @@
             "show_dynamic_checkout": false,
             "surface_pickup_enable": true
           }
+        },
+        "4f0226c7-14b3-4d16-8e2a-d7bc05cb4486": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "10189371-a436-4358-b0ad-ad4e1871f6f3": {
+          "type": "tab",
+          "settings": {
+            "title": "Nutrition Info",
+            "content": "<p>nutrition_info<\/p>",
+            "page": "",
+            "show_file_src": true
+          }
         }
       },
       "block_order": [
@@ -71,7 +86,9 @@
         "sales_point4",
         "variant_picker",
         "04e13c0b-f3bf-46a8-b997-1fffc7b81311",
-        "buy_buttons"
+        "buy_buttons",
+        "4f0226c7-14b3-4d16-8e2a-d7bc05cb4486",
+        "10189371-a436-4358-b0ad-ad4e1871f6f3"
       ],
       "settings": {
         "sku_enable": true,
