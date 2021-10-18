@@ -229,6 +229,22 @@
             "logo-label": "Teacher Gifts",
             "link": "shopify:\/\/collections\/teacher-gifts"
           }
+        },
+        "580bd4c4-152d-424e-8528-a63dc39bb5e4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chocolate-Roatary-Phone.jpg",
+            "logo-label": "Chocolate Telephones",
+            "link": "shopify:\/\/collections\/chocolate-telephones"
+          }
+        },
+        "ff4146df-ecfd-4363-9afe-435a2054f76b": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Train.jpg",
+            "logo-label": "Chocolate Travel Icons",
+            "link": "shopify:\/\/collections\/chocolate-travel-icons"
+          }
         }
       },
       "block_order": [
@@ -239,7 +255,9 @@
         "163456804514f1ee36-4",
         "163456804514f1ee36-5",
         "55c347e8-6e3e-4239-a70b-7a94f367dc84",
-        "e1b4cd67-084a-4dc1-ad25-4cdcee7b9ed8"
+        "e1b4cd67-084a-4dc1-ad25-4cdcee7b9ed8",
+        "580bd4c4-152d-424e-8528-a63dc39bb5e4",
+        "ff4146df-ecfd-4363-9afe-435a2054f76b"
       ],
       "settings": {
         "title": "",
