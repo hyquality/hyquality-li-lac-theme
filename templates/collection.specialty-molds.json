@@ -1,0 +1,152 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false
+      }
+    },
+    "16345643422d4aa57d": {
+      "type": "logo-list",
+      "blocks": {
+        "16345643422d4aa57d-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Halloween-Chocolate-Big-Scary-Ghost.jpg",
+            "logo-label": "Halloween",
+            "link": "shopify:\/\/collections\/halloween"
+          }
+        },
+        "16345643422d4aa57d-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jumbo-Turkey_main.jpg",
+            "logo-label": "Thanksgiving",
+            "link": "shopify:\/\/collections\/thanksgiving"
+          }
+        },
+        "16345643422d4aa57d-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Christmas-Snowman-Jumbo.jpg",
+            "logo-label": "Christmas",
+            "link": "shopify:\/\/collections\/christmas"
+          }
+        },
+        "16345643422d4aa57d-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sinterklaas-Chocolates.jpg",
+            "logo-label": "Dutch Sinterklaas",
+            "link": "shopify:\/\/collections\/dutch-sinterklaas"
+          }
+        },
+        "16345643422d4aa57d-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chanukah-Chocolate-Dreidel.jpg",
+            "logo-label": "Chanukah",
+            "link": "shopify:\/\/collections\/kosher-chanukah-chocolate"
+          }
+        },
+        "16345643422d4aa57d-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Specialty-Molds-Champagne-Bottle-Lifesize.jpg",
+            "logo-label": "New Year's Eve",
+            "link": "shopify:\/\/collections\/new-years-eve"
+          }
+        },
+        "12359683-2fe8-4109-ab6f-55aa2c6def42": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Valentine-Chocolate-Heart-of-Truffles-41.jpg",
+            "logo-label": "Valentine's Day",
+            "link": "shopify:\/\/collections\/valentines-day"
+          }
+        },
+        "77ab4dbf-ecee-4d26-a294-b286bef8f89b": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Easter-Chocolate-Jumbo-Bunny_thumbnail.jpg",
+            "logo-label": "Easter",
+            "link": "shopify:\/\/collections\/easter"
+          }
+        },
+        "85306192-7080-4231-aa96-f3daa9253a4f": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chocolate-Lifesize-Handbag.jpg",
+            "logo-label": "Mother's Day",
+            "link": "shopify:\/\/collections\/mothers-day"
+          }
+        },
+        "ab711797-db0b-4c22-9416-8232e237871c": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Graduation-Chocolate-Cap-Diploma.jpg",
+            "logo-label": "Graduation",
+            "link": "shopify:\/\/collections\/graduation-day"
+          }
+        },
+        "0751a6d5-c00d-401a-ac42-5d52f48dc61a": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chocolate_Specialty_Molds_Golf_Balls.jpg",
+            "logo-label": "Father's Day",
+            "link": "shopify:\/\/collections\/fathers-day"
+          }
+        }
+      },
+      "block_order": [
+        "16345643422d4aa57d-0",
+        "16345643422d4aa57d-1",
+        "16345643422d4aa57d-2",
+        "16345643422d4aa57d-3",
+        "16345643422d4aa57d-4",
+        "16345643422d4aa57d-5",
+        "12359683-2fe8-4109-ab6f-55aa2c6def42",
+        "77ab4dbf-ecee-4d26-a294-b286bef8f89b",
+        "85306192-7080-4231-aa96-f3daa9253a4f",
+        "ab711797-db0b-4c22-9416-8232e237871c",
+        "0751a6d5-c00d-401a-ac42-5d52f48dc61a"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "3fc4270b-8912-407d-b07f-c5b1282badee": {
+          "type": "collection_description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "3fc4270b-8912-407d-b07f-c5b1282badee"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapse_filters": true,
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "16345643422d4aa57d",
+    "main-collection",
+    "recently-viewed"
+  ]
+}
