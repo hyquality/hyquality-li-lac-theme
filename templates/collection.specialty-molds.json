@@ -134,9 +134,9 @@
         "e662dec6-e35f-4df9-bf8a-5e1eeee8c2c2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Statue_of_Liberty_New_Box_21_Full_Adobergb-482x362.jpg",
-            "logo-label": "NYC Chocolate Gifts",
-            "link": "shopify:\/\/collections\/nyc-chocolate-gifts"
+            "image": "shopify:\/\/shop_images\/Letters_482x362_thumbnail.jpg",
+            "logo-label": "Chocolate Letters & Numbers",
+            "link": "shopify:\/\/collections\/chocolate-letters-numbers"
           }
         }
       },
@@ -169,29 +169,33 @@
         "163456804514f1ee36-0": {
           "type": "logo_image",
           "settings": {
-            "logo-label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Statue_of_Liberty_New_Box_21_Full_Adobergb-482x362.jpg",
+            "logo-label": "NYC Chocolate Gifts",
+            "link": "shopify:\/\/collections\/nyc-chocolate-gifts"
           }
         },
         "163456804514f1ee36-1": {
           "type": "logo_image",
           "settings": {
-            "logo-label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Grand_Chocolate_Piano_thumbnail.jpg",
+            "logo-label": "Chocolate Music",
+            "link": "shopify:\/\/collections\/chocolate-music"
           }
         },
         "163456804514f1ee36-2": {
           "type": "logo_image",
           "settings": {
-            "logo-label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Chocolate-American-Flag-482x362.jpg",
+            "logo-label": "Chocolate Politics",
+            "link": "shopify:\/\/collections\/chocolate-politics"
           }
         },
         "163456804514f1ee36-3": {
           "type": "logo_image",
           "settings": {
-            "logo-label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Chocolate_Cross.jpg",
+            "logo-label": "Religious Chocolates",
+            "link": "shopify:\/\/collections\/religious-chocolates"
           }
         },
         "163456804514f1ee36-4": {
