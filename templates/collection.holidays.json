@@ -28,13 +28,15 @@
         "16345643422d4aa57d-2": {
           "type": "logo_image",
           "settings": {
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Christmas-Snowman-Jumbo.jpg",
+            "link": "shopify:\/\/collections\/christmas"
           }
         },
         "16345643422d4aa57d-3": {
           "type": "logo_image",
           "settings": {
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Sinterklaas-Chocolates.jpg",
+            "link": "shopify:\/\/collections\/dutch-sinterklaas"
           }
         },
         "16345643422d4aa57d-4": {
