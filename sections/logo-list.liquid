@@ -27,7 +27,7 @@
               {%- else -%}
                 {{ 'logo' | placeholder_svg_tag: 'placeholder-svg placeholder-svg--no-padding' }}
               {%- endif -%}
-                  {%- if block.settings.logo-label != blank -%}<span style="font-weight:bold;">{{ block.settings.logo-label }}</span>{%- endif -%}
+                  {%- if block.settings.logo-label != blank -%}<br/><span style="font-weight:bold;">{{ block.settings.logo-label }}</span>{%- endif -%}
               {%- if block.settings.link != blank -%}
                 </a>
               {%- endif -%}
