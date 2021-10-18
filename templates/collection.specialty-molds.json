@@ -106,6 +106,30 @@
             "logo-label": "Chocolate Fire & Police",
             "link": "shopify:\/\/collections\/chocolate-fire-police"
           }
+        },
+        "f2409b55-73fd-406b-950e-8af7963753a4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chocolate_Dolphin.jpg",
+            "logo-label": "Chocolate Fish",
+            "link": "shopify:\/\/collections\/chocolate-fish"
+          }
+        },
+        "e3c6190c-0fae-43dc-8fc2-beca9f290545": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chocolate-Specialty-Molds-Pizza-Slice.jpg",
+            "logo-label": "Chocolate Food",
+            "link": "shopify:\/\/collections\/chocolate-food"
+          }
+        },
+        "ae502179-0c2f-4396-8a97-4e653d50d520": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ChessSet.jpg",
+            "logo-label": "Chocolate Games & Hobbies",
+            "link": "shopify:\/\/collections\/chocolate-games-hobbies"
+          }
         }
       },
       "block_order": [
@@ -120,7 +144,10 @@
         "85306192-7080-4231-aa96-f3daa9253a4f",
         "ab711797-db0b-4c22-9416-8232e237871c",
         "0751a6d5-c00d-401a-ac42-5d52f48dc61a",
-        "abb83253-d900-4b1c-84fe-ca4a787fcdfe"
+        "abb83253-d900-4b1c-84fe-ca4a787fcdfe",
+        "f2409b55-73fd-406b-950e-8af7963753a4",
+        "e3c6190c-0fae-43dc-8fc2-beca9f290545",
+        "ae502179-0c2f-4396-8a97-4e653d50d520"
       ],
       "settings": {
         "title": "",
