@@ -1,65 +1,33 @@
 {
   "sections": {
-    "main-collection": {
-      "type": "main-collection",
-      "disabled": true,
-      "blocks": {
-        "collection_description": {
-          "type": "collection_description",
-          "settings": {
-          }
-        },
-        "product_grid": {
-          "type": "product_grid",
-          "settings": {
-          }
-        },
-        "subcollections": {
-          "type": "subcollections",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "collection_description",
-        "subcollections",
-        "product_grid"
-      ],
-      "settings": {
-      }
-    },
-    "promo-grid": {
-      "type": "promo-grid",
-      "blocks": {
-        "banner": {
-          "type": "banner",
-          "settings": {
-            "color_scheme": "2"
-          }
-        },
-        "advanced": {
-          "type": "advanced",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "banner",
-        "advanced"
-      ],
-      "settings": {
-        "space_above": true,
-        "space_below": false
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "count": 5,
+        "show_collection_description": false,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false,
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "border_padding": false
       }
     },
     "featured-collection2": {
       "type": "featured-collection",
       "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "count": 5,
+        "show_collection_description": false,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false,
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "border_padding": false
       }
     },
     "promo-grid2": {
@@ -68,13 +36,28 @@
         "simple": {
           "type": "simple",
           "settings": {
-            "width": "50"
+            "link": "",
+            "text": "",
+            "width": "50",
+            "height": 300
           }
         },
         "advanced": {
           "type": "advanced",
           "settings": {
-            "width": "50"
+            "subheading": "",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "#fff"
           }
         }
       },
@@ -83,6 +66,8 @@
         "advanced"
       ],
       "settings": {
+        "full_width": false,
+        "gutter_size": 20,
         "space_above": false,
         "space_below": false
       }
@@ -90,6 +75,16 @@
     "featured-collection3": {
       "type": "featured-collection",
       "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "count": 5,
+        "show_collection_description": false,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false,
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "border_padding": false
       }
     },
     "featured-collections": {
@@ -98,31 +93,43 @@
         "collection1": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "title": ""
           }
         },
         "collection2": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "title": ""
           }
         },
         "collection3": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "title": ""
           }
         },
         "collection4": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "title": ""
           }
         },
         "collection5": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "title": ""
           }
         },
         "collection6": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "title": ""
           }
         }
       },
@@ -135,12 +142,49 @@
         "collection6"
       ],
       "settings": {
-        "title": "You may also like"
+        "title": "You may also like",
+        "center_title": false,
+        "items_per_row": "small",
+        "divider": false,
+        "show_top_border": false,
+        "show_bottom_border": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "disabled": true,
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "grid_style": "small"
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapse_filters": true,
+        "enable_color_swatches": false,
+        "enable_sort": true
       }
     }
   },
   "order": [
-    "promo-grid",
     "featured-collection",
     "featured-collection2",
     "promo-grid2",
