@@ -163,6 +163,65 @@
         "divider": false
       }
     },
+    "163456804514f1ee36": {
+      "type": "logo-list",
+      "blocks": {
+        "163456804514f1ee36-0": {
+          "type": "logo_image",
+          "settings": {
+            "logo-label": "",
+            "link": ""
+          }
+        },
+        "163456804514f1ee36-1": {
+          "type": "logo_image",
+          "settings": {
+            "logo-label": "",
+            "link": ""
+          }
+        },
+        "163456804514f1ee36-2": {
+          "type": "logo_image",
+          "settings": {
+            "logo-label": "",
+            "link": ""
+          }
+        },
+        "163456804514f1ee36-3": {
+          "type": "logo_image",
+          "settings": {
+            "logo-label": "",
+            "link": ""
+          }
+        },
+        "163456804514f1ee36-4": {
+          "type": "logo_image",
+          "settings": {
+            "logo-label": "",
+            "link": ""
+          }
+        },
+        "163456804514f1ee36-5": {
+          "type": "logo_image",
+          "settings": {
+            "logo-label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163456804514f1ee36-0",
+        "163456804514f1ee36-1",
+        "163456804514f1ee36-2",
+        "163456804514f1ee36-3",
+        "163456804514f1ee36-4",
+        "163456804514f1ee36-5"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false
+      }
+    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
@@ -191,6 +250,7 @@
   "order": [
     "collection-header",
     "16345643422d4aa57d",
+    "163456804514f1ee36",
     "main-collection",
     "recently-viewed"
   ]
