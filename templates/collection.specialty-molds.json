@@ -201,15 +201,33 @@
         "163456804514f1ee36-4": {
           "type": "logo_image",
           "settings": {
-            "logo-label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/GetWellBar_thumbnail.jpg",
+            "logo-label": "Say it in Chocolate",
+            "link": "shopify:\/\/collections\/say-it-in-chocolate"
           }
         },
         "163456804514f1ee36-5": {
           "type": "logo_image",
           "settings": {
-            "logo-label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Chocolate-Breast-Cancer-Awareness-Ribbon.jpg",
+            "logo-label": "Social Awareness Chocolate",
+            "link": "shopify:\/\/collections\/social-awareness-chocolate"
+          }
+        },
+        "55c347e8-6e3e-4239-a70b-7a94f367dc84": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chocolate-Football-Life-Size.jpg",
+            "logo-label": "Sports Icons",
+            "link": "shopify:\/\/collections\/sports-icons"
+          }
+        },
+        "e1b4cd67-084a-4dc1-ad25-4cdcee7b9ed8": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Globeweb.jpg",
+            "logo-label": "Teacher Gifts",
+            "link": "shopify:\/\/collections\/teacher-gifts"
           }
         }
       },
@@ -219,7 +237,9 @@
         "163456804514f1ee36-2",
         "163456804514f1ee36-3",
         "163456804514f1ee36-4",
-        "163456804514f1ee36-5"
+        "163456804514f1ee36-5",
+        "55c347e8-6e3e-4239-a70b-7a94f367dc84",
+        "e1b4cd67-084a-4dc1-ad25-4cdcee7b9ed8"
       ],
       "settings": {
         "title": "",
