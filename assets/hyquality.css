@@ -377,3 +377,7 @@ header.section-header .section-header__title {
 .collection-hero__content .page-width {
   display: none;
 }
+
+.template-collection .logo-bar__item {
+  padding: 0;
+}
