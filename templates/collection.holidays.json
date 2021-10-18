@@ -46,15 +46,17 @@
         "16345643422d4aa57d-4": {
           "type": "logo_image",
           "settings": {
-            "logo-label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Chanukah-Chocolate-Dreidel.jpg",
+            "logo-label": "Chanukah",
+            "link": "shopify:\/\/collections\/kosher-chanukah-chocolate"
           }
         },
         "16345643422d4aa57d-5": {
           "type": "logo_image",
           "settings": {
-            "logo-label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Specialty-Molds-Champagne-Bottle-Lifesize.jpg",
+            "logo-label": "New Year's Eve",
+            "link": "shopify:\/\/collections\/new-years-eve"
           }
         }
       },
@@ -73,7 +75,16 @@
     },
     "main-collection": {
       "type": "main-collection",
-      "disabled": true,
+      "blocks": {
+        "3fc4270b-8912-407d-b07f-c5b1282badee": {
+          "type": "collection_description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "3fc4270b-8912-407d-b07f-c5b1282badee"
+      ],
       "settings": {
         "enable_sidebar": true,
         "collapse_filters": true,
