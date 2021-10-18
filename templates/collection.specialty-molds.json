@@ -98,6 +98,14 @@
             "logo-label": "Chocolate Fashion",
             "link": "shopify:\/\/collections\/chocolate-fashion"
           }
+        },
+        "abb83253-d900-4b1c-84fe-ca4a787fcdfe": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FireTruck.jpg",
+            "logo-label": "Chocolate Fire & Police",
+            "link": "shopify:\/\/collections\/chocolate-fire-police"
+          }
         }
       },
       "block_order": [
@@ -111,7 +119,8 @@
         "77ab4dbf-ecee-4d26-a294-b286bef8f89b",
         "85306192-7080-4231-aa96-f3daa9253a4f",
         "ab711797-db0b-4c22-9416-8232e237871c",
-        "0751a6d5-c00d-401a-ac42-5d52f48dc61a"
+        "0751a6d5-c00d-401a-ac42-5d52f48dc61a",
+        "abb83253-d900-4b1c-84fe-ca4a787fcdfe"
       ],
       "settings": {
         "title": "",
