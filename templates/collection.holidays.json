@@ -15,6 +15,7 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Halloween-Chocolate-Big-Scary-Ghost.jpg",
+            "logo-label": "Halloween",
             "link": "shopify:\/\/collections\/halloween"
           }
         },
@@ -22,6 +23,7 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Jumbo-Turkey_main.jpg",
+            "logo-label": "Thanksgiving",
             "link": "shopify:\/\/collections\/thanksgiving"
           }
         },
@@ -29,6 +31,7 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Christmas-Snowman-Jumbo.jpg",
+            "logo-label": "Christmas",
             "link": "shopify:\/\/collections\/christmas"
           }
         },
@@ -36,18 +39,21 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Sinterklaas-Chocolates.jpg",
+            "logo-label": "Dutch Sinterklaas",
             "link": "shopify:\/\/collections\/dutch-sinterklaas"
           }
         },
         "16345643422d4aa57d-4": {
           "type": "logo_image",
           "settings": {
+            "logo-label": "",
             "link": ""
           }
         },
         "16345643422d4aa57d-5": {
           "type": "logo_image",
           "settings": {
+            "logo-label": "",
             "link": ""
           }
         }
