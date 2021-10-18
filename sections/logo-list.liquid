@@ -9,7 +9,7 @@
 
   {%- if section.blocks.size > 0 -%}
     <div class="logo-bar logo-bar--{{ section.id }}">
-      <div class="new-grid product-grid" data-view="4-2">
+      <div class="new-grid product-grid" data-view="small">
         {%- for block in section.blocks -%}
           <div class="grid-item grid-product" {{ block.shopify_attributes }}>
             <div class="logo-bar__item{% if block.settings.image == blank %} logo-bar__item-svg{% endif %}">
