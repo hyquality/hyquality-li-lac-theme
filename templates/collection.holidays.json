@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "subcollections"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapse_filters": true,
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+      }
+    },
+    "16345643422d4aa57d": {
+      "type": "logo-list",
+      "blocks": {
+        "16345643422d4aa57d-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16345643422d4aa57d-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16345643422d4aa57d-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16345643422d4aa57d-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16345643422d4aa57d-4": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16345643422d4aa57d-5": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16345643422d4aa57d-0",
+        "16345643422d4aa57d-1",
+        "16345643422d4aa57d-2",
+        "16345643422d4aa57d-3",
+        "16345643422d4aa57d-4",
+        "16345643422d4aa57d-5"
+      ],
+      "settings": {
+        "title": "Our brands",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "main-collection",
+    "recently-viewed",
+    "16345643422d4aa57d"
+  ]
+}
