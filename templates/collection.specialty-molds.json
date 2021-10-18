@@ -130,6 +130,14 @@
             "logo-label": "Chocolate Games & Hobbies",
             "link": "shopify:\/\/collections\/chocolate-games-hobbies"
           }
+        },
+        "e662dec6-e35f-4df9-bf8a-5e1eeee8c2c2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Statue_of_Liberty_New_Box_21_Full_Adobergb-482x362.jpg",
+            "logo-label": "NYC Chocolate Gifts",
+            "link": "shopify:\/\/collections\/nyc-chocolate-gifts"
+          }
         }
       },
       "block_order": [
@@ -147,7 +155,8 @@
         "abb83253-d900-4b1c-84fe-ca4a787fcdfe",
         "f2409b55-73fd-406b-950e-8af7963753a4",
         "e3c6190c-0fae-43dc-8fc2-beca9f290545",
-        "ae502179-0c2f-4396-8a97-4e653d50d520"
+        "ae502179-0c2f-4396-8a97-4e653d50d520",
+        "e662dec6-e35f-4df9-bf8a-5e1eeee8c2c2"
       ],
       "settings": {
         "title": "",
