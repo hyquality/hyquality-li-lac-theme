@@ -224,7 +224,7 @@
             "settings": {
               "phone": "+1 212 924 2280",
               "contact": "contact-us",
-              "chat": "contact-us",
+              "chat": "",
               "enable_social": true
             }
           },
