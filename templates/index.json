@@ -317,7 +317,7 @@
       "settings": {
         "subtitle": "",
         "title": "Chocolate of the Month Club",
-        "text": "<p>Join our Chocolate of the Month Club  and receive a delicious monthly selection of fresh gourmet chocolate, shipped directly from our factory to your home. This is a chocolate lover's dream come true! Monthly subscriptions include seasonally-themed chocolates along with everyday favorites.<\/p>",
+        "text": "<p>Join our Chocolate of the Month Club  and receive a delicious monthly selection of fresh gourmet chocolate, shipped directly from our factory to your home. <\/p>",
         "button_label": "Learn More",
         "button_link": "#",
         "image": "shopify:\/\/shop_images\/ChocMonth2.jpg",
