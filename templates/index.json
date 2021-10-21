@@ -319,7 +319,7 @@
         "title": "Chocolate of the Month Club",
         "text": "<p>Join our Chocolate of the Month Club  and receive a delicious monthly selection of fresh gourmet chocolate, shipped directly from our factory to your home. <\/p>",
         "button_label": "Learn More",
-        "button_link": "#",
+        "button_link": "shopify:\/\/products\/chocolate-of-the-month-club",
         "image": "shopify:\/\/shop_images\/ChocMonth2.jpg",
         "focal_point": "center",
         "layout": "right",
