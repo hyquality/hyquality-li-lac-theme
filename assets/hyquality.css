@@ -2,7 +2,7 @@
     position: relative;
 }
 img.tab-meta-image{
-    max-width: 500px;
+    max-width: 200px;
 }
 .shopify-section .border-decorator.show_top_border:before{
     content: "";
