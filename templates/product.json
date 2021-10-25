@@ -80,7 +80,7 @@
           "type": "tab",
           "settings": {
             "title": "Shipping Info",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "content": "<p>We ship exclusively with FedEx in the United States. Most orders ship within 24 hours unless a future ship date is requested. During holidays it may take a few extra days to get your order ready. Your chocolates could be in transit for up to 7 Business Days, depending on the destination and shipping method selected. Business days do not include holidays or weekends. Shipping rates are calculated by the location and size\/weight of the package, and are quoted in real time to you by FedEx.<\/p><p><strong>Next Business Day: <\/strong>Orders placed before 1 pm will ship the same day and is normally delivered the next business day (excluding Saturdays, Sundays and Holidays).<\/p><p><strong>Saturday Delivery: <\/strong>This is a premium service offered by FedEx for packages that need to be delivered on the weekend. Orders must be placed by 1 pm on that Friday.<\/p><p><strong>Express: <\/strong>Once your order is shipped, it should be delivered within 2 - 3 business days<\/p><p><strong>Ground Shipping: <\/strong>Expect up to 7 business days in transit (not including weekends or holidays).<\/p><p>For more information, please see our <a href=\"\/pages\/shipping-information\" title=\"Shipping Information\">Shipping Information page<\/a>.<\/p>",
             "page": "",
             "show_file_src": false
           }
