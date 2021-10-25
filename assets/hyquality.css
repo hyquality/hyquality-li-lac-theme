@@ -385,3 +385,7 @@ header.section-header .section-header__title {
 #novelty-chocolate-gifts-specialty-shaped-chocolate-gifts .index-section {
   margin-bottom: 0;
 }
+
+.collection-hero__content:before {
+  background: none;
+}
