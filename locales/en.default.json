@@ -144,7 +144,7 @@
       "terms": "I agree with the terms and conditions",
       "terms_html": "I agree with the <a href='{{ url }}' target='_blank'>terms and conditions<\/a>",
       "terms_confirm": "You must agree with the terms and conditions of sales to check out",
-      "recommended_title": "Goes Great With"
+      "recommended_title": "Add a Cold Box:"
     },
     "label": {
       "price": "Price",
