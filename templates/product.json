@@ -24,7 +24,7 @@
           "type": "sales_point",
           "settings": {
             "icon": "checkmark",
-            "text": ""
+            "text": "gluten_free"
           }
         },
         "sales_point3": {
@@ -143,6 +143,7 @@
     },
     "sub": {
       "type": "product-full-width",
+      "disabled": true,
       "settings": {
         "max_width": true
       }
