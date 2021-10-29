@@ -323,6 +323,10 @@
                   {%- when 'sales_point' -%}
               {% assign stripped_meta = block.settings.text | strip_html | strip_newlines | strip %}
                 {% assign meta = product.metafields.my_fields[stripped_meta] %}
+               {%- if meta == true -%}
+              	{%- if stripped_meta == 'gluten_free' -%}
+              	{%- assign point_name = "Gluten Free" -%}
+              	{%- endif -%}
                     <div class="product-block product-block--sales-point" {{ block.shopify_attributes }}>
                       <ul class="sales-points">
                         <li class="sales-point">
@@ -335,11 +339,12 @@
                               {% when 'lock' %} <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-lock" viewBox="0 0 64 64"><defs><style>.cls-1{fill:none;stroke:#000;stroke-width:2px}</style></defs><path id="svg_2" data-name="svg 2" class="cls-1" d="M20.48 24v-3c0-6.6 5.52-11 11.76-11C39 10 44 15.13 44 21v3"/><path id="svg_4" data-name="svg 4" class="cls-1" d="M11.62 24h41.25v29.77H11.62z"/><path class="cls-1" d="M32.24 37v7"/><circle class="cls-1" cx="32.24" cy="35.5" r="1.5"/></svg>
                               {% when 'truck' %} <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-truck" viewBox="0 0 64 64"><defs><style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:2px}</style></defs><path class="cls-1" d="M17 47.72H7.38V21h33.14v26.72H24.44M45.92 47.72h-5.4V34.9h17.1v12.82h-4.23M57.62 34.9l-6.41-8.56H40.52"/><circle class="cls-1" cx="20.74" cy="48.26" r="3.74"/><path class="cls-1" d="M45.92 47.73a3.82 3.82 0 1 1 0 .37v-.37"/></svg>
                             {% endcase %}
-                            <span>{{ block.settings.text }} {{ stripped_meta }}</span>
+                            <span>{{ block.settings.text }} {{ point_name }}</span>
                           </span>
                         </li>
                       </ul>
                     </div>
+              {%- endif -%}
                   {%- when 'inventory_status' -%}
                     <div class="product-block product-block--sales-point" {{ block.shopify_attributes }}>
                       {%- render 'product-inventory', product: product, current_variant: current_variant, block: block -%}
