@@ -23,22 +23,29 @@
         "sales_point": {
           "type": "sales_point",
           "settings": {
-            "icon": "globe",
-            "text": "Handmade in Brooklyn"
+            "icon": "checkmark",
+            "text": "{{ product.metafields.my_fields.attribute_1.value }}"
           }
         },
         "sales_point3": {
           "type": "sales_point",
           "settings": {
-            "icon": "leaf",
-            "text": "Gluten-Free"
+            "icon": "checkmark",
+            "text": "{{ product.metafields.my_fields.attribute_2.value }}"
           }
         },
         "sales_point4": {
           "type": "sales_point",
           "settings": {
             "icon": "checkmark",
-            "text": "Kosher Certified OU-D"
+            "text": "{{ product.metafields.my_fields.attribute_3.value }}"
+          }
+        },
+        "9dc51ddf-80e9-4e0e-a11b-b08147a06772": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "{{ product.metafields.my_fields.attribute_4.value }}"
           }
         },
         "variant_picker": {
@@ -110,6 +117,7 @@
         "sales_point",
         "sales_point3",
         "sales_point4",
+        "9dc51ddf-80e9-4e0e-a11b-b08147a06772",
         "variant_picker",
         "04e13c0b-f3bf-46a8-b997-1fffc7b81311",
         "buy_buttons",
