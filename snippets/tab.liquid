@@ -29,8 +29,55 @@
                              alt="{{ preview_image.alt | escape }}">
                     </noscript>
                 {% endif %}
+          {% endif %}
+          
+          {% if show_file_src2 != blank %}
+                {% assign stripped_content = content | strip_html | strip_newlines | strip %}
+                {% assign preview_image = product.metafields.my_fields[stripped_content] %}
 
-            {% else %}
+                {% assign img_url = preview_image | img_url: 'master' %}
+
+                {% if img_url contains 'no-image' %}
+
+                {% else %}
+                    <img class="tab-meta-image lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
+                         data-src="{{ img_url }}"
+                         data-widths="[160, 200, 280, 360, 540, 720, 900]"
+                         data-aspectratio="{{ preview_image.aspect_ratio }}"
+                         data-sizes="auto"
+                         alt="{{ preview_image.alt | escape }}">
+                    <noscript>
+                        <img class="grid-product__image lazyloaded"
+                             src="{{ preview_image | img_url: 'master' }}"
+                             alt="{{ preview_image.alt | escape }}">
+                    </noscript>
+                {% endif %}
+          {% endif %}
+          
+          {% if show_file_src3 != blank %}
+                {% assign stripped_content = content | strip_html | strip_newlines | strip %}
+                {% assign preview_image = product.metafields.my_fields[stripped_content] %}
+
+                {% assign img_url = preview_image | img_url: 'master' %}
+
+                {% if img_url contains 'no-image' %}
+
+                {% else %}
+                    <img class="tab-meta-image lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
+                         data-src="{{ img_url }}"
+                         data-widths="[160, 200, 280, 360, 540, 720, 900]"
+                         data-aspectratio="{{ preview_image.aspect_ratio }}"
+                         data-sizes="auto"
+                         alt="{{ preview_image.alt | escape }}">
+                    <noscript>
+                        <img class="grid-product__image lazyloaded"
+                             src="{{ preview_image | img_url: 'master' }}"
+                             alt="{{ preview_image.alt | escape }}">
+                    </noscript>
+                {% endif %}
+          {% endif %}
+
+            {% if show_file_src != blank and show_file_src2 != blank and show_file_src3 != blank %}
                 {{ content }}
             {% endif %}
 
