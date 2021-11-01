@@ -150,7 +150,7 @@
                         {{ block.settings.content }}
                         {{ block.settings.page.content }}
                       {% endcapture %}
-                      {%- render 'tab', id: tab_id, title: block.settings.title, content: tab_content, show_file_src: block.settings.show_file_src, show_file_src2: block.settings.show_file_src2, show_file_src3: block.settings.show_file_src3 -%}
+                      {%- render 'tab', id: tab_id, title: block.settings.title, content: tab_content, show_file_src: block.settings.show_file_src -%}
                     </div>
                   {%- when 'contact' -%}
                     <div class="product-block product-block--tab" {{ block.shopify_attributes }}>
