@@ -27,6 +27,13 @@
             "text": "gluten_free"
           }
         },
+        "9dc51ddf-80e9-4e0e-a11b-b08147a06772": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "kosher"
+          }
+        },
         "sales_point3": {
           "type": "sales_point",
           "settings": {
@@ -39,13 +46,6 @@
           "settings": {
             "icon": "checkmark",
             "text": "sugar_free"
-          }
-        },
-        "9dc51ddf-80e9-4e0e-a11b-b08147a06772": {
-          "type": "sales_point",
-          "settings": {
-            "icon": "checkmark",
-            "text": "kosher"
           }
         },
         "variant_picker": {
@@ -115,9 +115,9 @@
         "price",
         "inventory_status",
         "sales_point",
+        "9dc51ddf-80e9-4e0e-a11b-b08147a06772",
         "sales_point3",
         "sales_point4",
-        "9dc51ddf-80e9-4e0e-a11b-b08147a06772",
         "variant_picker",
         "04e13c0b-f3bf-46a8-b997-1fffc7b81311",
         "buy_buttons",
