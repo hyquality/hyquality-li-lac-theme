@@ -10,11 +10,15 @@
 
             {% if show_file_src != blank %}
                 {% assign stripped_content = content | strip_html | strip_newlines | strip %}
-                {% assign preview_image = product.metafields.my_fields[stripped_content] %}
+                {% assign preview_image1 = product.metafields.my_fields[stripped_content] %}
+                {% assign preview_image2 = product.metafields.my_fields[stripped_content]2 %}
+                {% assign preview_image3 = product.metafields.my_fields[stripped_content]3 %}
 
-                {% assign img_url = preview_image | img_url: 'master' %}
+                {% assign img_url1 = preview_image1 | img_url: 'master' %}
+                {% assign img_url2 = preview_image2 | img_url: 'master' %}
+          		{% assign img_url3 = preview_image3 | img_url: 'master' %}
 
-                {% if img_url contains 'no-image' %}
+                {% if img_url1 contains 'no-image' %}
 
                 {% else %}
                     <img class="tab-meta-image lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
@@ -27,6 +31,38 @@
                         <img class="grid-product__image lazyloaded"
                              src="{{ preview_image | img_url: 'master' }}"
                              alt="{{ preview_image.alt | escape }}">
+                    </noscript>
+                {% endif %}
+          		
+          		{% if img_url2 contains 'no-image' %}
+
+                {% else %}
+                    <img class="tab-meta-image lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
+                         data-src="{{ img_url2 }}"
+                         data-widths="[160, 200, 280, 360, 540, 720, 900]"
+                         data-aspectratio="{{ preview_image2.aspect_ratio }}"
+                         data-sizes="auto"
+                         alt="{{ preview_image2.alt | escape }}">
+                    <noscript>
+                        <img class="grid-product__image lazyloaded"
+                             src="{{ preview_image2 | img_url: 'master' }}"
+                             alt="{{ preview_image2.alt | escape }}">
+                    </noscript>
+                {% endif %}
+          		
+          		{% if img_url3 contains 'no-image' %}
+
+                {% else %}
+                    <img class="tab-meta-image lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
+                         data-src="{{ img_url3 }}"
+                         data-widths="[160, 200, 280, 360, 540, 720, 900]"
+                         data-aspectratio="{{ preview_image3.aspect_ratio }}"
+                         data-sizes="auto"
+                         alt="{{ preview_image3.alt | escape }}">
+                    <noscript>
+                        <img class="grid-product__image lazyloaded"
+                             src="{{ preview_image3 | img_url: 'master' }}"
+                             alt="{{ preview_image3.alt | escape }}">
                     </noscript>
                 {% endif %}
 
