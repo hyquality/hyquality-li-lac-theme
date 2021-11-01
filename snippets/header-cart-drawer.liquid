@@ -28,6 +28,8 @@
     </div>
 
     <div data-discounts></div>
+    
+    {%- render 'cart-recommendations', location: 'drawer' -%}
 
     {% if settings.cart_terms_conditions_enable %}
       <div class="cart__item-row cart__terms">
@@ -53,7 +55,7 @@
         <div class="additional-checkout-buttons">{{ content_for_additional_checkout_buttons }}</div>
       {% endif %}
     </div>
-{%- render 'cart-recommendations', location: 'drawer' -%}
+
     <div class="cart__item-row--footer text-center">
       <small>{{ 'cart.general.shipping_at_checkout' | t }}</small>
     </div>
