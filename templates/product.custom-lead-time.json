@@ -23,14 +23,14 @@
         "sales_point": {
           "type": "sales_point",
           "settings": {
-            "icon": "checkmark",
+            "icon": "leaf",
             "text": "gluten_free"
           }
         },
         "9dc51ddf-80e9-4e0e-a11b-b08147a06772": {
           "type": "sales_point",
           "settings": {
-            "icon": "checkmark",
+            "icon": "lock",
             "text": "kosher"
           }
         },
