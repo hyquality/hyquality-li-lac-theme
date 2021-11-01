@@ -18,7 +18,7 @@
         <textarea name="note" class="input-full cart__note hide" id="CartHeaderNote">{{ cart.note }}</textarea>
       </div>
     {% endif %}
-    {%- render 'cart-recommendations', location: 'drawer' -%}
+    
   </div>
 
   <div class="cart__footer">
@@ -28,6 +28,8 @@
     </div>
 
     <div data-discounts></div>
+    
+    {%- render 'cart-recommendations', location: 'drawer' -%}
 
     {% if settings.cart_terms_conditions_enable %}
       <div class="cart__item-row cart__terms">
