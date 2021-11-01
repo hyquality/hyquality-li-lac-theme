@@ -395,5 +395,5 @@ header.section-header .section-header__title {
 }
 
 #textfieldapp p, .textfieldapp p {
-  font-weight: bold;
+  font-weight: bold !important;
 }
