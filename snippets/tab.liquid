@@ -29,6 +29,7 @@
                          data-aspectratio="{{ preview_image1.aspect_ratio }}"
                          data-sizes="auto"
                          alt="{{ preview_image1.alt | escape }}">
+          <span>{{ image_url2 }}</span>
                     <noscript>
                         <img class="grid-product__image lazyloaded"
                              src="{{ preview_image1 | img_url: 'master' }}"
