@@ -9,10 +9,12 @@
         <div class="collapsible-content__inner rte">
 
             {% if show_file_src != blank %}
-                {% assign stripped_content = content | strip_html | strip_newlines | strip %}
-                {% assign preview_image1 = product.metafields.my_fields[stripped_content] %}
-                {% assign preview_image2 = product.metafields.my_fields[stripped_content]2 %}
-                {% assign preview_image3 = product.metafields.my_fields[stripped_content]3 %}
+                {% assign stripped_content1 = content | strip_html | strip_newlines | strip %}
+          		{% assign stripped_content2 = content | strip_html | strip_newlines | strip | append: "2" %}
+          		{% assign stripped_content3 = content | strip_html | strip_newlines | strip | append: "3"%}
+                {% assign preview_image1 = product.metafields.my_fields[stripped_content1] %}
+                {% assign preview_image2 = product.metafields.my_fields[stripped_content2] %}
+                {% assign preview_image3 = product.metafields.my_fields[stripped_content3] %}
 
                 {% assign img_url1 = preview_image1 | img_url: 'master' %}
                 {% assign img_url2 = preview_image2 | img_url: 'master' %}
