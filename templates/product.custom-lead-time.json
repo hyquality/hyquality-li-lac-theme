@@ -1,0 +1,190 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "776b787c-e990-43d2-a181-99f6ff2271c7": {
+          "type": "reviews_badge",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "gluten_free"
+          }
+        },
+        "sales_point3": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "dairy_free"
+          }
+        },
+        "sales_point4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "sugar_free"
+          }
+        },
+        "9dc51ddf-80e9-4e0e-a11b-b08147a06772": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "kosher"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "04e13c0b-f3bf-46a8-b997-1fffc7b81311": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "4f0226c7-14b3-4d16-8e2a-d7bc05cb4486": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "10189371-a436-4358-b0ad-ad4e1871f6f3": {
+          "type": "tab",
+          "settings": {
+            "title": "Nutrition Info",
+            "content": "<p>nutrition_info<\/p>",
+            "page": "",
+            "show_file_src": true
+          }
+        },
+        "bbd48edb-b902-4bbd-9809-40464fb83346": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping Info",
+            "content": "<p>We ship exclusively with FedEx in the United States. Most orders ship within 24 hours unless a future ship date is requested. During holidays it may take a few extra days to get your order ready. Your chocolates could be in transit for up to 7 Business Days, depending on the destination and shipping method selected. Business days do not include holidays or weekends. Shipping rates are calculated by the location and size\/weight of the package, and are quoted in real time to you by FedEx.<\/p><p><strong>Next Business Day: <\/strong>Orders placed before 1 pm will ship the same day and is normally delivered the next business day (excluding Saturdays, Sundays and Holidays).<\/p><p><strong>Saturday Delivery: <\/strong>This is a premium service offered by FedEx for packages that need to be delivered on the weekend. Orders must be placed by 1 pm on that Friday.<\/p><p><strong>Express: <\/strong>Once your order is shipped, it should be delivered within 2 - 3 business days<\/p><p><strong>Ground Shipping: <\/strong>Expect up to 7 business days in transit (not including weekends or holidays).<\/p><p>For more information, please see our <a href=\"\/pages\/shipping-information\" title=\"Shipping Information\">Shipping Information page<\/a>.<\/p>",
+            "page": "",
+            "show_file_src": false
+          }
+        },
+        "7feb0b58-d84f-4473-98ae-96eca7e247cc": {
+          "type": "reviews",
+          "settings": {
+          }
+        },
+        "8e591e78-4383-44d9-ba95-a67760147e0e": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a Question",
+            "phone": true
+          }
+        },
+        "3ff49548-85b5-432c-9cff-e3b95ef1fbc4": {
+          "type": "share",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "776b787c-e990-43d2-a181-99f6ff2271c7",
+        "price",
+        "inventory_status",
+        "sales_point",
+        "sales_point3",
+        "sales_point4",
+        "9dc51ddf-80e9-4e0e-a11b-b08147a06772",
+        "variant_picker",
+        "04e13c0b-f3bf-46a8-b997-1fffc7b81311",
+        "buy_buttons",
+        "4f0226c7-14b3-4d16-8e2a-d7bc05cb4486",
+        "10189371-a436-4358-b0ad-ad4e1871f6f3",
+        "bbd48edb-b902-4bbd-9809-40464fb83346",
+        "7feb0b58-d84f-4473-98ae-96eca7e247cc",
+        "8e591e78-4383-44d9-ba95-a67760147e0e",
+        "3ff49548-85b5-432c-9cff-e3b95ef1fbc4"
+      ],
+      "settings": {
+        "sku_enable": true,
+        "image_position": "left",
+        "image_container_size": "small",
+        "product_image_size": "square",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "You may also like"
+      }
+    },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+        "color_scheme": "2"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "recommendations",
+    "more-products-vendor",
+    "more-products-collection",
+    "recently-viewed",
+    "collection-return"
+  ]
+}
