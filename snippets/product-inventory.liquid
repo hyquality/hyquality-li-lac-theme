@@ -24,7 +24,7 @@
         {%- if inventory_visible -%}
           {{ 'products.product.stock_label' | t: count: current_variant.inventory_quantity }}
         {%- else -%}
-          {{ 'products.product.in_stock_label' | t }}
+          {{ 'products.product.in_stock_label' | t }}dd
         {%- endif -%}
       </span>
     </span>
