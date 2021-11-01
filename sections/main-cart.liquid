@@ -25,7 +25,7 @@
             {% endfor %}
           </div>
 
-          
+          {%- render 'cart-recommendations', location: 'page' -%}
         </div>
         <div class="cart__page-col">
           {% if settings.cart_notes_enable %}
@@ -43,7 +43,6 @@
               <textarea name="note" class="input-full cart__note hide" id="CartNote">{{ cart.note }}</textarea>
             </div>
           {% endif %}
-          {%- render 'cart-recommendations', location: 'page' -%}
 
           <div class="cart__item-sub cart__item-row cart__item--subtotal">
             <div>{{ 'cart.general.subtotal' | t }}</div>
