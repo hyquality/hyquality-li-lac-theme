@@ -28,8 +28,6 @@
     </div>
 
     <div data-discounts></div>
-    
-    {%- render 'cart-recommendations', location: 'drawer' -%}
 
     {% if settings.cart_terms_conditions_enable %}
       <div class="cart__item-row cart__terms">
@@ -45,6 +43,8 @@
         </label>
       </div>
     {% endif %}
+    
+    {%- render 'cart-recommendations', location: 'drawer' -%}
 
     <div class="cart__item-row cart__checkout-wrapper payment-buttons">
       <button type="submit" name="checkout" data-terms-required="{{ settings.cart_terms_conditions_enable }}" class="btn cart__checkout">
