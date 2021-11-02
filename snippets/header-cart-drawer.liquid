@@ -18,10 +18,11 @@
         <textarea name="note" class="input-full cart__note hide" id="CartHeaderNote">{{ cart.note }}</textarea>
       </div>
     {% endif %}
-    <input type="text" placeholder="Additional order instructions" name="attributes[comments]" class="input-full cart__note" id="CartHeaderNote">{{ cart.attributes.comments }}</textarea>
-
     
     {% render 'delivery-date' %}
+    
+     <input type="text" placeholder="Additional order instructions" name="attributes[comments]" class="input-full cart__note" id="CartHeaderNote">{{ cart.attributes.comments }}</textarea>
+
     
   </div>
 
