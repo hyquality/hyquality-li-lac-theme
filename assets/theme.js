@@ -4582,7 +4582,8 @@ lazySizesConfig.expFactor = 4;
       cart: '#HeaderCart',
   
       closeBtn: '.js-close-header-cart',
-      noteBtn: '.add-note'
+      noteBtn: '.add-note',
+      noteBtn2: '.add-note2'
     };
   
     var classes = {
@@ -4601,6 +4602,7 @@ lazySizesConfig.expFactor = 4;
       }
       this.trigger = document.querySelector(selectors.cartTrigger);
       this.noteBtn = this.wrapper.querySelector(selectors.noteBtn);
+      this.noteBtn2 = this.wrapper.querySelector(selectors.noteBtn2);
       this.form = this.wrapper.querySelector('form');
   
       // Close header cart
@@ -4628,6 +4630,13 @@ lazySizesConfig.expFactor = 4;
         if (this.noteBtn) {
           this.noteBtn.addEventListener('click', function() {
             this.noteBtn.classList.toggle('is-active');
+            this.wrapper.querySelector('.cart__note').classList.toggle('hide');
+          }.bind(this));
+        }
+        
+        if (this.noteBtn2) {
+          this.noteBtn2.addEventListener('click', function() {
+            this.noteBtn2.classList.toggle('is-active');
             this.wrapper.querySelector('.cart__note').classList.toggle('hide');
           }.bind(this));
         }
