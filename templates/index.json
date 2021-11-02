@@ -16,7 +16,7 @@
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/LiLac_070318_BacktoSchool2.jpg",
+            "image": "shopify:\/\/shop_images\/LiLac_070318_Thanksgiving3.jpg",
             "image_mobile": "shopify:\/\/shop_images\/LiLac_070318_BacktoSchool2.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -39,11 +39,29 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "b38abcdf-8dfc-4833-a69b-43fd9e461bb7": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>Overlaid Hero Slide<\/p>",
+            "title_size": 70,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#fff",
+            "text_align": "vertical-bottom horizontal-left",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "163129050352bbb897-0",
-        "bc6c5d07-0368-482f-a64d-a73a64d61ea3"
+        "bc6c5d07-0368-482f-a64d-a73a64d61ea3",
+        "b38abcdf-8dfc-4833-a69b-43fd9e461bb7"
       ],
       "settings": {
         "full_width": true,
