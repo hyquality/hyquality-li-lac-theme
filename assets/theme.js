@@ -8411,9 +8411,18 @@ lazySizesConfig.expFactor = 4;
         }
 
         var noteBtn = cartPageForm.querySelector('.add-note');
+var noteBtn2 = cartPageForm.querySelector('.add-note2');
         if (noteBtn) {
           noteBtn.addEventListener('click', function() {
             noteBtn.classList.toggle('is-active');
+            cartPageForm.querySelector('.cart__note').classList.toggle('hide');
+          });
+        }
+
+var noteBtn2 = cartPageForm.querySelector('.add-note2');
+        if (noteBtn2) {
+          noteBtn2.addEventListener('click', function() {
+            noteBtn2.classList.toggle('is-active');
             cartPageForm.querySelector('.cart__note').classList.toggle('hide');
           });
         }
