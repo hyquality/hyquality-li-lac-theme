@@ -17,7 +17,8 @@
           "type": "inventory_status",
           "settings": {
             "inventory_threshold": 10,
-            "inventory_transfers_enable": true
+            "inventory_transfers_enable": true,
+            "inventory_label": "In stock, ready to ship"
           }
         },
         "sales_point": {
@@ -132,7 +133,7 @@
         "sku_enable": true,
         "image_position": "left",
         "image_container_size": "small",
-        "product_image_size": "square",
+        "product_image_size": "natural",
         "product_zoom_enable": true,
         "thumbnail_position": "below",
         "thumbnail_arrows": true,
