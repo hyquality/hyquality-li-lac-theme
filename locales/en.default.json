@@ -133,7 +133,7 @@
       "subtotal": "Subtotal",
       "discounts": "Promotions",
       "savings_html": "You save {{ saved_amount }}",
-      "shipping_at_checkout": "Shipping, taxes, and promotion codes calculated at checkout.",
+      "shipping_at_checkout": "Shipping, taxes, & promotions calculated at checkout.",
       "update": "Update Cart",
       "checkout": "Checkout",
       "empty": "Your cart is currently empty.",
