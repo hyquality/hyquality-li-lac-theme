@@ -377,5 +377,20 @@
   },
   "date_formats": {
     "month_day_year": "%b %d, %Y"
+  },
+  "shopify": {
+    "checkout": {
+      "order_summary": {
+        "discount_label": "Promotion Code",
+        "discount_placeholder": "Promotion Code",
+        "gift_card_and_discount_title": "Gift card or promotion code",
+        "gift_card_and_discount_label": "Gift card or promotion code",
+        "gift_card_and_discount_placeholder": "Gift card or promotion code",
+        "remove_discount_label": "Remove promotion",
+        "discount_has_been_applied": "Promotion has been applied",
+        "discount_has_been_removed": "Promotion has been removed",
+        "discount_already_applied": "A promotion has been applied to this order. You can't add another promotion."
+      }
+    }
   }
 }
