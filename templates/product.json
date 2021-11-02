@@ -21,6 +21,13 @@
             "inventory_label": "In stock, ready to ship"
           }
         },
+        "08e9f387-6ff4-46ea-9c39-41411d9e5d97": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "handmade_brooklyn"
+          }
+        },
         "sales_point": {
           "type": "sales_point",
           "settings": {
@@ -98,13 +105,6 @@
           "settings": {
           }
         },
-        "8e591e78-4383-44d9-ba95-a67760147e0e": {
-          "type": "contact",
-          "settings": {
-            "title": "Ask a Question",
-            "phone": true
-          }
-        },
         "3ff49548-85b5-432c-9cff-e3b95ef1fbc4": {
           "type": "share",
           "settings": {
@@ -115,6 +115,7 @@
         "776b787c-e990-43d2-a181-99f6ff2271c7",
         "price",
         "inventory_status",
+        "08e9f387-6ff4-46ea-9c39-41411d9e5d97",
         "sales_point",
         "9dc51ddf-80e9-4e0e-a11b-b08147a06772",
         "sales_point3",
@@ -126,7 +127,6 @@
         "10189371-a436-4358-b0ad-ad4e1871f6f3",
         "bbd48edb-b902-4bbd-9809-40464fb83346",
         "7feb0b58-d84f-4473-98ae-96eca7e247cc",
-        "8e591e78-4383-44d9-ba95-a67760147e0e",
         "3ff49548-85b5-432c-9cff-e3b95ef1fbc4"
       ],
       "settings": {
