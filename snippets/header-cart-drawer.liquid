@@ -21,7 +21,7 @@
     
     {% render 'delivery-date' %}
     
-     <textarea rows="1" cols="60" placeholder="Type any order instructions here..." name="attributes[comments]" class="input-full cart__note additional-comments" id="CartHeaderNote">{{ cart.attributes.comments }}</textarea>
+     <textarea style="min-height:25px;" rows="1" cols="60" placeholder="Type any order instructions here..." name="attributes[comments]" class="input-full cart__note additional-comments" id="CartHeaderNote">{{ cart.attributes.comments }}</textarea>
 
     
     {%- render 'cart-recommendations', location: 'drawer' -%}
