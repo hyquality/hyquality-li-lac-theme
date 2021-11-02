@@ -324,7 +324,9 @@
               {% assign stripped_meta = block.settings.text | strip_html | strip_newlines | strip %}
                 {% assign meta = product.metafields.my_fields[stripped_meta] %}
                {%- if meta == true -%}
-              	{%- if stripped_meta == 'gluten_free' -%}
+              	{%- if stripped_meta == 'handmade_brooklyn' -%}
+              	{%- assign point_name = "Handmade in Brooklyn" -%}
+              	{%- elsif stripped_meta == 'gluten_free' -%}
               	{%- assign point_name = "Gluten Free" -%}
               	{%- elsif stripped_meta == 'dairy_free' -%}
                 {%- assign point_name = "Dairy-Free" -%}
