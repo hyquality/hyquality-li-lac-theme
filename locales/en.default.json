@@ -129,7 +129,7 @@
     "general": {
       "title": "Cart",
       "remove": "Remove",
-      "note": "ADD GIFT NOTE",
+      "note": "ADD GIFT NOTE:",
       "subtotal": "Subtotal",
       "discounts": "Promotions",
       "savings_html": "You save {{ saved_amount }}",
