@@ -3,7 +3,11 @@
     <div data-products></div>
     
 
-    {% if settings.cart_notes_enable %}
+   
+  </div>
+
+  <div class="cart__footer">
+     {% if settings.cart_notes_enable %}
       <div class="cart__item-row">
         <label for="CartHeaderNote" class="add-note">
           {{ 'cart.general.note' | t }}
@@ -25,9 +29,6 @@
 
     
     {%- render 'cart-recommendations', location: 'drawer' -%}
-  </div>
-
-  <div class="cart__footer">
     <div class="cart__item-sub cart__item-row cart__item--subtotal">
       <div>{{ 'cart.general.subtotal' | t }}</div>
       <div data-subtotal>{{ cart.total_price | money }}</div>
