@@ -12,7 +12,7 @@
   <input type="hidden" name="type" value="{{ settings.search_type }}">
   <input type="search" name="q" value="{{ search.terms | escape | replace: '*', '' }}" placeholder="{{ 'general.search.placeholder' | t }}" class="site-header__search-input" aria-label="{{ 'general.search.placeholder' | t }}">
   <button type="submit" class="text-link site-header__search-btn site-header__search-btn--submit">
-    <span class="icon__fallback-text">{{ 'general.search.submit' | t }}</span>
+    <span class="icon__fallback-text" style="position:relative;">{{ 'general.search.submit' | t }}</span>
   </button>
 
   <button type="button" class="text-link site-header__search-btn site-header__search-btn--cancel">
