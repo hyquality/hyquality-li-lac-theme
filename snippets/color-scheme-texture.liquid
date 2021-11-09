@@ -17,6 +17,7 @@
   {% assign img_url = texture | asset_img_url: '1x1' | replace: '_1x1.', '_{width}x.' %}
   <img class="lazyload scheme-image"
       aria-hidden="true"
+      alt="Background Texture"
       data-src="{{ img_url }}"
       data-texture="{{ texture }}"
       data-widths="[360, 540, 720, 900, 1080]"
