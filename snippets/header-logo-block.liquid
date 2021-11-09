@@ -45,8 +45,9 @@
     {%- endif -%}
 
     {%- if block.settings.logo -%}
+        {% comment %}
       <span class="visually-hidden">{{ shop.name }}</span>
-      {% comment %}
+      
         .logo--has-inverted is only applied to the default logo if the inverted logo exists. That way it'll only be hidden on the slider when it has a backup.
       {% endcomment %}
       <a
