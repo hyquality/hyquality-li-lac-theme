@@ -52,7 +52,9 @@
       <div>
         <div class="js-qty__wrapper">
           <label for="cart_updates_{{ product.key }}" class="hidden-label">{{ 'cart.label.quantity' | t }}</label>
-          <input type="text"
+          <input
+            {% if item.variant.metafields.secomapp.freegifts %}readonly{% endif %}
+            type="text"
             id="cart_updates_{{ product.key }}"
             name="updates[]"
             class="js-qty__num"
@@ -66,7 +68,9 @@
               <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-minus" viewBox="0 0 64 64"><path class="cls-1" d="M55 32H9"/></svg>
               <span class="icon__fallback-text" aria-hidden="true">&minus;</span>
           </button>
-          <button type="button"
+          <button
+            {% if item.variant.metafields.secomapp.freegifts %}style="display: none !important;"{% endif %}
+            type="button"
             class="js-qty__adjust js-qty__adjust--plus"
             aria-label="{{ 'cart.general.increase_quantity' | t }}">
               <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-plus" viewBox="0 0 64 64"><path class="cls-1" d="M32 9v46m23-23H9"/></svg>

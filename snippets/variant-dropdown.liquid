@@ -10,6 +10,7 @@
       id="SingleOptionSelector-{{ section_id }}-{{ product.id }}-option-{{ forloop.index0 }}"
       data-index="option{{ forloop.index }}">
       {%- for value in option.values -%}
+      {% unless value contains "% off)" %}
         {%- liquid
           assign variant_label_state = true
           if product.options.size == 1
@@ -27,6 +28,7 @@
           data-index="option{{ forloop.index }}">
           {{ value }}
         </option>
+      {% endunless %}
       {%- endfor -%}
     </select>
   </div>

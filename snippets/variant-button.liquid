@@ -24,6 +24,7 @@
     id="ProductSelect-{{ section_id }}-{{ product.id }}-option-{{ forloop.index0 }}">
     <legend class="hide">{{ option.name }}</legend>
     {%- for value in option.values -%}
+    {% unless value contains "% off)" %}
       {%- liquid
         assign product_available = true
         if product.options.size == 1
@@ -63,6 +64,7 @@
             class="variant__button-label{% unless product_available %} disabled{% endunless %}">{{ value | escape }}</label>
         {%- endif -%}
       </div>
+    {% endunless %}
     {%- endfor -%}
   </fieldset>
 </div>
