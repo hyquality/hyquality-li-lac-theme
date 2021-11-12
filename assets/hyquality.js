@@ -6,8 +6,8 @@ HyDOMready(function(){
 
     let noteBtnOrderInstriction = document.querySelector('.add-order-instruction');
     if (noteBtnOrderInstriction) {
-        noteBtnOrderInstriction.addEventListener('click', function() {
-
+        noteBtnOrderInstriction.addEventListener('click', function(e) {
+            e.stopPropagation();
             noteBtnOrderInstriction.classList.toggle('is-active');
             document.getElementById('CartHeaderOrderInstructions').classList.toggle('hide');
         });
@@ -15,9 +15,9 @@ HyDOMready(function(){
 
     let noteBtnAddDeliveryDate = document.querySelector('.add-delivery-date');
     if (noteBtnAddDeliveryDate) {
-        noteBtnAddDeliveryDate.addEventListener('click', function() {
+        noteBtnAddDeliveryDate.addEventListener('click', function(e) {
+            e.stopPropagation();
             noteBtnAddDeliveryDate.classList.toggle('is-active');
-            //document.querySelector('.delivery-date-pro').classList.toggle('hide');
             document.querySelectorAll(".delivery-date-pro").forEach(function(element) {
                 element.classList.toggle('hide')
             });
