@@ -58,6 +58,8 @@
     var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
     
     $(document).ready(function(){
+        $('.appjetty-ddm-cart-cal').hide();
+    
         $('.add-delivery-date').click(function(){
            console.log('-- iiiiii --');
             console.log($(this));
