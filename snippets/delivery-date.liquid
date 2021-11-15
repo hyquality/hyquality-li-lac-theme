@@ -57,11 +57,12 @@
 <script>
     var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
     
-    
-    $(document).click('.add-delivery-date ',function(){
-       console.log('-- iiiiii --');
-        console.log($(this));
-       $(this).hasClass('is-active') ? $('.appjetty-ddm-cart-cal').show() : $('.appjetty-ddm-cart-cal').hide();
+    $(document).ready(function(){
+        $('.add-delivery-date').click(function(){
+           console.log('-- iiiiii --');
+            console.log($(this));
+           $(this).hasClass('is-active') ? $('.appjetty-ddm-cart-cal').show() : $('.appjetty-ddm-cart-cal').hide();
+        }); 
     });
     
 </script>
