@@ -56,7 +56,7 @@
 {% endif %}
 <script>
     var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
-    $(document).ready(function(){ $('.appjetty-ddm-cart-cal').hide(); });
+    
     
     $(document).click('.add-delivery-date ',function(){
        $(this).hasClass('is-active') ? $('.appjetty-ddm-cart-cal').show() : $('.appjetty-ddm-cart-cal').hide();
