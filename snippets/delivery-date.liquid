@@ -43,7 +43,7 @@
 
         <input id="delivery-date-pro" class="hide delivery-date-pro" style="display:block;" type="text" name="attributes[Delivery-Date]"
                value="{{ cart.attributes.Delivery-Date }}" readonly="readonly" disabled/>
-        <div class="appjetty-ddm-cart-cal"></div>
+        <!--<div class="appjetty-ddm-cart-cal"></div>        -->
             
     </p>
     <span id="selected_format"></span>
@@ -57,5 +57,9 @@
 <script>
     var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
 
+    //$('.add-delivery-date ').click(function(){
+    //   $(this).hasClass('is-active')) ? $('.appjetty-ddm-cart-cal').show() : $('.appjetty-ddm-cart-cal').hide();
+    //});
+    
 </script>
 {{ 'https://zestardshop.com/shopifyapp/DeliveryDatePro/public/js/snippets.js' | script_tag }}{{ 'https://zestardshop.com/shopifyapp/DeliveryDatePro/public/css/zestard-deliverydatepro-snippet.css' | stylesheet_tag }}
