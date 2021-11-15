@@ -57,15 +57,15 @@
 <script>
     var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
     
+    /* appjetty DDM code start */
     $(document).ready(function(){
         $('.appjetty-ddm-cart-cal').hide();
     
         $('.add-delivery-date').click(function(){
-           console.log('-- iiiiii --');
-            console.log($(this));
            $(this).hasClass('is-active') ? $('.appjetty-ddm-cart-cal').show() : $('.appjetty-ddm-cart-cal').hide();
         }); 
     });
+    /* appjetty DDM code end */
     
 </script>
 <style>
