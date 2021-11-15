@@ -43,7 +43,7 @@
 
         <input id="delivery-date-pro" class="hide delivery-date-pro" style="display:block;" type="text" name="attributes[Delivery-Date]"
                value="{{ cart.attributes.Delivery-Date }}" readonly="readonly" disabled/>
-        <div class="appjetty-ddm-cart-cal" style="display:none;"></div>
+        <div class="appjetty-ddm-cart-cal"></div>
             
     </p>
     <span id="selected_format"></span>
@@ -57,6 +57,7 @@
 <script>
     var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
 
+    $('.appjetty-ddm-cart-cal').hide();
     $('.add-delivery-date ').click(function(){
        $(this).hasClass('is-active') ? $('.appjetty-ddm-cart-cal').show() : $('.appjetty-ddm-cart-cal').hide();
     });
