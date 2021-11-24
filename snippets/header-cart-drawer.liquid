@@ -25,7 +25,7 @@
 
     {% render 'delivery-date' %}
     
-    
+    {% comment %}
     <div class="cart__item-row">
       <label for="CartHeaderOrderInstructions" class="add-order-instruction add-note">
         SPECIAL INSTRUCTIONS:
@@ -39,6 +39,7 @@
       </label>
       <textarea  rows="1" cols="60" placeholder="Type any order instructions here..." name="attributes[comments]" class="input-full additional-comments hide" id="CartHeaderOrderInstructions">{{ cart.attributes.comments }}</textarea>
     </div>
+    {% endcomment %}
 
 
     {%- render 'cart-recommendations', location: 'drawer' -%}
