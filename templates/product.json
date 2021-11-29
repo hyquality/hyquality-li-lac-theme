@@ -25,7 +25,7 @@
           "type": "sales_point",
           "settings": {
             "icon": "truck",
-            "text": "Free Shipping"
+            "text": "ships_free"
           }
         },
         "08e9f387-6ff4-46ea-9c39-41411d9e5d97": {
