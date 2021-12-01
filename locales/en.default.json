@@ -338,7 +338,7 @@
         "one": "Low stock - {{ count }} item left",
         "other": "Low stock - {{ count }} items left"
       },
-      "sold_out": "Sold Out",
+      "sold_out": "Temporarily Out of Stock",
       "unavailable": "Unavailable",
       "quantity": "Quantity",
       "add_to_cart": "Add to Cart",
