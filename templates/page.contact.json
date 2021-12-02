@@ -5,24 +5,14 @@
       "settings": {
       }
     },
-    "16334431069aa14289": {
-      "type": "advanced-content",
-      "blocks": {
-        "16334431069aa14289-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<div style=\"margin:0 auto;\" class=\"pxFormGenerator\" id=\"Yqf6521mO-acUdZNkXUarA\"><\/div>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "16334431069aa14289-1"
-      ],
+    "16384592799dd2ea2a": {
+      "type": "contact-form",
       "settings": {
-        "full_width": false,
-        "space_around": true
+        "title": "",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true,
+        "color_scheme": "1"
       }
     },
     "rich-text": {
@@ -49,7 +39,7 @@
   },
   "order": [
     "main",
-    "16334431069aa14289",
+    "16384592799dd2ea2a",
     "rich-text"
   ]
 }
