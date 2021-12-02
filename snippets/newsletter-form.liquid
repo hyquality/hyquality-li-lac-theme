@@ -27,3 +27,23 @@
     </div>
   {%- endunless -%}
 {% endform %}
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    if (window.location.href.indexOf("prospect%2Cnewsletter&form_type=customer") > -1) {
+      $(".old-subscriber").addClass("old-subscriber-true");
+    }
+    else {
+    $(".old-subscriber").removeClass("old-subscriber-true");
+    }
+  });
+</script>
+ 
+<style>
+.old-subscriber {
+display: none;
+}
+.old-subscriber-true {
+display: block;
+}
+</style>
