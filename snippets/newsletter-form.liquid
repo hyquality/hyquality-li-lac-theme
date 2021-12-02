@@ -4,31 +4,10 @@
     <div class="note note--success">
       {{ 'general.newsletter_form.newsletter_confirmation' | t }}
     </div>
-  {%- elsif form.errors and form.context == snippet_context -%}
-  {{ form.errors | default_errors }}
-{%- else -%}
-  <div class="note note--success">You are already subscribed.</div>
-{%- endif -%}
-
-<script type="text/javascript">
-  $(document).ready(function() {
-    if (window.location.href.indexOf("newsletter-newsletter-popup") > -1) {
-      $(".old-subscriber").addClass("old-subscriber-true");
-    }
-    else {
-    $(".old-subscriber").removeClass("old-subscriber-true");
-    }
-  });
-</script>
- 
-<style>
-.old-subscriber {
-display: none;
-}
-.old-subscriber-true {
-display: block;
-}
-</style>
+  {%- endif -%}
+  {%- if form.errors and form.context == snippet_context -%}
+    {{ form.errors | default_errors }}
+  {%- endif -%}
 
   {%- unless form.posted_successfully? -%}
     <label for="Email-{{ section_id }}" class="hidden-label">{{ 'general.newsletter_form.newsletter_email' | t }}</label>
