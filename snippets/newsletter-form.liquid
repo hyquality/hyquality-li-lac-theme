@@ -30,9 +30,13 @@
 <script type="text/javascript">
   var checkNewsLetter = false;
   $(document).ready(function() {
-    if(!checkNewsLetter){
+    if(!checkNewsLetter && $("#newsletter-footer .errors").length===0){
+
       if (window.location.href.indexOf("prospect%2Cnewsletter&form_type=customer") > -1) {
         $("#newsletter-footer").prepend('<div class="errors"><ul><li>You are already subscribed!</li></ul></div>')
+        $([document.documentElement, document.body]).animate({
+          scrollTop: $("#shopify-section-footer").offset().top
+        }, 500);
       }
 
       checkNewsLetter = true;
