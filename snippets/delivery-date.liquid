@@ -53,20 +53,7 @@
     <span id="admin_notes" class="hide delivery-date-pro"></span>
 </div>
 {% endif %}
-<script>
-    var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
-    
-    /* appjetty DDM code start */
-    $(document).ready(function(){
-        $('.appjetty-ddm-cart-cal').hide();
-    
-        $('.add-delivery-date').click(function(){
-           $(this).hasClass('is-active') ? $('.appjetty-ddm-cart-cal').show() : $('.appjetty-ddm-cart-cal').hide();
-        }); 
-    });
-    /* appjetty DDM code end */
-    
-</script>
+
 <style>
     .cart_datepicker{ justify-content: initial; }
     .lable_dds-date-wrapper.label-right {text-align: left !important;}
