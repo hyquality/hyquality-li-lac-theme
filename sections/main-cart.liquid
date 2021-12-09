@@ -29,33 +29,36 @@
   </header>
 
   {%- if cart.item_count > 0 -%}
-    <form action="{{ routes.cart_url }}" method="post" novalidate data-location="header" class="cart__drawer-form">
-  <div class="cart__scrollable">
-    <div data-products></div>
-    
+    <form action="{{ routes.cart_url }}" method="post" novalidate data-location="page" id="CartPageForm">
+      <div class="cart__page">
+        <div class="cart__page-col">
+          <div data-products>
+            {% for item in cart.items %}
+              {%- render 'cart-item', product: item -%}
+            {% endfor %}
+          </div>
 
-   
-  </div>
-
-  <div class="cart__footer">
-    <h4><center>Checkout Options</h4>
-     {% if settings.cart_notes_enable %}
-      <div class="cart__item-row">
-        <label for="CartHeaderNote" class="add-note">
-          {{ 'cart.general.note' | t }}
-          <span class="note-icon note-icon--open" aria-hidden="true">
-            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-pencil" viewBox="0 0 64 64"><defs><style>.cls-1,.cls-2{fill:none;stroke:#000;stroke-width:2px}.cls-1{stroke-miterlimit:10}</style></defs><path class="cls-1" d="M52 33.96V58H8V14h23.7"/><path class="cls-1" d="M18 47l13-5 24-24-8-8-24 24-5 13zM23 34l8 8"/><path id="svg_2" data-name="svg 2" class="cls-2" d="M47 10l1-1a5.44 5.44 0 0 1 7.82.18A5.52 5.52 0 0 1 56 17l-1 1"/></svg>
-          </span>
-          <span class="note-icon note-icon--close">
-            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><defs><style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:2px}</style></defs><path class="cls-1" d="M19 17.61l27.12 27.13m0-27.13L19 44.74"/></svg>
-            <span class="icon__fallback-text">{{ 'general.accessibility.close' | t }}</span>
-          </span>
-        </label>
-        <textarea name="note" class="input-full cart__note hide" id="CartHeaderNote">{{ cart.note }}</textarea>
-      </div>
-    {% endif %}
-
-    {% render 'delivery-date' %}
+          {%- render 'cart-recommendations', location: 'page' -%}
+        </div>
+        <div class="cart__page-col">
+          <h4><center>Checkout Options</h4>
+          {% if settings.cart_notes_enable %}
+            <div class="cart__item-row">
+              <label for="CartNote" class="add-note">
+                {{ 'cart.general.note' | t }}
+                <span class="note-icon note-icon--open" aria-hidden="true">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-pencil" viewBox="0 0 64 64"><defs><style>.cls-1,.cls-2{fill:none;stroke:#000;stroke-width:2px}.cls-1{stroke-miterlimit:10}</style></defs><path class="cls-1" d="M52 33.96V58H8V14h23.7"/><path class="cls-1" d="M18 47l13-5 24-24-8-8-24 24-5 13zM23 34l8 8"/><path id="svg_2" data-name="svg 2" class="cls-2" d="M47 10l1-1a5.44 5.44 0 0 1 7.82.18A5.52 5.52 0 0 1 56 17l-1 1"/></svg>
+                </span>
+                <span class="note-icon note-icon--close">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><defs><style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:2px}</style></defs><path class="cls-1" d="M19 17.61l27.12 27.13m0-27.13L19 44.74"/></svg>
+                  <span class="icon__fallback-text">{{ 'general.accessibility.close' | t }}</span>
+                </span>
+              </label>
+              <textarea name="note" class="input-full cart__note hide" id="CartNote">{{ cart.note }}</textarea>
+            </div>
+          {% endif %}
+            
+            {% render 'delivery-date' %}
 
           <div class="cart__item-sub cart__item-row cart__item--subtotal">
             <div>{{ 'cart.general.subtotal' | t }}</div>
