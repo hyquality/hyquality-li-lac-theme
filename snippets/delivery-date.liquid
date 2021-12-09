@@ -46,19 +46,30 @@
         <div class="appjetty-ddm-cart-cal"></div>
             
     </p>
-	<span id="selected_format"></span>
-	<label id="delivery-time-label" style="display:none" ></label>
-	<select id="delivery-time" name="attributes[Delivery-Time]" style="display:none" readonly="readonly">
-	<option id="time_option_label" value=""></option>
-	</select>
-	<span id="admin_notes"></span>
+    <span id="selected_format"></span>
+    <label id="delivery-time-label" style="display:none"></label>
+    <select id="delivery-time" name="attributes[Delivery-Time]" style="display:none" readonly="readonly">
+        <option id="time_option_label" value=""></option>
+    </select>
+    <span id="admin_notes" class="hide delivery-date-pro"></span>
 </div>
-{% endif %}<script>
-var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
-
+{% endif %}
+<script>
+    var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
+    
+    /* appjetty DDM code start */
+    $(document).ready(function(){
+        $('.appjetty-ddm-cart-cal').hide();
+    
+        $('.add-delivery-date').click(function(){
+           $(this).hasClass('is-active') ? $('.appjetty-ddm-cart-cal').show() : $('.appjetty-ddm-cart-cal').hide();
+        }); 
+    });
+    /* appjetty DDM code end */
+    
 </script>
+<style>
+    .cart_datepicker{ justify-content: initial; }
+    .lable_dds-date-wrapper.label-right {text-align: left !important;}
+</style>
 {{ 'https://zestardshop.com/shopifyapp/DeliveryDatePro/public/js/snippets.js' | script_tag }}{{ 'https://zestardshop.com/shopifyapp/DeliveryDatePro/public/css/zestard-deliverydatepro-snippet.css' | stylesheet_tag }}
-
-
-
-
