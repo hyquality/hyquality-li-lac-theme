@@ -13,7 +13,13 @@
 {{ 'https://zestardshop.com/shopifyapp/DeliveryDatePro/public/css/jquery-ui.css' | stylesheet_tag }}{% if flag == 1 %}
 <div id="datepicker_box" class="additional-css">
   
-    
+    <p class="date-box">
+		
+
+        <input id="delivery-date-pro" class="hide delivery-date-pro" style="display:block;" type="text" name="attributes[Delivery-Date]"
+               value="{{ cart.attributes.Delivery-Date }}" readonly="readonly" disabled/>
+  
+    </p>
     <span id="selected_format"></span>
     <label id="delivery-time-label" style="display:none"></label>
     <select id="delivery-time" name="attributes[Delivery-Time]" style="display:none" readonly="readonly">
