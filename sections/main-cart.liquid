@@ -57,8 +57,11 @@
               <textarea name="note" class="input-full cart__note hide" id="CartNote">{{ cart.note }}</textarea>
             </div>
           {% endif %}
+            <form action="{{ routes.cart_url }}" method="post" novalidate data-location="header" class="cart__drawer-form">
             
             {% render 'delivery-date' %}
+              
+            </form>
 
           <div class="cart__item-sub cart__item-row cart__item--subtotal">
             <div>{{ 'cart.general.subtotal' | t }}</div>
