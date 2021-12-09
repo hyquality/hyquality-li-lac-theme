@@ -41,7 +41,7 @@
           {%- render 'cart-recommendations', location: 'page' -%}
         </div>
         <div class="cart__page-col">
-          <h5><center>Checkout Options</h5>
+          <h4><center>Checkout Options</h4>
           {% if settings.cart_notes_enable %}
             <div class="cart__item-row">
               <label for="CartNote" class="add-note">
@@ -57,6 +57,8 @@
               <textarea name="note" class="input-full cart__note hide" id="CartNote">{{ cart.note }}</textarea>
             </div>
           {% endif %}
+            
+            {% render 'delivery-date' %}
 
           <div class="cart__item-sub cart__item-row cart__item--subtotal">
             <div>{{ 'cart.general.subtotal' | t }}</div>
