@@ -45,7 +45,12 @@
                value="{{ cart.attributes.Delivery-Date }}" readonly="readonly" disabled/>
   
     </p>
-   
+    <span id="selected_format"></span>
+    <label id="delivery-time-label" style="display:none"></label>
+    <select id="delivery-time" name="attributes[Delivery-Time]" style="display:none" readonly="readonly">
+        <option id="time_option_label" value=""></option>
+    </select>
+    <span id="admin_notes" class="hide delivery-date-pro"></span>
 </div>
 {% endif %}
 
