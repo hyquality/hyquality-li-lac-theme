@@ -29,7 +29,7 @@
   </header>
 
   {%- if cart.item_count > 0 -%}
-    <form action="{{ routes.cart_url }}" method="post" novalidate data-location="page" id="CartPageForm">
+    <form action="{{ routes.cart_url }}" method="post" novalidate data-location="header" class="cart__drawer-form">
       <div class="cart__page">
         <div class="cart__page-col">
           <div data-products>
