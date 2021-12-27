@@ -20,50 +20,10 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
-        },
-        "163129050352bbb897-0": {
-          "type": "hero",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 70,
-            "subheading": "",
-            "link": "shopify:\/\/collections\/christmas",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/LiLac_070318_XmasWonder.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/LiLac_070318_XmasWonder.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "bc6c5d07-0368-482f-a64d-a73a64d61ea3": {
-          "type": "hero",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 70,
-            "subheading": "",
-            "link": "shopify:\/\/collections\/kosher-chanukah-chocolate",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/LiLac_070318_Chanukah.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/LiLac_070318_Chanukah.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
-        "92fd64b1-332c-4d40-a54c-af65f826b7a1",
-        "163129050352bbb897-0",
-        "bc6c5d07-0368-482f-a64d-a73a64d61ea3"
+        "92fd64b1-332c-4d40-a54c-af65f826b7a1"
       ],
       "settings": {
         "full_width": true,
