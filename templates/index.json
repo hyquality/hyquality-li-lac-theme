@@ -1,25 +1,7 @@
 {
   "sections": {
-    "16406383866688e8ad": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "",
-        "text": "",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/180613_Li-Lac_banners-01.jpg",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 450,
-        "parallax": false,
-        "show_top_border": false,
-        "show_bottom_border": false
-      }
-    },
     "163129050352bbb897": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "92fd64b1-332c-4d40-a54c-af65f826b7a1": {
           "type": "hero",
@@ -395,7 +377,6 @@
     }
   },
   "order": [
-    "16406383866688e8ad",
     "163129050352bbb897",
     "16330081212e2a9b18",
     "featured-collections",
