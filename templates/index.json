@@ -3,6 +3,24 @@
     "163129050352bbb897": {
       "type": "slideshow",
       "blocks": {
+        "92fd64b1-332c-4d40-a54c-af65f826b7a1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 70,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/fresh-gourmet-chocolate-handmade-chocolate-from-nyc",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#fff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/180613_Li-Lac_banners-01a.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
         "163129050352bbb897-0": {
           "type": "hero",
           "settings": {
@@ -40,30 +58,12 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
-        },
-        "92fd64b1-332c-4d40-a54c-af65f826b7a1": {
-          "type": "hero",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 70,
-            "subheading": "",
-            "link": "shopify:\/\/collections\/fresh-gourmet-chocolate-handmade-chocolate-from-nyc",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#fff",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/180613_Li-Lac_banners-01a.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
+        "92fd64b1-332c-4d40-a54c-af65f826b7a1",
         "163129050352bbb897-0",
-        "bc6c5d07-0368-482f-a64d-a73a64d61ea3",
-        "92fd64b1-332c-4d40-a54c-af65f826b7a1"
+        "bc6c5d07-0368-482f-a64d-a73a64d61ea3"
       ],
       "settings": {
         "full_width": true,
