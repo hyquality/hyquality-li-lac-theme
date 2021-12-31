@@ -1167,8 +1167,15 @@ lazySizesConfig.expFactor = 4;
       };
   
       this.options = Object.assign({}, defaults, options);
-  
+
       if (this.options) {
+        this.muteButton = document.getElementById(`buttonMute-${this.options.videoId}`)
+        if(this.muteButton){
+          this.muteButton.onclick = ()=> {
+            this.mute();
+            return false;
+          };
+        }
         if (this.options.videoParent) {
           this.parent = document.getElementById(this.divId).closest(this.options.videoParent);
         }
@@ -1183,7 +1190,7 @@ lazySizesConfig.expFactor = 4;
           this.options.playerVars.controls = 1;
           this.options.playerVars.autoplay = 0;
         }
-  
+
       }
   
       this.setAsLoading();
@@ -1202,13 +1209,18 @@ lazySizesConfig.expFactor = 4;
       },
   
       onVideoPlayerReady: function(evt) {
+
         this.iframe = document.getElementById(this.divId); // iframe once YT loads
         this.iframe.setAttribute('tabindex', '-1');
   
         if (this.options.style !== 'sound') {
           evt.target.mute();
+          this.muteButton.textContent  = "unmute";
+          this.muteButton.classList.add('unmute');
+          this.muteButton.classList.remove('mute');
+          this.muteButton.setAttribute('title', 'unmute');
         }
-  
+
         // pause when out of view
         var observer = new IntersectionObserver((entries, observer) => {
           entries.forEach(entry => {
@@ -1275,7 +1287,31 @@ lazySizesConfig.expFactor = 4;
           this.videoPlayer.pauseVideo();
         }
       },
-  
+      mute: function() {
+
+        if (this.videoPlayer) {
+          if (typeof this.videoPlayer.isMuted === 'function') {
+            if(this.videoPlayer.isMuted() && typeof this.videoPlayer.unMute === 'function'){
+              this.videoPlayer.unMute();
+              if(this.muteButton){
+                this.muteButton.textContent = "mute";
+                this.muteButton.classList.add('mute');
+                this.muteButton.classList.remove('unmute');
+                this.muteButton.setAttribute('title', 'mute')
+              }
+            }
+            if(!this.videoPlayer.isMuted() && typeof this.videoPlayer.mute === 'function'){
+              this.videoPlayer.mute();
+              if(this.muteButton){
+                this.muteButton.textContent = "unmute";
+                this.muteButton.classList.add('unmute');
+                this.muteButton.classList.remove('mute');
+                this.muteButton.setAttribute('title', 'unmute')
+              }
+            }
+          }
+        }
+      },
       destroy: function() {
         if (this.videoPlayer && typeof this.videoPlayer.destroy === 'function') {
           this.videoPlayer.destroy();
