@@ -313,7 +313,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured Products",
-        "home_featured_products": "new-years-eve",
+        "home_featured_products": "valentines-day",
         "count": 5,
         "show_collection_description": true,
         "mobile_scrollable": true,
