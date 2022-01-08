@@ -177,7 +177,7 @@
           "73030477-1e04-469e-90c1-30d6ebee2078": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>FedEx delivery-time guarantees are currently suspended. Please allow additional time for packages to arrive. <\/p>",
+              "richtext": "<p>FedEx on-time delivery guarantees are suspended. Please allow additional time for packages to arrive. <\/p>",
               "richtext_mobile": "<p>FedEx delivery-time guarantees are currently suspended. Please allow additional time for packages to arrive. <\/p>"
             }
           }
