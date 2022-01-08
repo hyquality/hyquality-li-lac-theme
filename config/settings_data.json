@@ -178,7 +178,7 @@
             "type": "announcement",
             "settings": {
               "richtext": "<p>FedEx on-time delivery guarantees are suspended. Please allow additional time for packages to arrive. <\/p>",
-              "richtext_mobile": "<p>FedEx delivery-time guarantees are currently suspended. Please allow additional time for packages to arrive. <\/p>"
+              "richtext_mobile": "<p>FedEx on-time delivery-time guarantees are suspended. Please allow additional time for packages to arrive. <\/p>"
             }
           }
         },
