@@ -180,10 +180,18 @@
               "richtext": "<p>FedEx on-time delivery guarantees are suspended. Please allow additional time for packages to arrive. <\/p>",
               "richtext_mobile": "<p>FedEx on-time delivery guarantees are suspended. Please allow additional time for packages to arrive. <\/p>"
             }
+          },
+          "c6667f80-08e6-4b1c-bb7f-42c2730c2047": {
+            "type": "announcement",
+            "settings": {
+              "richtext": "",
+              "richtext_mobile": ""
+            }
           }
         },
         "block_order": [
-          "73030477-1e04-469e-90c1-30d6ebee2078"
+          "73030477-1e04-469e-90c1-30d6ebee2078",
+          "c6667f80-08e6-4b1c-bb7f-42c2730c2047"
         ],
         "settings": {
           "announcement_center": true,
