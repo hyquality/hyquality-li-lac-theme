@@ -143,17 +143,9 @@
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
-    },
-    "sub": {
-      "type": "product-full-width",
-      "disabled": true,
-      "settings": {
-        "max_width": true
-      }
     }
   },
   "order": [
-    "main",
-    "sub"
+    "main"
   ]
 }
