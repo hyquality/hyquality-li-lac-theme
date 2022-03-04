@@ -4391,13 +4391,13 @@ lazySizesConfig.expFactor = 4;
       clearTimeout(searchTimeout);
       searchTimeout = setTimeout(
         function () {
-          predictQuery(q);
+          predictQuery(q, input);
         }.bind(this),
         500
       );
     }
   
-    function predictQuery(q) {
+    function predictQuery(q, input) {
       if (isLoading) {
         return;
       }
@@ -4466,6 +4466,7 @@ lazySizesConfig.expFactor = 4;
         cache.results.innerHTML = output;
   
         cache.wrapper.classList.remove('hide');
+        input.attributes['aria-expanded'] = true;
       });
     }
   
