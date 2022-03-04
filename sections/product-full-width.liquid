@@ -37,7 +37,7 @@
           </div>
         {%- when 'description' -%}
           <div class="product-block{% if block.settings.is_tab %} product-block--tab{% endif %}" {{ block.shopify_attributes }}>
-            {%- render 'product-description', id: block.id, product: product, is_tab: block.settings.is_tab -%}
+            {%- render 'product-description', id: block.id, product: product, is_tab: block.settings.is_tab, isModal: isModal -%}
           </div>
         {%- when 'share' -%}
           <div class="product-block" {{ block.shopify_attributes }}>
