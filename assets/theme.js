@@ -3863,7 +3863,7 @@ lazySizesConfig.expFactor = 4;
         var parent = el.parentNode;
         if (parent.classList.contains(classes.hasDropdownClass)) {
           parent.classList.add(classes.dropdownActive);
-          parnet.setAttribute('aria-expanded', true);
+          parent.setAttribute('aria-expanded', true);
           hasActiveDropdown = true;
         }
   
@@ -3884,7 +3884,7 @@ lazySizesConfig.expFactor = 4;
         var parent = el.parentNode;
         if (parent.classList.contains(classes.hasSubDropdownClass) || skipCheck) {
           parent.classList.add(classes.dropdownActive);
-          parnet.setAttribute('aria-expanded', true);
+          parent.setAttribute('aria-expanded', true);
           hasActiveSubDropdown = true;
         }
       }
