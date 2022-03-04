@@ -4190,7 +4190,7 @@ lazySizesConfig.expFactor = 4;
       if (!cache.wrapper) {
         return;
       }
-  
+
       cache.topSearched = document.querySelector(selectors.topSearched);
       if (cache.topSearched) {
         config.topSearched = true;
@@ -4466,6 +4466,7 @@ lazySizesConfig.expFactor = 4;
         cache.results.innerHTML = output;
   
         cache.wrapper.classList.remove('hide');
+        input.attributes['aria-expanded'] = true;
       });
     }
   
