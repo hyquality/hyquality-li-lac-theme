@@ -162,7 +162,7 @@
                     </div>
                   {%- when 'description' -%}
                     <div class="product-block{% if block.settings.is_tab %} product-block--tab{% endif %}" {{ block.shopify_attributes }}>
-                      {%- render 'product-description', id: block.id, product: product, is_tab: block.settings.is_tab, isModal: isModal -%}
+                      {%- render 'product-description', id: block.id, product: product, is_tab: block.settings.is_tab -%}
                     </div>
                   {%- when 'price' -%}
                     <div class="product-block product-block--price" {{ block.shopify_attributes }}>
