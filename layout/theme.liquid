@@ -7,7 +7,7 @@
   <meta name="theme-color" content="{{ settings.color_button }}">
   <link rel="canonical" href="{{ canonical_url }}">
   <link rel="preload" as="style" href="{{ 'theme.css' | asset_url }}">
-  <link rel="preload" as="script" href="{{ 'theme.min.js' | asset_url }}">
+  <link rel="preload" as="script" href="{{ 'theme.js' | asset_url }}">
   <link rel="preload" as="script" href="{{ 'hyquality.js' | asset_url }}">
   <link rel="preconnect" href="https://cdn.shopify.com">
   <link rel="preconnect" href="https://fonts.shopifycdn.com">
@@ -96,7 +96,7 @@
   {{ content_for_header }}
 
   <script src="{{ 'vendor-scripts-v1.js' | asset_url | split: '?' | first }}" defer="defer"></script>
-  <script src="{{ 'theme.min.js' | asset_url }}" defer="defer"></script>
+  <script src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
   <script src="{{ 'hyquality.js' | asset_url }}" defer="defer"></script>
 
   {%- if request.page_type contains 'customers/' -%}
