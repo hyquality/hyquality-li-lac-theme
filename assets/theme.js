@@ -4223,7 +4223,7 @@ lazySizesConfig.expFactor = 4;
     }
   
     function initForm(form) {
-      form.setAttribute('autocomplete', 'off');
+      //form.setAttribute('autocomplete', 'off');
       form.on('submit' + config.namespace, submitSearch);
   
       var input = form.querySelector(selectors.input);
