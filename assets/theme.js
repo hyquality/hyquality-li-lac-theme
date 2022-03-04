@@ -4466,7 +4466,6 @@ lazySizesConfig.expFactor = 4;
         cache.results.innerHTML = output;
   
         cache.wrapper.classList.remove('hide');
-        input.attributes['aria-expanded'] = true;
       });
     }
   
