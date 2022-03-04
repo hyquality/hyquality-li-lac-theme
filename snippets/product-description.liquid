@@ -10,7 +10,11 @@
   {%- render 'tab', id: id, title: title, content: description -%}
 {%- else -%}
   <div class="rte">
-    <h2 class="h3 product-desc">Product Description</h2>
+    {% if template == 'product.ajax' %}
+      <h3 class="h4 product-desc">Product Description</h3>
+    {% else %}
+      <h2 class="h3 product-desc">Product Description</h2>
+    {% endif %}
     {{ description }}
   </div>
 {%- endif -%}
