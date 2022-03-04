@@ -1,3 +1,10 @@
+{%-liquid
+  assign isModal = false
+  if template == 'product.modal'
+    assign isModal = true
+  endif
+-%}
+
 {%- if section.blocks.size > 0 -%}
   <div class="page-width{% if section.settings.max_width %} page-width--narrow{% endif %}">
     {%- for block in section.blocks -%}
