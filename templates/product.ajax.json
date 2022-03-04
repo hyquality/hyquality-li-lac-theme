@@ -150,44 +150,10 @@
       "settings": {
         "max_width": true
       }
-    },
-    "recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "product_recommendations_heading": "You may also like"
-      }
-    },
-    "more-products-vendor": {
-      "type": "more-products-vendor",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "more-products-collection": {
-      "type": "more-products-collection",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "recently-viewed": {
-      "type": "recently-viewed",
-      "settings": {
-      }
-    },
-    "collection-return": {
-      "type": "collection-return",
-      "settings": {
-        "color_scheme": "2"
-      }
     }
   },
   "order": [
     "main",
-    "sub",
-    "recommendations",
-    "more-products-vendor",
-    "more-products-collection",
-    "recently-viewed",
-    "collection-return"
+    "sub"
   ]
 }
