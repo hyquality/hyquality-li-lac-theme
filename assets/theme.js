@@ -4242,6 +4242,10 @@ lazySizesConfig.expFactor = 4;
       } else {
         cache.wrapper.classList.add('hide');
       }
+
+      document.querySelectorAll(selectors.form + ' ' + selectors.input).forEach(input => {
+        input.attributes['aria-expanded'] = false;
+      });
     }
   
     function close(evt) {
