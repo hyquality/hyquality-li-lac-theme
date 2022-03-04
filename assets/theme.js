@@ -3895,6 +3895,7 @@ lazySizesConfig.expFactor = 4;
       function closeSecondLevelDropdown() {
         document.querySelectorAll(selectors.navItems).forEach(el => {
           el.classList.remove(classes.dropdownActive)
+          el.setAttribute('aria-expanded', false);
         });
       }
   
