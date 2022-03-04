@@ -4288,6 +4288,10 @@ lazySizesConfig.expFactor = 4;
         form.classList.remove('is-active');
       });
   
+      document.querySelectorAll(selectors.form + ' ' + selectors.input).forEach(input => {
+        input.setAttribute('aria-expanded', false);
+      });
+
       window.off('click' + config.namespace);
     }
   
