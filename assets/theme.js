@@ -4244,7 +4244,7 @@ lazySizesConfig.expFactor = 4;
       }
 
       document.querySelectorAll(selectors.form + ' ' + selectors.input).forEach(input => {
-        input.attributes['aria-expanded'] = false;
+        input.setAttribute('aria-expanded', false);
       });
     }
   
@@ -4470,7 +4470,7 @@ lazySizesConfig.expFactor = 4;
         cache.results.innerHTML = output;
   
         cache.wrapper.classList.remove('hide');
-        input.attributes['aria-expanded'] = true;
+        input.setAttribute('aria-expanded', true);
       });
     }
   
