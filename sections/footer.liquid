@@ -30,7 +30,7 @@
   {%- endif -%}
   <div id="FooterMenus" class="footer__section footer__section--menus">
     <div class="page-width">
-      <div class="footer__blocks">
+      <nav aria-label="Resource links" class="footer__blocks">
         {%- for block in section.blocks -%}
           <div {{ block.shopify_attributes }} class="footer__block" data-type="{{ block.type }}">
             {%- liquid
@@ -47,7 +47,7 @@
             -%}
           </div>
         {%- endfor -%}
-      </div>
+      </nav>
     </div>
   </div>
 
