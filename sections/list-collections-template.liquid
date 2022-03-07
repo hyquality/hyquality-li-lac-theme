@@ -8,7 +8,7 @@
     </header>
   {%- endif -%}
 
-  <div class="new-grid" data-view="xsmall">
+  <ul class="new-grid" data-view="xsmall">
     {%- if section.settings.display_type == 'all' -%}
       {%- liquid
         case section.settings.sort
@@ -33,7 +33,7 @@
         {%- render 'collection-grid-item', collection: collection -%}
       {%- endfor -%}
     {%- endif -%}
-  </div>
+  </ul>
 
   {%- if paginate.pages > 1 -%}
     {%- render 'pagination', paginate: paginate -%}
