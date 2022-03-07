@@ -24,6 +24,7 @@
 {%- endif -%}
 
 <footer class="site-footer" data-section-id="{{ section.id }}" data-section-type="footer-section">
+  <h2 class="hide">Resources</h2>
   {%- if section.settings.show_copyright -%}
     {%- assign img_url = section.settings.image_fragment_file | img_url: 'master' -%}
     <div class="footer-fragment" style="background-image: url('{{ img_url }}')"></div>
