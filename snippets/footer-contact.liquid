@@ -1,9 +1,9 @@
 <div class="footer__mobile-section">
   <div class="footer__blocks--mobile">
     <div class="footer__block--mobile">
-      <div class="footer__title">
+      <h3 class="footer__title">
         {{ 'layout.footer.contact_title' | t }}
-      </div>
+      </h3>
 
       <ul class="footer__menu footer__menu--underline">
         {%- if block.settings.phone != blank -%}
@@ -34,9 +34,9 @@
     </div>
     {%- if block.settings.enable_social -%}
       <div class="footer__block--mobile">
-        <div class="footer__title">
+        <h3 class="footer__title">
           {{ 'layout.footer.social_title' | t }}
-        </div>
+        </h3>
         <ul class="no-bullets footer__social">
           {%- if settings.social_instagram_link != blank -%}
             <li>
