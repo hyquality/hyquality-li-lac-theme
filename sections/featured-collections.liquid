@@ -10,7 +10,7 @@
             </div>
         {%- endif -%}
 
-        <div class="new-grid" data-view="{{ section.settings.items_per_row }}">
+        <ul class="new-grid" data-view="{{ section.settings.items_per_row }}">
             {%- liquid
                 assign isEmpty = true
                 if section.blocks.size > 0
@@ -31,7 +31,7 @@
                 </div>
             {%- endif -%}
 
-        </div>
+        </ul>
     </div>
         {% if section.settings.show_top_border or section.settings.show_bottom_border %}
     </div>
