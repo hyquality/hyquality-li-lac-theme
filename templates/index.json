@@ -220,7 +220,7 @@
       "type": "hero-video",
       "settings": {
         "full_width": true,
-        "title": "Our Story",
+        "title": "Our Story <hello><\/hello>",
         "title_size": 51,
         "subheading": "Manhattan's Oldest Chocolate House, preserving the heritage and traditions of old-school, hand-crafted chocolate for almost 100 years. Using original recipes and old-world cooking methods from the 1920's, Li-Lac Chocolates are still made by hand in small batches for exceptional quality and superior taste.",
         "link_text": "Learn More",
