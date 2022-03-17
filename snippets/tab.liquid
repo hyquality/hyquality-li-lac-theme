@@ -50,11 +50,13 @@
                          data-widths="[160, 200, 280, 360, 540, 720, 900]"
                          data-aspectratio="{{ preview_image1.aspect_ratio }}"
                          data-sizes="auto"
+                         aria-label="{{ alt_content1 | escape }}"
                          alt="{{ alt_content1 | escape }}">
                     <noscript>
                         <img class="grid-product__image lazyloaded"
                              src="{{ preview_image1 | img_url: 'master' }}"
-                             alt="{{ preview_image1.value.alt | escape }}">
+                             aria-label="{{ alt_content1 | escape }}"
+                             alt="{{ alt_content1 | escape }}">
                     </noscript>
                 {% endif %}
           		
@@ -66,11 +68,13 @@
                          data-widths="[160, 200, 280, 360, 540, 720, 900]"
                          data-aspectratio="{{ preview_image2.aspect_ratio }}"
                          data-sizes="auto"
+                         aria-label="{{ alt_content2 | escape }}"
                          alt="{{ alt_content2 | escape }}">
                     <noscript>
                         <img class="grid-product__image lazyloaded"
                              src="{{ preview_image2 | img_url: 'master' }}"
-                             alt="{{ preview_image2.alt | escape }}">
+                             aria-label="{{ alt_content2 | escape }}"
+                             alt="{{ alt_content2 | escape }}">
                     </noscript>
                 {% endif %}
           		
@@ -82,11 +86,13 @@
                          data-widths="[160, 200, 280, 360, 540, 720, 900]"
                          data-aspectratio="{{ preview_image3.aspect_ratio }}"
                          data-sizes="auto"
+                         aria-label="{{ alt_content3 | escape }}"
                          alt="{{ alt_content3 | escape }}">
                     <noscript>
                         <img class="grid-product__image lazyloaded"
                              src="{{ preview_image3 | img_url: 'master' }}"
-                             alt="{{ preview_image3.alt | escape }}">
+                             aria-label="{{ alt_content3 | escape }}"
+                             alt="{{ alt_content3 | escape }}">
                     </noscript>
                 {% endif %}
 
