@@ -34,8 +34,8 @@
           		{% assign img_url3 = preview_image3 | img_url: 'master' %}
 
                 {% assign alt_content_key1 = stripped_content1 | replace: 'info', 'info_text' %}
-                {% assign alt_content_key2 = stripped_content2 | replace: 'info', 'info_text' %}
-                {% assign alt_content_key3 = stripped_content3 | replace: 'info', 'info_text' %}
+                {% assign alt_content_key2 = stripped_content_app2 | replace: 'info', 'info_text' %}
+                {% assign alt_content_key3 = stripped_content_app3 | replace: 'info', 'info_text' %}
 
                 {% assign alt_content1 = product.metafields.my_fields[alt_content_key1] %}
                 {% assign alt_content2 = product.metafields.my_fields[alt_content_key2] %}
