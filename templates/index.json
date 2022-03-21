@@ -20,10 +20,30 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "0d2d4e54-3095-4e8f-8a77-97df5d0ec5ad": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 70,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "shopify:\/\/collections\/passover-chocolates",
+            "link_text_2": "",
+            "color_accent": "#fff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/LiLac_070318_Matzoh.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/LiLac_070318_Matzoh.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
-        "92fd64b1-332c-4d40-a54c-af65f826b7a1"
+        "92fd64b1-332c-4d40-a54c-af65f826b7a1",
+        "0d2d4e54-3095-4e8f-8a77-97df5d0ec5ad"
       ],
       "settings": {
         "full_width": true,
