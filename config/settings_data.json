@@ -183,6 +183,7 @@
           },
           "c6667f80-08e6-4b1c-bb7f-42c2730c2047": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "richtext": "",
               "richtext_mobile": ""
