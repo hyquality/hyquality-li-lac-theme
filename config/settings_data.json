@@ -137,7 +137,7 @@
           "popup_seconds": 10,
           "popup_days": 5,
           "popup_title": "Free Gourmet Truffles",
-          "popup_text": "<p>Sign up for our e-newsletter today and we'll add a FREE 4-pc. Truffle Favor Box to your first order. <\/p>",
+          "popup_text": "<p>Sign up for our e-newsletter today and we'll email you a link to add a FREE 4-pc. Truffle Favor Box to your first order. <\/p>",
           "color_scheme": "1",
           "enable_newsletter": true,
           "button_label": "",
