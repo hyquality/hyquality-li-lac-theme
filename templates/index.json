@@ -10,19 +10,20 @@
             "title": "",
             "title_size": 70,
             "subheading": "",
-            "link": "shopify:\/\/collections\/easter",
+            "link": "shopify:\/\/collections\/mothers-day",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/LiLac_070318_EasterBunnies.jpg",
+            "image": "shopify:\/\/shop_images\/LiLac_070318_Mothers_V2.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
         },
         "0d2d4e54-3095-4e8f-8a77-97df5d0ec5ad": {
           "type": "hero",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
