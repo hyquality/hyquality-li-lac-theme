@@ -9,7 +9,7 @@
       "type": "map",
       "settings": {
         "map_title": "West Village",
-        "address": "<p><strong>75 Greenwich Avenue <br\/>New York, NY 10014 <\/strong><\/p><p><strong>(347) 609-0942<\/strong><\/p><p>Regular Hours:<br\/>Monday-Thursday 11:00 a.m. - 7:00 p.m<br\/>Friday - Saturday 11:00 a.m. - 7:30 p.m<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
+        "address": "<p><strong>75 Greenwich Avenue <br\/>New York, NY 10014 <\/strong><\/p><p><strong>(347) 609-0942<\/strong><\/p><p>Regular Hours:<br\/>Monday-Thursday 11:00 a.m. - 7:00 p.m<br\/>Friday - Saturday 11:00 a.m. - 7:30 p.m<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p><p>July 4th hours: 12:00 p.m. - 6:00 pm<\/p>",
         "map_address": "75 Greenwich Avenue, New York, NY 10014",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
@@ -83,6 +83,7 @@
       "blocks": {
         "1633012792f5f51982-1": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<p>&nbsp;<\/p>",
             "width": "50%",
@@ -102,7 +103,7 @@
       "type": "map",
       "settings": {
         "map_title": "Chelsea Market",
-        "address": "<p><strong>75 9th Avenue (at 15th St.)<br\/>New York, NY 10011<\/strong><\/p><p><strong>(347) 991-8878<\/strong><\/p><p>Regular Hours:<br\/>Monday - Friday  11:00 a.m. - 7:00 p.m.<br\/>Saturday  11:00 a.m. - 7:00 p.m.<br\/>Sunday  11:00 a.m. - 7:00 p.m.<\/p>",
+        "address": "<p><strong>75 9th Avenue (at 15th St.)<br\/>New York, NY 10011<\/strong><\/p><p><strong>(347) 991-8878<\/strong><\/p><p>Regular Hours:<br\/>Monday - Thursday  11:00 a.m. - 7:00 p.m.<br\/>Friday & Saturday  11:00 a.m. - 8:00 p.m.<br\/>Sunday  11:00 a.m. - 8:00 p.m.<\/p>",
         "map_address": "75 9th Avenue, New York, NY 10011",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
@@ -133,7 +134,7 @@
       "type": "map",
       "settings": {
         "map_title": "Hudson Yards",
-        "address": "<p><strong>500 W. 33rd Street (at 10th Ave.)<br\/>4th Floor<br\/>New York, NY 10001<\/strong><\/p><p><strong>(347) 493-0030<\/strong><\/p><p>Regular Hours:<br\/>Monday - Friday 11:00 a.m. - 8:00 p.m.<br\/>Saturday  11:00 a.m. - 8:00 p.m.<br\/>Sunday  11:00 a.m. - 7:00 p.m.<\/p>",
+        "address": "<p><strong>500 W. 33rd Street (at 10th Ave.)<br\/>Level 4<br\/>New York, NY 10001<\/strong><\/p><p><strong>(347) 493-0030<\/strong><\/p><p>Regular Hours:<br\/>Monday - Friday 10:00 a.m. - 9:00 p.m.<br\/>Saturday  10:00 a.m. - 9:00 p.m.<br\/>Sunday  11:00 a.m. - 7:00 p.m.<\/p>",
         "map_address": "500 W. 33rd Street, New York, NY 10001",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
