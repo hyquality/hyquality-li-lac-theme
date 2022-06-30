@@ -40,7 +40,7 @@
       "type": "map",
       "settings": {
         "map_title": "Bleecker Street",
-        "address": "<p><strong>162 Bleecker Street<br\/>New York, NY 10012<\/strong><\/p><p><strong>(347) 609-0941<\/strong><\/p><p>Regular Hours:<br\/>Monday-Friday 11:00 a.m. - 6:00 p.m.<br\/>Saturday 11:00 a.m. - 6:00 p.m.<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p><p><\/p><p>July 4th Hours: Closed<\/p>",
+        "address": "<p><strong>162 Bleecker Street<br\/>New York, NY 10012<\/strong><\/p><p><strong>(347) 609-0941<\/strong><\/p><p>Regular Hours:<br\/>Monday-Friday 11:00 a.m. - 6:00 p.m.<br\/>Saturday 11:00 a.m. - 6:00 p.m.<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p><p><\/p><p>July 4th hours: Closed<\/p>",
         "map_address": "162 Bleecker Street, New York, NY 10012",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
@@ -71,7 +71,7 @@
       "type": "map",
       "settings": {
         "map_title": "Grand Central Market",
-        "address": "<p><strong>43rd Street & Lexington Avenue<br\/>New York, NY 10017<\/strong><\/p><p><strong>(347) 491-4977<\/strong><\/p><p>Regular Hours:<br\/>Monday-Friday 8:00 a.m - 7:00 p.m.<br\/>Saturday 11:00 a.m. - 5:00 p.m.<br\/>Sunday 11:00 a.m. - 5:00 p.m.<\/p>",
+        "address": "<p><strong>43rd Street & Lexington Avenue<br\/>New York, NY 10017<\/strong><\/p><p><strong>(347) 491-4977<\/strong><\/p><p>Regular Hours:<br\/>Monday-Friday 8:00 a.m - 7:00 p.m.<br\/>Saturday 11:00 a.m. - 5:00 p.m.<br\/>Sunday 11:00 a.m. - 5:00 p.m.<\/p><p><\/p><p>July 4th hours:  Closed<\/p>",
         "map_address": "43rd Street & Lexington Avenue, New York, NY 10017",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
