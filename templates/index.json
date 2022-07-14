@@ -384,7 +384,7 @@
       "settings": {
         "subtitle": "",
         "title": "Same Day Delivery",
-        "text": "<p>For same day delivery within Manhattan, shop through one of our NYC delivery partners for fast, reliable service.<\/p><p><\/p><p><a href=\"http:\/\/menus.fyi\/2755934\" target=\"_blank\" title=\"GrubHub\">GrubHub<\/a> • <a href=\"https:\/\/www.mercato.com\/shop\/li-lac-chocolates-greenwich-avenue\" target=\"_blank\" title=\"Mercato\">Mercato<\/a> • <a href=\"https:\/\/www.ubereats.com\/search?q=li-lac\" target=\"_blank\" title=\"Uber Eats\">Uber Eats<\/a> • <a href=\"https:\/\/www.doordash.com\/en-US\" target=\"_blank\" title=\"DoorDash\">DoorDash<\/a><\/p>",
+        "text": "<p>For same day delivery within Manhattan, shop through one of our NYC delivery partners for fast, reliable service.<\/p><p><\/p><p><a href=\"https:\/\/lilacchocolates.dine.online\/locations?fulfillment=pickup\" target=\"_blank\" title=\"https:\/\/lilacchocolates.dine.online\/locations?fulfillment=pickup\">GrubHub<\/a> • <a href=\"https:\/\/www.mercato.com\/shop\/li-lac-chocolates-greenwich-avenue\" target=\"_blank\" title=\"Mercato\">Mercato<\/a> • <a href=\"https:\/\/www.ubereats.com\/search?q=li-lac\" target=\"_blank\" title=\"Uber Eats\">Uber Eats<\/a> • <a href=\"https:\/\/www.doordash.com\/en-US\" target=\"_blank\" title=\"DoorDash\">DoorDash<\/a><\/p>",
         "button_label": "Learn More",
         "button_link": "https:\/\/li-lac-chocolates.myshopify.com\/pages\/shipping-information\/#same-day",
         "image": "shopify:\/\/shop_images\/SameDayDelivery.jpg",
