@@ -334,7 +334,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured Products",
-        "home_featured_products": "birthday-chocolates",
+        "home_featured_products": "halloween",
         "count": 5,
         "show_collection_description": true,
         "mobile_scrollable": true,
