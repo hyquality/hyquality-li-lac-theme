@@ -390,6 +390,9 @@
         "discount_has_been_applied": "Promotion has been applied",
         "discount_has_been_removed": "Promotion has been removed",
         "discount_already_applied": "A promotion has been applied to this order. You can't add another promotion."
+      },
+      "shipping": {
+        "local_delivery": "Local Delivery (1-2 Days)"
       }
     }
   }
