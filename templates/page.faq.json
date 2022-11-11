@@ -23,6 +23,13 @@
             "text": "<p>Li-Lac Chocolates should be stored in a cool, dry room at temperatures between 55-68 degrees, avoiding heat, sunlight, moisture, humidity, and ambient odors. At lower temperatures, chocolate may collect condensation which can accelerate the appearance of fat bloom. At warmer temperatures, chocolate can tend to soften and lose its gloss. Do not refrigerate as this can cause sugar bloom on the surface. If you live in a warm area and do not have air conditioning, you can place chocolate in a refrigerator by wrapping it in a dry kitchen towel to minimize humidity and odor absorption.<\/p>"
           }
         },
+        "5304b35c-d6fb-4d0d-9815-6f43ac6d30be": {
+          "type": "question",
+          "settings": {
+            "title": "Who can I contact about accessibility issues I encountered on this site?",
+            "text": "<p>Li-Lac Chocolates is committed to making its website accessible to all individuals.  Please view our Accessibility Statement<\/p>"
+          }
+        },
         "faq-4": {
           "type": "question",
           "settings": {
@@ -97,6 +104,7 @@
       "block_order": [
         "faq-1",
         "faq-2",
+        "5304b35c-d6fb-4d0d-9815-6f43ac6d30be",
         "faq-4",
         "f447f913-0f02-4694-8082-82c015bef0f7",
         "08885488-a006-433a-9cd0-14a6f3e59aee",
