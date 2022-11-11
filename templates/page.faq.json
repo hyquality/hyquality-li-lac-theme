@@ -27,7 +27,7 @@
           "type": "question",
           "settings": {
             "title": "Who can I contact about accessibility issues I encountered on this site?",
-            "text": "<p>Li-Lac Chocolates is committed to making its website accessible to all individuals.  Please view our Accessibility Statement<\/p>"
+            "text": "<p>Li-Lac Chocolates is committed to making its website accessible to all individuals.  Please view our <a href=\"https:\/\/www.li-lacchocolates.com\/pages\/accessibility-statement\" target=\"_blank\" title=\"https:\/\/www.li-lacchocolates.com\/pages\/accessibility-statement\">Accessibility Statement<\/a><\/p>"
           }
         },
         "faq-4": {
