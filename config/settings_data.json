@@ -177,8 +177,8 @@
           "73030477-1e04-469e-90c1-30d6ebee2078": {
             "type": "announcement",
             "settings": {
-              "richtext": "<p>FedEx on-time delivery guarantees are still suspended. Please allow additional time for packages to arrive. <\/p>",
-              "richtext_mobile": "<p>FedEx on-time delivery guarantees are suspended. Please allow additional time for packages to arrive. <\/p>"
+              "richtext": "<p>Happy Thanksgiving!  Please remember to order early and allow extra time for packages to be delivered during the holidays.<\/p>",
+              "richtext_mobile": "<p>Happy Thanksgiving!<\/p>"
             }
           },
           "c6667f80-08e6-4b1c-bb7f-42c2730c2047": {
