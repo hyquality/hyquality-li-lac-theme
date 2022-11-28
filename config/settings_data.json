@@ -178,7 +178,7 @@
             "type": "announcement",
             "settings": {
               "richtext": "<p>Happy Holidays!  Please order early and allow extra time for packages to be delivered.<\/p>",
-              "richtext_mobile": "<p>Happy Thanksgiving!<\/p>"
+              "richtext_mobile": "<p>Happy Holidays!<\/p>"
             }
           },
           "c6667f80-08e6-4b1c-bb7f-42c2730c2047": {
