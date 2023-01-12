@@ -9,7 +9,7 @@
       "type": "map",
       "settings": {
         "map_title": "West Village",
-        "address": "<p><strong>75 Greenwich Avenue <br\/>New York, NY 10014 <\/strong><\/p><p><strong>(347) 609-0942<\/strong><\/p><p>Regular Hours:<br\/>Monday-Thursday 11:00 a.m. - 7:00 p.m<br\/>Friday - Saturday 11:00 a.m. - 7:30 p.m<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p><p>July 4th hours: 12:00 p.m. - 6:00 pm<\/p>",
+        "address": "<p><strong>75 Greenwich Avenue <br\/>New York, NY 10014 <\/strong><\/p><p><strong>(347) 609-0942<\/strong><\/p><p>Regular Hours:<br\/>Monday-Thursday 11:00 a.m. - 7:00 p.m<br\/>Friday - Saturday 11:00 a.m. - 7:30 p.m<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p>",
         "map_address": "75 Greenwich Avenue, New York, NY 10014",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
