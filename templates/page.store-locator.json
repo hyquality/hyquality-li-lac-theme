@@ -103,7 +103,7 @@
       "type": "map",
       "settings": {
         "map_title": "Chelsea Market",
-        "address": "<p><strong>75 9th Avenue (at 15th St.)<br\/>New York, NY 10011<\/strong><\/p><p><strong>(347) 991-8878<\/strong><\/p><p>Regular Hours:<br\/>Monday - Thursday  10:00 a.m. - 8:00 p.m.<br\/>Friday & Saturday  11:00 a.m. - 8:00 p.m.<br\/>Sunday  11:00 a.m. - 8:00 p.m.<\/p>",
+        "address": "<p><strong>75 9th Avenue (at 15th St.)<br\/>New York, NY 10011<\/strong><\/p><p><strong>(347) 991-8878<\/strong><\/p><p>Regular Hours:<br\/>Monday - Saturday 10:00 a.m. - 9:00 p.m.<br\/>Sunday  10:00 a.m. - 8:00 p.m.<\/p>",
         "map_address": "75 9th Avenue, New York, NY 10011",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
