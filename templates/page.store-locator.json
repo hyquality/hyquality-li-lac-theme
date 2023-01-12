@@ -40,7 +40,7 @@
       "type": "map",
       "settings": {
         "map_title": "Bleecker Street",
-        "address": "<p><strong>162 Bleecker Street<br\/>New York, NY 10012<\/strong><\/p><p><strong>(347) 609-0941<\/strong><\/p><p>Regular Hours:<br\/>Monday-Friday 11:00 a.m. - 7:00p.m.<br\/>Saturday 11:00 a.m. - 7:00 p.m.<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p><p><\/p>",
+        "address": "<p><strong>162 Bleecker Street<br\/>New York, NY 10012<\/strong><\/p><p><strong>(347) 609-0941<\/strong><\/p><p>Regular Hours:<br\/>Monday-Saturday 11:00 a.m. - 7:00p.m.<br\/>Sunday 11:00 a.m. - 6:00 p.m<\/p><p><\/p>",
         "map_address": "162 Bleecker Street, New York, NY 10012",
         "api_key": "AIzaSyA6fwBGBf49drt9y-VFO1n8bTNBFJHgKI0",
         "show_button": true,
