@@ -231,7 +231,7 @@
           "fe6a67a0-686e-435b-a946-f28802053c97": {
             "type": "contact",
             "settings": {
-              "phone": "+1 212 924 2280",
+              "phone": "",
               "contact": "contact-us",
               "chat": "",
               "enable_social": true
