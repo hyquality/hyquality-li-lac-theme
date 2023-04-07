@@ -288,7 +288,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "6334702640933891749": {
+        "type": "shopify:\/\/apps\/textbox-textfield-by-textify\/blocks\/app-embed\/b5626f69-87af-4a23-ada4-1674452f85d0",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Classic": {
