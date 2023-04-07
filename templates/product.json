@@ -71,6 +71,12 @@
             "color_swatches": false
           }
         },
+        "32f77b78-9d0a-46ea-a6a1-11fc37cb0260": {
+          "type": "shopify:\/\/apps\/textbox-textfield-by-textify\/blocks\/app-block\/b5626f69-87af-4a23-ada4-1674452f85d0",
+          "settings": {
+            "featured_product": "{{product}}"
+          }
+        },
         "04e13c0b-f3bf-46a8-b997-1fffc7b81311": {
           "type": "quantity_selector",
           "settings": {
@@ -124,6 +130,7 @@
         "sales_point3",
         "sales_point4",
         "variant_picker",
+        "32f77b78-9d0a-46ea-a6a1-11fc37cb0260",
         "04e13c0b-f3bf-46a8-b997-1fffc7b81311",
         "buy_buttons",
         "4f0226c7-14b3-4d16-8e2a-d7bc05cb4486",
