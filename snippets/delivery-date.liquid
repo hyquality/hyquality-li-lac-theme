@@ -106,7 +106,7 @@
   <script>
   	var store_timezone_offset = "{{ 'now' | date: '%Z' }}";
   </script>
-  {{ 'https://li-lac-chocolates.myshopify.com/apps/ddp-zestard/js/snippets.js' | script_tag }}  {{ 'https://li-lac-chocolates.myshopify.com/apps/ddp-zestard/css/zestard-deliverydatepro-snippet.css' | stylesheet_tag }}{% endif %}
+  {{ 'https://li-lac-chocolates.myshopify.com/apps/ddp-zestard/js/cartsnippets.js' | script_tag }}  {{ 'https://li-lac-chocolates.myshopify.com/apps/ddp-zestard/css/zestard-deliverydatepro-snippet.css' | stylesheet_tag }}{% endif %}
 {% else %}
 {% assign flag = 0 %}
       {% for item in cart.items %}
