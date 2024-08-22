@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "163129050352bbb897": {
@@ -10,7 +19,7 @@
             "title": "",
             "title_size": 70,
             "subheading": "",
-            "link": "shopify:\/\/collections\/thanksgiving",
+            "link": "shopify:\/\/collections\/thanksgiving-candy",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -334,7 +343,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured Products",
-        "home_featured_products": "thanksgiving",
+        "home_featured_products": "thanksgiving-candy",
         "count": 5,
         "show_collection_description": true,
         "mobile_scrollable": true,
