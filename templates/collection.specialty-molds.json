@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-header": {
@@ -14,129 +23,129 @@
         "16345643422d4aa57d-0": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Dalmatian.jpg",
+            "image": "shopify://shop_images/Chocolate-Dalmatian.jpg",
             "logo-label": "Chocolate Animals",
-            "link": "shopify:\/\/collections\/chocolate-animals"
+            "link": "shopify://collections/chocolate-animals"
           }
         },
         "16345643422d4aa57d-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Comedy-Tragedy.jpg",
+            "image": "shopify://shop_images/Comedy-Tragedy.jpg",
             "logo-label": "Chocolate Art",
-            "link": "shopify:\/\/collections\/chocolate-art"
+            "link": "shopify://collections/chocolate-art"
           }
         },
         "16345643422d4aa57d-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Gift-Basket-New-Baby.jpg",
+            "image": "shopify://shop_images/Chocolate-Gift-Basket-New-Baby.jpg",
             "logo-label": "Chocolate Baby Gifts",
-            "link": "shopify:\/\/collections\/chocolate-baby-gifts"
+            "link": "shopify://collections/chocolate-baby-gifts"
           }
         },
         "16345643422d4aa57d-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Specialty-Molds-Lipstick.jpg",
+            "image": "shopify://shop_images/Chocolate-Specialty-Molds-Lipstick.jpg",
             "logo-label": "Chocolate Beauty Tools",
-            "link": "shopify:\/\/collections\/chocolate-beauty-tools"
+            "link": "shopify://collections/chocolate-beauty-tools"
           }
         },
         "16345643422d4aa57d-4": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Townhouse-Small.jpg",
+            "image": "shopify://shop_images/Chocolate-Townhouse-Small.jpg",
             "logo-label": "Chocolate Buildings",
-            "link": "shopify:\/\/collections\/chocolate-buildings"
+            "link": "shopify://collections/chocolate-buildings-1"
           }
         },
         "16345643422d4aa57d-5": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Monster-Truck.jpg",
+            "image": "shopify://shop_images/Chocolate-Monster-Truck.jpg",
             "logo-label": "Chocolate Cars",
-            "link": "shopify:\/\/collections\/chocolate-cars"
+            "link": "shopify://collections/chocolate-cars"
           }
         },
         "12359683-2fe8-4109-ab6f-55aa2c6def42": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Specialty-Molds-Champagne-Bottle-Lifesize_4a6fda26-38dc-4bd2-b940-be90a72a0bba.jpg",
+            "image": "shopify://shop_images/Specialty-Molds-Champagne-Bottle-Lifesize_4a6fda26-38dc-4bd2-b940-be90a72a0bba.jpg",
             "logo-label": "Celebration Gifts",
-            "link": "shopify:\/\/collections\/celebration-gifts"
+            "link": "shopify://collections/celebration-gifts"
           }
         },
         "77ab4dbf-ecee-4d26-a294-b286bef8f89b": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Tyrannosaurus-Rex.jpg",
+            "image": "shopify://shop_images/Chocolate-Tyrannosaurus-Rex.jpg",
             "logo-label": "Dinosaurs",
-            "link": "shopify:\/\/collections\/dinosaurs"
+            "link": "shopify://collections/dinosaurs"
           }
         },
         "85306192-7080-4231-aa96-f3daa9253a4f": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Wisdom-Tooth.jpg",
+            "image": "shopify://shop_images/Chocolate-Wisdom-Tooth.jpg",
             "logo-label": "Chocolate Doctor & Dentist",
-            "link": "shopify:\/\/collections\/chocolate-doctor-dentist"
+            "link": "shopify://collections/chocolate-doctor-dentist"
           }
         },
         "ab711797-db0b-4c22-9416-8232e237871c": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Scottie-Dog.jpg",
+            "image": "shopify://shop_images/Chocolate-Scottie-Dog.jpg",
             "logo-label": "Chocolate Dogs",
-            "link": "shopify:\/\/collections\/chocolate-dogs"
+            "link": "shopify://collections/chocolate-dogs"
           }
         },
         "0751a6d5-c00d-401a-ac42-5d52f48dc61a": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-High-Heels.jpg",
+            "image": "shopify://shop_images/Chocolate-High-Heels.jpg",
             "logo-label": "Chocolate Fashion",
-            "link": "shopify:\/\/collections\/chocolate-fashion"
+            "link": "shopify://collections/chocolate-fashion"
           }
         },
         "abb83253-d900-4b1c-84fe-ca4a787fcdfe": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FireTruck.jpg",
+            "image": "shopify://shop_images/FireTruck.jpg",
             "logo-label": "Chocolate Fire & Police",
-            "link": "shopify:\/\/collections\/chocolate-fire-police"
+            "link": "shopify://collections/chocolate-fire-police"
           }
         },
         "f2409b55-73fd-406b-950e-8af7963753a4": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate_Dolphin.jpg",
+            "image": "shopify://shop_images/Chocolate_Dolphin.jpg",
             "logo-label": "Chocolate Fish",
-            "link": "shopify:\/\/collections\/chocolate-fish"
+            "link": "shopify://collections/chocolate-fish"
           }
         },
         "e3c6190c-0fae-43dc-8fc2-beca9f290545": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Specialty-Molds-Pizza-Slice.jpg",
+            "image": "shopify://shop_images/Chocolate-Specialty-Molds-Pizza-Slice.jpg",
             "logo-label": "Chocolate Food",
-            "link": "shopify:\/\/collections\/chocolate-food"
+            "link": "shopify://collections/chocolate-food"
           }
         },
         "ae502179-0c2f-4396-8a97-4e653d50d520": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ChessSet.jpg",
+            "image": "shopify://shop_images/ChessSet.jpg",
             "logo-label": "Chocolate Games & Hobbies",
-            "link": "shopify:\/\/collections\/chocolate-games-hobbies"
+            "link": "shopify://collections/chocolate-games-hobbies"
           }
         },
         "e662dec6-e35f-4df9-bf8a-5e1eeee8c2c2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Letters_482x362_thumbnail.jpg",
+            "image": "shopify://shop_images/Letters_482x362_thumbnail.jpg",
             "logo-label": "Chocolate Letters & Numbers",
-            "link": "shopify:\/\/collections\/chocolate-letters-numbers"
+            "link": "shopify://collections/chocolate-letters-numbers"
           }
         }
       },
@@ -169,81 +178,81 @@
         "163456804514f1ee36-0": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Statue_of_Liberty_New_Box_21_Full_Adobergb-482x362.jpg",
+            "image": "shopify://shop_images/Statue_of_Liberty_New_Box_21_Full_Adobergb-482x362.jpg",
             "logo-label": "NYC Chocolate Gifts",
-            "link": "shopify:\/\/collections\/nyc-chocolate-gifts"
+            "link": "shopify://collections/nyc-chocolate-gifts"
           }
         },
         "163456804514f1ee36-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Grand_Chocolate_Piano_thumbnail.jpg",
+            "image": "shopify://shop_images/Grand_Chocolate_Piano_thumbnail.jpg",
             "logo-label": "Chocolate Music",
-            "link": "shopify:\/\/collections\/chocolate-music"
+            "link": "shopify://collections/chocolate-music"
           }
         },
         "163456804514f1ee36-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-American-Flag-482x362.jpg",
+            "image": "shopify://shop_images/Chocolate-American-Flag-482x362.jpg",
             "logo-label": "Chocolate Politics",
-            "link": "shopify:\/\/collections\/chocolate-politics"
+            "link": "shopify://collections/chocolate-politics"
           }
         },
         "163456804514f1ee36-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate_Cross.jpg",
+            "image": "shopify://shop_images/Chocolate_Cross.jpg",
             "logo-label": "Religious Chocolates",
-            "link": "shopify:\/\/collections\/religious-chocolates"
+            "link": "shopify://collections/religious-chocolates"
           }
         },
         "163456804514f1ee36-4": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GetWellBar_thumbnail.jpg",
+            "image": "shopify://shop_images/GetWellBar_thumbnail.jpg",
             "logo-label": "Say it in Chocolate",
-            "link": "shopify:\/\/collections\/say-it-in-chocolate"
+            "link": "shopify://collections/say-it-in-chocolate"
           }
         },
         "163456804514f1ee36-5": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Breast-Cancer-Awareness-Ribbon.jpg",
+            "image": "shopify://shop_images/Chocolate-Breast-Cancer-Awareness-Ribbon.jpg",
             "logo-label": "Social Awareness Chocolate",
-            "link": "shopify:\/\/collections\/social-awareness-chocolate"
+            "link": "shopify://collections/social-awareness-chocolate"
           }
         },
         "55c347e8-6e3e-4239-a70b-7a94f367dc84": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Football-Life-Size.jpg",
+            "image": "shopify://shop_images/Chocolate-Football-Life-Size.jpg",
             "logo-label": "Sports Icons",
-            "link": "shopify:\/\/collections\/sports-icons"
+            "link": "shopify://collections/sports-icons"
           }
         },
         "e1b4cd67-084a-4dc1-ad25-4cdcee7b9ed8": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Globeweb.jpg",
+            "image": "shopify://shop_images/Globeweb.jpg",
             "logo-label": "Teacher Gifts",
-            "link": "shopify:\/\/collections\/teacher-gifts"
+            "link": "shopify://collections/teacher-gifts"
           }
         },
         "580bd4c4-152d-424e-8528-a63dc39bb5e4": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate-Roatary-Phone.jpg",
+            "image": "shopify://shop_images/Chocolate-Roatary-Phone.jpg",
             "logo-label": "Chocolate Telephones",
-            "link": "shopify:\/\/collections\/chocolate-telephones"
+            "link": "shopify://collections/chocolate-telephones"
           }
         },
         "ff4146df-ecfd-4363-9afe-435a2054f76b": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Train.jpg",
+            "image": "shopify://shop_images/Train.jpg",
             "logo-label": "Chocolate Travel Icons",
-            "link": "shopify:\/\/collections\/chocolate-travel-icons"
+            "link": "shopify://collections/chocolate-travel-icons"
           }
         }
       },
@@ -269,8 +278,7 @@
       "blocks": {
         "3fc4270b-8912-407d-b07f-c5b1282badee": {
           "type": "collection_description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -285,8 +293,7 @@
     },
     "recently-viewed": {
       "type": "recently-viewed",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
