@@ -46,11 +46,11 @@
                   {% assign sca_price_max = variant.price %}
               {% endif %}
               {% if variant.compare_at_price %}
-                  {% if sca_compare_at_price_min==null or sca_compare_at_price_min >= variant.compare_at_price %}
+                  {% if sca_compare_at_price_min.null or sca_compare_at_price_min >= variant.compare_at_price %}
                       {% assign sca_compare_at_price_min = variant.compare_at_price %}
                       {% assign sca_compare_at_price = variant.compare_at_price %}
                   {% endif %}
-                  {% if sca_compare_at_price_max==null or sca_compare_at_price_max < variant.compare_at_price %}
+                  {% if sca_compare_at_price_max.null or sca_compare_at_price_max < variant.compare_at_price %}
                       {% assign sca_compare_at_price_max = variant.compare_at_price %}
                   {% endif %}
               {% endif %}
@@ -82,4 +82,20 @@
 	{% if sca_product_variantCount > 1 %}
 		{% assign sca_has_only_default_variant = true %}
 	{% endif %}
-{% endif %}
+{% endif %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% if sca_compare_at_price_min==null or sca_compare_at_price_min >= variant.compare_at_price
+    %}"
+  to: "{% if sca_compare_at_price_min.null or sca_compare_at_price_min >= variant.compare_at_price
+    %}"
+  position: 2597..2691
+- from: "{% if sca_compare_at_price_max==null or sca_compare_at_price_max < variant.compare_at_price
+    %}"
+  to: "{% if sca_compare_at_price_max.null or sca_compare_at_price_max < variant.compare_at_price
+    %}"
+  position: 2914..3007
+{%- endcomment -%}
